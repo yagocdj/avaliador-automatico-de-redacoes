@@ -1,0 +1,306 @@
+# ============================================================================
+# TAREFAS DA BANCA EXAMINADORA DIGITAL - ENEM
+# Definição das tarefas de avaliação para cada competência
+# ============================================================================
+
+# TAREFA 1: Avaliar Competência I (Gramática e Norma Culta)
+tarefa_competencia1:
+  description: >
+    CONTEXTO REGULATÓRIO:
+    {manual_competencia1}
+    
+    ---
+    
+    TAREFA DE AVALIAÇÃO:
+    Analise a redação abaixo focando EXCLUSIVAMENTE na Competência I - Demonstrar domínio
+    da modalidade escrita formal da língua portuguesa.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    TEXTOS DE APOIO (contexto para o estudante):
+    {textos_apoio}
+    
+    TEXTO DA REDAÇÃO:
+    {redacao}
+    
+    ---
+    
+    INSTRUÇÕES:
+    1. Identifique TODOS os desvios gramaticais, ortográficos, de pontuação e acentuação
+    2. Classifique cada desvio conforme gravidade (leve, médio, grave)
+    3. Conte o total de desvios por categoria
+    4. Aplique ESTRITAMENTE os critérios do manual acima para determinar o nível
+    5. Atribua UMA ÚNICA nota dentre: 0, 40, 80, 120, 160 ou 200
+    
+    IMPORTANTE: 
+    - Seja rigoroso e objetivo. Siga exatamente os critérios do manual fornecido.
+    - A nota DEVE ser EXATAMENTE um dos seguintes valores: 0, 40, 80, 120, 160 ou 200
+    - Não use valores intermediários. Escolha o valor que melhor representa a avaliação.
+  
+  expected_output: >
+    Formato JSON:
+    {
+      "competencia": 1,
+      "nota": [escolha EXATAMENTE um valor: 0, 40, 80, 120, 160 ou 200],
+      "justificativa": "Explicação detalhada com exemplos dos desvios encontrados",
+      "desvios_encontrados": ["lista de desvios específicos com citações do texto"]
+    }
+  
+  agent: agente_gramatica
+
+# TAREFA 2: Avaliar Competência II (Tema e Estrutura)
+tarefa_competencia2:
+  description: >
+    CONTEXTO REGULATÓRIO:
+    {manual_competencia2}
+    
+    ---
+    
+    TAREFA DE AVALIAÇÃO:
+    Analise a redação abaixo focando EXCLUSIVAMENTE na Competência II - Compreender a
+    proposta de redação e aplicar conceitos das várias áreas de conhecimento para
+    desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    TEXTOS DE APOIO (contexto fornecido ao estudante - use para entender o tema):
+    {textos_apoio}
+    
+    TEXTO DA REDAÇÃO:
+    {redacao}
+    
+    ---
+    
+    INSTRUÇÕES:
+    1. Verifique se o candidato compreendeu e desenvolveu o tema proposto
+    2. Avalie se há tangenciamento ou fuga ao tema
+    3. Analise se a estrutura dissertativo-argumentativa foi respeitada
+    4. Verifique repertório sociocultural pertinente ao tema
+    5. Aplique ESTRITAMENTE os critérios do manual para determinar a nota
+    6. Atribua UMA ÚNICA nota dentre: 0, 40, 80, 120, 160 ou 200
+    
+    IMPORTANTE:
+    - A nota DEVE ser EXATAMENTE um dos seguintes valores: 0, 40, 80, 120, 160 ou 200
+    - Não use valores intermediários.
+  
+  expected_output: >
+    Formato JSON:
+    {
+      "competencia": 2,
+      "nota": [escolha EXATAMENTE um valor: 0, 40, 80, 120, 160 ou 200],
+      "justificativa": "Análise da compreensão temática e estrutura do texto",
+      "analise_tema": "Avaliação específica sobre tangenciamento ou desenvolvimento adequado"
+    }
+  
+  agent: agente_estrutura
+
+# TAREFA 3: Avaliar Competência III (Argumentação)
+tarefa_competencia3:
+  description: >
+    CONTEXTO REGULATÓRIO:
+    {manual_competencia3}
+    
+    ---
+    
+    TAREFA DE AVALIAÇÃO:
+    Analise a redação abaixo focando EXCLUSIVAMENTE na Competência III - Selecionar,
+    relacionar, organizar e interpretar informações, fatos, opiniões e argumentos
+    em defesa de um ponto de vista.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    TEXTOS DE APOIO (contexto fornecido ao estudante):
+    {textos_apoio}
+    
+    TEXTO DA REDAÇÃO:
+    {redacao}
+    
+    ---
+    
+    INSTRUÇÕES:
+    1. Identifique o projeto de texto (tese/ponto de vista)
+    2. Avalie a qualidade e pertinência dos argumentos apresentados
+    3. Verifique se há informações, fatos e opiniões que sustentam a argumentação
+    4. Analise a organização e progressão das ideias
+    5. Aplique ESTRITAMENTE os critérios do manual para determinar a nota
+    6. Atribua UMA ÚNICA nota dentre: 0, 40, 80, 120, 160 ou 200
+    
+    IMPORTANTE:
+    - A nota DEVE ser EXATAMENTE um dos seguintes valores: 0, 40, 80, 120, 160 ou 200
+    - Não use valores intermediários.
+  
+  expected_output: >
+    Formato JSON:
+    {
+      "competencia": 3,
+      "nota": [escolha EXATAMENTE um valor: 0, 40, 80, 120, 160 ou 200],
+      "justificativa": "Análise da seleção e organização de argumentos",
+      "argumentos_identificados": ["lista dos principais argumentos do texto"]
+    }
+  
+  agent: agente_argumentacao
+
+# TAREFA 4: Avaliar Competência IV (Coesão)
+tarefa_competencia4:
+  description: >
+    CONTEXTO REGULATÓRIO:
+    {manual_competencia4}
+    
+    ---
+    
+    TAREFA DE AVALIAÇÃO:
+    Analise a redação abaixo focando EXCLUSIVAMENTE na Competência IV - Demonstrar
+    conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    TEXTOS DE APOIO (contexto fornecido):
+    {textos_apoio}
+    
+    TEXTO DA REDAÇÃO:
+    {redacao}
+    
+    ---
+    
+    INSTRUÇÕES:
+    1. Identifique o uso de conectivos, preposições e conjunções
+    2. Avalie recursos de referenciação (anáforas, catáforas, elipses)
+    3. Verifique substituições lexicais e repetições
+    4. Analise a articulação entre frases, períodos e parágrafos
+    5. Identifique problemas de coesão que prejudicam a compreensão
+    6. Aplique ESTRITAMENTE os critérios do manual para determinar a nota
+    7. Atribua UMA ÚNICA nota dentre: 0, 40, 80, 120, 160 ou 200
+    
+    IMPORTANTE:
+    - A nota DEVE ser EXATAMENTE um dos seguintes valores: 0, 40, 80, 120, 160 ou 200
+    - Não use valores intermediários.
+  
+  expected_output: >
+    Formato JSON:
+    {
+      "competencia": 4,
+      "nota": [escolha EXATAMENTE um valor: 0, 40, 80, 120, 160 ou 200],
+      "justificativa": "Análise dos mecanismos coesivos utilizados",
+      "problemas_coesao": ["lista de problemas identificados com exemplos"]
+    }
+  
+  agent: agente_coesao
+
+# TAREFA 5: Avaliar Competência V (Proposta de Intervenção)
+tarefa_competencia5:
+  description: >
+    CONTEXTO REGULATÓRIO:
+    {manual_competencia5}
+    
+    ---
+    
+    TAREFA DE AVALIAÇÃO:
+    Analise a redação abaixo focando EXCLUSIVAMENTE na Competência V - Elaborar proposta
+    de intervenção para o problema abordado, respeitando os direitos humanos.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    TEXTOS DE APOIO (contexto fornecido):
+    {textos_apoio}
+    
+    TEXTO DA REDAÇÃO:
+    {redacao}
+    
+    ---
+    
+    INSTRUÇÕES:
+    1. Identifique se há proposta de intervenção explícita
+    2. Verifique os 5 elementos obrigatórios:
+       - AGENTE (quem vai executar)
+       - AÇÃO (o que será feito)
+       - MODO/MEIO (como será feito)
+       - EFEITO/FINALIDADE (para que será feito)
+       - DETALHAMENTO (de um dos elementos acima)
+    3. Avalie se respeita os direitos humanos
+    4. Verifique se está relacionada ao tema e aos argumentos
+    5. Aplique ESTRITAMENTE os critérios do manual para determinar a nota
+    6. Atribua UMA ÚNICA nota dentre: 0, 40, 80, 120, 160 ou 200
+    
+    IMPORTANTE:
+    - A nota DEVE ser EXATAMENTE um dos seguintes valores: 0, 40, 80, 120, 160 ou 200
+    - Não use valores intermediários.
+  
+  expected_output: >
+    Formato JSON:
+    {
+      "competencia": 5,
+      "nota": [escolha EXATAMENTE um valor: 0, 40, 80, 120, 160 ou 200],
+      "justificativa": "Análise da proposta de intervenção",
+      "elementos_presentes": {
+        "agente": "presente/ausente - explicação",
+        "acao": "presente/ausente - explicação",
+        "modo_meio": "presente/ausente - explicação",
+        "efeito": "presente/ausente - explicação",
+        "detalhamento": "presente/ausente - explicação"
+      },
+      "respeito_direitos_humanos": "sim/não - justificativa"
+    }
+  
+  agent: agente_proposta
+
+# TAREFA 6: Consolidar Resultados
+tarefa_consolidacao:
+  description: >
+    Você recebeu as avaliações individuais das 5 competências de uma redação do ENEM.
+    
+    TEMA DA REDAÇÃO: {tema}
+    
+    Sua tarefa é consolidar essas avaliações em um relatório final estruturado.
+    
+    INSTRUÇÕES:
+    1. Verifique se todas as 5 notas são EXATAMENTE um destes valores: 0, 40, 80, 120, 160 ou 200
+    2. Calcule a nota final (soma das 5 competências, máximo 1000)
+    3. Gere um resumo executivo da avaliação
+    4. Organize todas as informações em formato JSON estruturado
+    5. Inclua timestamp da avaliação
+    
+    IMPORTANTE:
+    - Cada nota de competência DEVE ser exatamente: 0, 40, 80, 120, 160 ou 200
+    - Nota final deve ser a soma das 5 competências (mínimo 0, máximo 1000)
+  
+  expected_output: >
+    Formato JSON estruturado:
+    {
+      "avaliacao_id": "UUID gerado",
+      "timestamp": "data/hora da avaliação",
+      "tema": "tema da redação avaliada",
+      "modo_avaliacao": "com_rag ou baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": [0, 40, 80, 120, 160 ou 200],
+          "justificativa": "..."
+        },
+        "competencia_2": { 
+          "nota": [0, 40, 80, 120, 160 ou 200],
+          "justificativa": "..." 
+        },
+        "competencia_3": { 
+          "nota": [0, 40, 80, 120, 160 ou 200],
+          "justificativa": "..." 
+        },
+        "competencia_4": { 
+          "nota": [0, 40, 80, 120, 160 ou 200],
+          "justificativa": "..." 
+        },
+        "competencia_5": { 
+          "nota": [0, 40, 80, 120, 160 ou 200],
+          "justificativa": "..." 
+        }
+      },
+      "nota_final": [soma das 5 competências, 0-1000],
+      "resumo_executivo": "síntese da avaliação",
+      "status": "completa"
+    }
+  
+  agent: presidente_banca
+  context:
+    - tarefa_competencia1
+    - tarefa_competencia2
+    - tarefa_competencia3
+    - tarefa_competencia4
+    - tarefa_competencia5
