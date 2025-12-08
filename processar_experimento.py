@@ -31,7 +31,7 @@ def processar_essay(essay_str: str) -> str:
         paragrafos = ast.literal_eval(essay_str)
         # Junta os parágrafos com quebra de linha dupla
         return "\n\n".join(paragrafos)
-    except:
+    except Exception:
         return essay_str
 
 
@@ -128,7 +128,7 @@ def processar_prompt(
         # Converter competencias de string para lista
         try:
             competencias_reais = ast.literal_eval(row['competence'])
-        except:
+        except Exception:
             competencias_reais = []
         
         # Avaliar
