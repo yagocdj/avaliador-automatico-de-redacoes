@@ -62,7 +62,7 @@ python verificar_configuracao.py
 
 **Testar com 1 redação (~2 minutos):**
 ```bash
-python processar_experimento.py --teste
+python processar_experimento.py --test
 ```
 
 **Executar experimento completo (~30-60 minutos):**
@@ -424,7 +424,7 @@ Este é um projeto acadêmico para fins de pesquisa em avaliação automatizada 
 python verificar_configuracao.py
 
 # 2. Testar (1 redação)
-python processar_experimento.py --teste
+python processar_experimento.py --test
 
 # 3. Experimento completo (40 redações)
 python processar_experimento.py

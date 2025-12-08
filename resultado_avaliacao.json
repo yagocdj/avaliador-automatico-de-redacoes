@@ -1,0 +1,30 @@
+{
+  "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "tema": "Ciência, tecnologia e superação dos limites humanos",
+  "modo_avaliacao": "baseline",
+  "competencias": {
+    "competencia_1": {
+      "nota": 80,
+      "justificativa": "A redação demonstra um domínio insuficiente da modalidade escrita formal da língua portuguesa. Foram identificados múltiplos desvios gramaticais, ortográficos, de pontuação e de convenções da escrita, que comprometem a clareza e a correção do texto. A presença de desvios graves, como problemas de estrutura sintática e clareza que dificultam a compreensão em diversos trechos, impede uma pontuação mais elevada. A quantidade e a natureza dos erros se enquadram nos critérios para a nota de 80 pontos, que corresponde a um domínio insuficiente da norma culta."
+    },
+    "competencia_2": {
+      "nota": 200,
+      "justificativa": "A redação demonstra uma compreensão integral da proposta de redação, abordando o tema 'Ciência, tecnologia e superação dos limites humanos' de forma completa e aprofundada. O candidato compreendeu a dualidade proposta sobre a revolução transumanista (utopia ou distopia) e desenvolveu ambos os lados da questão de maneira equilibrada e pertinente. O texto apresenta uma estrutura dissertativo-argumentativa completa e estratégica, com introdução, desenvolvimento e conclusão bem definidos e articulados. A tese é claramente apresentada na introdução, e os parágrafos de desenvolvimento exploram os benefícios potenciais (utopia) e os riscos de desigualdade social (distopia), conforme solicitado. A conclusão retoma a discussão e apresenta uma proposta de intervenção para mitigar os problemas identificados, buscando um desfecho mais equitativo. Não há tangenciamento ou fuga ao tema, e a progressão argumentativa é consistente e satisfatória."
+    },
+    "competencia_3": {
+      "nota": 200,
+      "justificativa": "A redação demonstra uma excelente capacidade de selecionar, relacionar, organizar e interpretar informações, fatos e opiniões em defesa de um ponto de vista. O projeto de texto é claro e consistente, abordando a dualidade utopia/distopia da revolução transumanista de forma equilibrada. O estudante seleciona informações pertinentes dos textos de apoio (benefícios do aprimoramento humano, alto custo da tecnologia, potencial de desigualdade social) e as organiza de maneira lógica e coerente. Os argumentos são bem desenvolvidos, com uma progressão clara das ideias: primeiro, os potenciais benefícios da tecnologia; em seguida, os riscos de exclusão e desigualdade. A conclusão retoma os pontos e apresenta uma proposta de intervenção que busca resolver o problema da distopia, reforçando o ponto de vista defendido. O uso de conectivos e a articulação entre os parágrafos garantem a fluidez e a coesão argumentativa, configurando autoria na construção do raciocínio."
+    },
+    "competencia_4": {
+      "nota": 80,
+      "justificativa": "A redação demonstra um uso insuficiente dos mecanismos linguísticos necessários para a construção da argumentação. Embora o estudante utilize alguns conectivos interparágrafos de forma estratégica ('Nesse sentido', 'A priori', 'A posteriori', 'portanto', 'entretanto', 'Sob essa ótica', 'Dessa forma'), o texto apresenta inúmeras inadequações e repetições que comprometem gravemente a coesão e a fluidez da leitura. Há problemas recorrentes de referenciação, substituição lexical e articulação dentro dos períodos, resultando em construções truncadas, redundantes e, em alguns casos, de difícil compreensão. A quantidade e a gravidade desses problemas de coesão interna prejudicam a progressão argumentativa e a clareza das ideias, enquadrando a redação no nível de articulação precária com muitas inadequações e/ou repetições."
+    },
+    "competencia_5": {
+      "nota": 80,
+      "justificativa": "A proposta de intervenção apresentada na redação identifica o problema da desigualdade de acesso à tecnologia transumanista e propõe uma solução. No entanto, ela não apresenta todos os elementos obrigatórios de forma completa. Foram identificados o agente ('Poder Público'), a ação ('garantir que esse grupo de pessoas, com menor poder aquisitivo, tenha acesso a tais tecnologias') e a finalidade/efeito ('todos, sem distinção, poderão usufruir das inovações e benefícios que a tecnologia proporciona ao mundo contemporâneo'). Contudo, o modo/meio (como essa garantia será efetivada) e o detalhamento de qualquer um dos elementos estão ausentes. A proposta está relacionada ao tema e aos argumentos desenvolvidos sobre a potencialização da desigualdade social e respeita os direitos humanos ao buscar a equidade no acesso. Pela presença de 3 dos 5 elementos obrigatórios, a nota atribuída é de 80 pontos."
+    }
+  },
+  "nota_final": 640,
+  "resumo_executivo": "A redação aborda o tema 'Ciência, tecnologia e superação dos limites humanos' de forma abrangente, explorando tanto os potenciais benefícios do transumanismo quanto os riscos de desigualdade social. O projeto de texto é claro e a argumentação é consistente, demonstrando excelente compreensão da proposta e capacidade de organizar ideias (Competências 2 e 3 com 200 pontos cada). No entanto, a redação apresenta sérias deficiências na modalidade escrita formal (Competência 1 com 80 pontos), com múltiplos desvios gramaticais e ortográficos. Além disso, a coesão textual é prejudicada por repetições e construções truncadas (Competência 4 com 80 pontos). A proposta de intervenção, embora pertinente e respeitosa aos direitos humanos, carece de detalhamento e do modo/meio de execução (Competência 5 com 80 pontos). A nota final consolidada é de 640 pontos.",
+  "status": "completa"
+}

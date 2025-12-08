@@ -1,0 +1,31 @@
+{
+  "avaliacao_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "timestamp": "2024-05-21T10:30:00Z",
+  "tema": "Ciência, tecnologia e superação dos limites humanos",
+  "modo_avaliacao": "com_rag",
+  "competencias": {
+    "competencia_1": {
+      "nota": 120,
+      "justificativa": "A redação é avaliada no Nível 3 (120 pontos) da Competência I. Essa nota se justifica pela combinação de uma 'estrutura sintática regular' com a presença de 'alguns desvios' gramaticais e de convenções da escrita, conforme os critérios do manual de correção. A estrutura sintática é considerada 'regular' por apresentar falhas pontuais, como a duplicação de palavras ('revolução revolução') e o excesso de termos com repetição ('convém lembrar, de que lembrar que'), que comprometem a fluidez da leitura em trechos específicos, impedindo a classificação como 'boa' ou 'excelente'. Quanto aos desvios, foram identificados 9 problemas de naturezas diversas (concordância, pontuação, regência, escolha vocabular e de registro) em um texto de 17 linhas. Essa quantidade, para o conjunto textual apresentado, é classificada como 'alguns'. A combinação desses dois fatores – estrutura sintática regular e alguns desvios – enquadra o texto precisamente no descritor do Nível 3."
+    },
+    "competencia_2": {
+      "nota": 120,
+      "justificativa": "A redação é avaliada no Nível 3 (120 pontos). O texto apresenta uma abordagem completa do tema, discutindo a relação entre ciência, tecnologia e a superação de limites humanos, além de abordar a questão da revolução transumanista como uma potencial distopia, conforme solicitado pela proposta. A estrutura dissertativo-argumentativa está presente, com introdução, desenvolvimento e conclusão, embora a conclusão seja muito breve (3 linhas), caracterizando-se como uma parte embrionária, o que é previsto neste nível. O fator determinante para a nota é o repertório, que é inteiramente baseado nos textos motivadores. O candidato demonstra capacidade de compreender e parafrasear as informações fornecidas, mas não mobiliza conhecimentos próprios de outras áreas para enriquecer a argumentação. A combinação desses três fatores – abordagem temática completa, estrutura com uma parte embrionária e repertório baseado nos textos de apoio – enquadra o texto precisamente nos descritores do Nível 3."
+    },
+    "competencia_3": {
+      "nota": 80,
+      "justificativa": "A redação é avaliada no Nível 2 (80 pontos). A nota se justifica pela combinação de um 'projeto de texto com muitas falhas' e a ausência de 'desenvolvimento' das informações, fatos e opiniões apresentados, conforme os descritores da Grade Específica. O projeto de texto evidencia falhas significativas na organização e relação das ideias: o primeiro parágrafo de desenvolvimento é meramente expositivo, parafraseando os benefícios do transumanismo (Texto I), enquanto o segundo parágrafo apresenta os problemas (Texto II), mas a transição entre eles é abrupta, caracterizando uma estrutura de blocos de informação justapostos, e não uma progressão argumentativa planejada. Além disso, os argumentos não são desenvolvidos; o candidato apenas apresenta as informações sem explicá-las ou aprofundá-las. Por exemplo, afirma que a tecnologia seria cara e, 'dessa maneira', só os ricos teriam acesso, mas não desdobra essa ideia. Em seguida, acrescenta que isso 'resultaria numa distopia', tratando-se de mais uma informação apresentada, e não de um desenvolvimento da anterior. A tarefa de relacionar e interpretar as ideias é deixada para o leitor, o que caracteriza a ausência de desenvolvimento e enquadra o texto no Nível 2."
+    },
+    "competencia_4": {
+      "nota": 160,
+      "justificativa": "A redação é avaliada no Nível 4 (160 pontos). O texto demonstra um bom domínio dos mecanismos coesivos, com \"presença constante de elementos coesivos\" tanto no nível intraparágrafo (ex: \"Dessa maneira\", \"Além disso\") quanto interparágrafos (ex: \"Em uma segunda análise\", \"Dado o explícito cenário\"). O repertório de recursos coesivos é diversificado e não há repetições problemáticas. O texto cumpre o requisito do Nível 4 de apresentar pelo menos um operador argumentativo entre parágrafos (apresenta dois). A nota não atinge o nível máximo devido à presença de \"poucas inadequações\", especificamente o uso da expressão vaga \"com esses fatores\" para conectar o segundo parágrafo ao primeiro, o que compromete pontualmente a articulação das ideias."
+    },
+    "competencia_5": {
+      "nota": 120,
+      "justificativa": "A redação é avaliada no Nível 3 (120 pontos), pois apresenta uma proposta de intervenção relacionada ao tema, mas que contém apenas 3 dos 5 elementos válidos exigidos para a nota máxima. A proposta é articulada e respeita os direitos humanos, porém é considerada de elaboração mediana por ser incompleta. Foram identificados o agente, a ação e a finalidade, mas faltam o modo/meio de execução e um detalhamento de qualquer um dos elementos, o que impede a atribuição de uma nota superior."
+    }
+  },
+  "nota_final": 600,
+  "resumo_executivo": "A avaliação consolidada resulta em uma nota final de 600 pontos. O texto demonstra uma compreensão completa do tema (C2) e um bom uso de mecanismos coesivos (C4). No entanto, apresenta fragilidades significativas que limitaram a pontuação: a estrutura sintática é apenas regular e contém diversos desvios gramaticais (C1); a argumentação é superficial, com um projeto de texto falho e ideias não desenvolvidas (C3); o repertório sociocultural é limitado aos textos motivadores (C2); e a proposta de intervenção é incompleta, faltando elementos essenciais como o modo/meio e o detalhamento (C5). O desempenho é mediano, refletindo um desequilíbrio entre as competências.",
+  "status": "completa"
+}

@@ -257,7 +257,6 @@ tarefa_consolidacao:
     2. Calcule a nota final (soma das 5 competências, máximo 1000)
     3. Gere um resumo executivo da avaliação
     4. Organize todas as informações em formato JSON estruturado
-    5. Inclua timestamp da avaliação
     
     IMPORTANTE:
     - Cada nota de competência DEVE ser exatamente: 0, 40, 80, 120, 160 ou 200
@@ -267,7 +266,6 @@ tarefa_consolidacao:
     Formato JSON estruturado:
     {
       "avaliacao_id": "UUID gerado",
-      "timestamp": "data/hora da avaliação",
       "tema": "tema da redação avaliada",
       "modo_avaliacao": "com_rag ou baseline",
       "competencias": {
@@ -296,6 +294,8 @@ tarefa_consolidacao:
       "resumo_executivo": "síntese da avaliação",
       "status": "completa"
     }
+
+    IMPORTANTE: não insira os caracteres ``` (marcadores de bloco de código markdown) na saída JSON
   
   agent: presidente_banca
   context:

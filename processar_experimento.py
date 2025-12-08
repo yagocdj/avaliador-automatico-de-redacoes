@@ -9,7 +9,6 @@ import json
 import ast
 import os
 from pathlib import Path
-from datetime import datetime
 from avaliacao_automatica.crew import BancaExaminadora
 from textos_apoio import obter_textos_apoio
 
@@ -57,7 +56,7 @@ def avaliar_redacao_completa(
     print(f"{'='*80}")
     
     try:
-        resultado = banca.avaliar_redacao(
+        resultado = banca.avaliar_redacao( # type: ignore
             redacao=redacao,
             tema=tema,
             textos_apoio=textos_apoio,
@@ -69,14 +68,13 @@ def avaliar_redacao_completa(
             "prompt_id": prompt_id,
             "tema": tema,
             "modo_avaliacao": "com_rag" if modo_rag else "baseline",
-            "timestamp": datetime.now().isoformat(),
             "nota_real": nota_real,
             "competencias_reais": competencias_reais,
             "avaliacao_sistema": resultado,
             "status": "sucesso"
         }
         
-        print(f"✅ Avaliação concluída!")
+        print("✅ Avaliação concluída!")
         return resultado_estruturado
         
     except Exception as e:
@@ -85,7 +83,6 @@ def avaliar_redacao_completa(
             "prompt_id": prompt_id,
             "tema": tema,
             "modo_avaliacao": "com_rag" if modo_rag else "baseline",
-            "timestamp": datetime.now().isoformat(),
             "nota_real": nota_real,
             "erro": str(e),
             "status": "erro"
@@ -265,7 +262,7 @@ def processar_teste_individual():
     
     # Avaliar COM RAG
     banca = BancaExaminadora()
-    resultado = banca.avaliar_redacao(
+    resultado = banca.avaliar_redacao( # type: ignore
         redacao=redacao_texto,
         tema=tema,
         textos_apoio=textos_apoio,
@@ -301,7 +298,7 @@ def processar_teste_individual_baseline():
     
     # Avaliar SEM RAG (Baseline)
     banca = BancaExaminadora()
-    resultado = banca.avaliar_redacao(
+    resultado = banca.avaliar_redacao( # type: ignore
         redacao=redacao_texto,
         tema=tema,
         textos_apoio=textos_apoio,
@@ -315,7 +312,7 @@ def processar_teste_individual_baseline():
 if __name__ == "__main__":
     import sys
     
-    if len(sys.argv) > 1 and sys.argv[1] == "--teste":
+    if len(sys.argv) > 1 and sys.argv[1] == "--test":
         # Modo teste COM RAG: processa apenas uma redação
         processar_teste_individual()
     elif len(sys.argv) > 1 and sys.argv[1] == "--test-no-rag":

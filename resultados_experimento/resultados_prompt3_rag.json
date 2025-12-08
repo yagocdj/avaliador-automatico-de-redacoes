@@ -1,0 +1,302 @@
+[
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 400,
+    "competencias_reais": [
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 560,
+    "competencias_reais": [
+      120,
+      80,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 720,
+    "competencias_reais": [
+      120,
+      160,
+      160,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 720,
+    "competencias_reais": [
+      160,
+      160,
+      120,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 920,
+    "competencias_reais": [
+      160,
+      200,
+      200,
+      200,
+      160
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 800,
+    "competencias_reais": [
+      160,
+      160,
+      200,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 800,
+    "competencias_reais": [
+      200,
+      160,
+      160,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 680,
+    "competencias_reais": [
+      120,
+      160,
+      120,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 520,
+    "competencias_reais": [
+      120,
+      80,
+      80,
+      120,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 560,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      80
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 920,
+    "competencias_reais": [
+      160,
+      200,
+      200,
+      200,
+      160
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      160,
+      80
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 1000,
+    "competencias_reais": [
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 400,
+    "competencias_reais": [
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 760,
+    "competencias_reais": [
+      160,
+      160,
+      160,
+      160,
+      120
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 640,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      160
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  },
+  {
+    "prompt_id": 3,
+    "tema": "Ciência, tecnologia e superação dos limites humanos",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 440,
+    "competencias_reais": [
+      120,
+      0,
+      120,
+      120,
+      80
+    ],
+    "avaliacao_sistema": null,
+    "status": "sucesso"
+  }
+]
