@@ -179,11 +179,9 @@ def verificar_api_key_gemini():
     print("✅ API Key do Gemini encontrada")
 
 
-def processar_experimento_completo():
+def processar_experimento_completo(prompt_id: int, modo_rag: bool):
     """
-    Processa o experimento completo:
-    - Prompt 3: RAG e Baseline
-    - Prompt 6: RAG e Baseline
+    Processa o experimento tomando como base o prompt_id e o modo de execução
     """
     print("\n" + "="*80)
     print("🚀 INICIANDO EXPERIMENTO COMPLETO")
@@ -197,39 +195,20 @@ def processar_experimento_completo():
     output_dir.mkdir(exist_ok=True)
     
     # Caminhos dos CSVs
-    csv_prompt3 = "redacoes_prompt_3.csv"
-    csv_prompt6 = "redacoes_prompt_6.csv"
+    csv_prompt = f"redacoes_prompt_{prompt_id}.csv"
     
     # Verificar se os arquivos existem
-    if not Path(csv_prompt3).exists():
-        print(f"❌ Arquivo não encontrado: {csv_prompt3}")
+    if not Path(csv_prompt).exists():
+        print(f"❌ Arquivo não encontrado: {csv_prompt}")
         return
     
-    if not Path(csv_prompt6).exists():
-        print(f"❌ Arquivo não encontrado: {csv_prompt6}")
-        return
-    
-    # Processar Prompt 3
+    # Processar Prompt
     print("\n" + "#"*80)
-    print("# FASE 1: PROMPT 3")
+    print("# PROMPT ")
     print("#"*80)
     
-    # Prompt 3 - RAG
-    processar_prompt(csv_prompt3, 3, modo_rag=True, output_dir=output_dir)
-    
-    # Prompt 3 - Baseline
-    processar_prompt(csv_prompt3, 3, modo_rag=False, output_dir=output_dir)
-    
-    # Processar Prompt 6
-    print("\n" + "#"*80)
-    print("# FASE 2: PROMPT 6")
-    print("#"*80)
-    
-    # Prompt 6 - RAG
-    processar_prompt(csv_prompt6, 6, modo_rag=True, output_dir=output_dir)
-    
-    # Prompt 6 - Baseline
-    processar_prompt(csv_prompt6, 6, modo_rag=False, output_dir=output_dir)
+    # Prompt
+    processar_prompt(csv_prompt, prompt_id, modo_rag=modo_rag, output_dir=output_dir)
     
     print("\n" + "="*80)
     print("🎉 EXPERIMENTO COMPLETO FINALIZADO!")
@@ -237,9 +216,12 @@ def processar_experimento_completo():
     print(f"Resultados salvos em: {output_dir.absolute()}")
 
 
-def processar_teste_individual():
+def processar_teste_individual(idx_redacao: int):
     """
     Processa apenas UMA redação de teste COM RAG (para debug)
+    
+    Args:
+        idx_redacao: índice da redação a ser avaliada no dataframe
     """
     print("\n🧪 MODO TESTE COM RAG - Uma redação do Prompt 3")
     
@@ -248,7 +230,12 @@ def processar_teste_individual():
     
     # Carregar apenas a primeira redação do prompt 3
     df = pd.read_csv("redacoes_prompt_3.csv")
-    row = df.iloc[0]
+
+    print(df)
+
+    if idx_redacao < 0 or idx_redacao > len(df):
+        raise IndexError("Índice da redação inválido (fora dos limites)")
+    row = df.iloc[idx_redacao]
     
     redacao_texto = processar_essay(row['essay'])
     
@@ -273,9 +260,12 @@ def processar_teste_individual():
     print(f"Resultado:\n{resultado}")
 
 
-def processar_teste_individual_baseline():
+def processar_teste_individual_baseline(idx_redacao: int):
     """
     Processa apenas UMA redação de teste SEM RAG - Baseline (para debug)
+
+    Args:
+        idx_redacao: índice da redação a ser avaliada no dataframe
     """
     print("\n🧪 MODO TESTE SEM RAG (BASELINE) - Uma redação do Prompt 3")
     
@@ -284,7 +274,10 @@ def processar_teste_individual_baseline():
     
     # Carregar apenas a primeira redação do prompt 3
     df = pd.read_csv("redacoes_prompt_3.csv")
-    row = df.iloc[0]
+    print(df)
+    if idx_redacao < 0 or idx_redacao > len(df):
+        raise IndexError("Índice da redação inválido (fora dos limites)")
+    row = df.iloc[idx_redacao]
     
     redacao_texto = processar_essay(row['essay'])
     
@@ -314,11 +307,18 @@ if __name__ == "__main__":
     
     if len(sys.argv) > 1 and sys.argv[1] == "--test":
         # Modo teste COM RAG: processa apenas uma redação
-        processar_teste_individual()
+        processar_teste_individual(int(sys.argv[2]))
     elif len(sys.argv) > 1 and sys.argv[1] == "--test-no-rag":
         # Modo teste SEM RAG (Baseline): processa apenas uma redação
-        processar_teste_individual_baseline()
-    else:
+        processar_teste_individual_baseline(int(sys.argv[2]))
+    elif len(sys.argv) > 1 and sys.argv[1] in ["3", "6"]:
         # Modo completo: processa todas as redações
-        processar_experimento_completo()
+        if sys.argv[2] == "--rag":
+            processar_experimento_completo(prompt_id=int(sys.argv[1]), modo_rag=True)
+        elif sys.argv[2] == "--no-rag":
+            processar_experimento_completo(prompt_id=int(sys.argv[1]), modo_rag=False)
+        else:
+            print("❌ Especifique se a execução será com ou sem RAG ('--rag' ou '--no-rag')")
+    else:
+        print("❌ Argumentos inválidos")
 
