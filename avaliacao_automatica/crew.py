@@ -267,4 +267,31 @@ class BancaExaminadora():
         print("✅ AVALIAÇÃO CONCLUÍDA")
         print("=" * 80)
         
-        return resultado.json_dict # type: ignore
+        # DEBUG: Verificar tipo do resultado
+        print(f"🔍 DEBUG: Tipo do resultado: {type(resultado)}")
+        print(f"🔍 DEBUG: Resultado tem json_dict? {hasattr(resultado, 'json_dict')}")
+        
+        # Tentar extrair o JSON do resultado
+        resultado_json = resultado.json_dict # type: ignore
+        
+        if resultado_json is None:
+            print("⚠️  AVISO: json_dict retornou None! Tentando alternativas...")
+            
+            # Tentar pegar o raw do resultado
+            if hasattr(resultado, 'raw'):
+                print("   Tentando usar resultado.raw")
+                resultado_json = resultado.raw # type: ignore
+            elif hasattr(resultado, 'json'):
+                print("   Tentando usar resultado.json")
+                resultado_json = resultado.json # type: ignore
+            elif hasattr(resultado, 'output'):
+                print("   Tentando usar resultado.output")
+                resultado_json = resultado.output # type: ignore
+            else:
+                print("   ❌ Nenhuma alternativa funcionou!")
+                
+        print(f"🔍 DEBUG: Resultado final é None? {resultado_json is None}")
+        if resultado_json is not None:
+            print(f"🔍 DEBUG: Tipo do resultado_json: {type(resultado_json)}")
+        
+        return resultado_json
