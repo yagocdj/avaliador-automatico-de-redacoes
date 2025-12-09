@@ -62,13 +62,31 @@ python verificar_configuracao.py
 
 **Testar com 1 redação (~2 minutos):**
 ```bash
-python processar_experimento.py --teste
+python processar_experimento.py --test 0
 ```
 
-**Executar experimento completo (~30-60 minutos):**
+**Processar experimentos (novo método com salvamento incremental):**
+
 ```bash
-python processar_experimento.py
+# Prompt 3 com RAG
+python processar_experimento.py --prompt redacoes_prompt_3.csv --rag
+
+# Prompt 3 sem RAG (Baseline)
+python processar_experimento.py --prompt redacoes_prompt_3.csv --no-rag
+
+# Prompt 6 com RAG
+python processar_experimento.py --prompt redacoes_prompt_6.csv --rag
+
+# Prompt 6 sem RAG (Baseline)
+python processar_experimento.py --prompt redacoes_prompt_6.csv --no-rag
 ```
+
+**✨ Recursos do processamento:**
+- 💾 **Salvamento incremental**: cada redação é salva após ser processada
+- 🔄 **Recuperação automática**: continua de onde parou se interrompido
+- 🛡️ **Tratamento de erros**: alucinações do LLM são tratadas automaticamente
+
+**Veja o guia completo:** [GUIA_PROCESSAMENTO.md](GUIA_PROCESSAMENTO.md)
 
 ---
 
@@ -424,7 +442,7 @@ Este é um projeto acadêmico para fins de pesquisa em avaliação automatizada 
 python verificar_configuracao.py
 
 # 2. Testar (1 redação)
-python processar_experimento.py --teste
+python processar_experimento.py --test
 
 # 3. Experimento completo (40 redações)
 python processar_experimento.py

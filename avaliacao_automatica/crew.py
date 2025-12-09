@@ -7,11 +7,11 @@ from crewai import Agent, Crew, Process, Task, LLM
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from typing import List, Dict, Any
-from pathlib import Path
-import json
 
 # Importar o carregador de manuais
 from avaliacao_automatica.manual_loader import load_manual_simple
+
+import os
 
 
 @CrewBase
@@ -28,9 +28,9 @@ class BancaExaminadora():
     agents: List[BaseAgent]
     tasks: List[Task]
     
-    # Configuração do LLM - Gemini 3 (Google AI)
+    # Configuração do LLM
     llm = LLM(
-        model="gemini-2.5-pro", #gemini-2.5-pro para mais qualidade
+        model=os.environ.get("MODEL", "gemini-2.5-flash"),
         temperature=0.1
     )
     
@@ -45,7 +45,7 @@ class BancaExaminadora():
     def agente_gramatica(self) -> Agent:
         """Agente I: O Gramático - Especialista em Competência I"""
         return Agent(
-            config=self.agents_config['agente_gramatica'],
+            config=self.agents_config['agente_gramatica'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -54,7 +54,7 @@ class BancaExaminadora():
     def agente_estrutura(self) -> Agent:
         """Agente II: O Estruturalista - Especialista em Competência II"""
         return Agent(
-            config=self.agents_config['agente_estrutura'],
+            config=self.agents_config['agente_estrutura'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -63,7 +63,7 @@ class BancaExaminadora():
     def agente_argumentacao(self) -> Agent:
         """Agente III: O Argumentador - Especialista em Competência III"""
         return Agent(
-            config=self.agents_config['agente_argumentacao'],
+            config=self.agents_config['agente_argumentacao'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -72,7 +72,7 @@ class BancaExaminadora():
     def agente_coesao(self) -> Agent:
         """Agente IV: O Linguista - Especialista em Competência IV"""
         return Agent(
-            config=self.agents_config['agente_coesao'],
+            config=self.agents_config['agente_coesao'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -81,7 +81,7 @@ class BancaExaminadora():
     def agente_proposta(self) -> Agent:
         """Agente V: O Intervencionista - Especialista em Competência V"""
         return Agent(
-            config=self.agents_config['agente_proposta'],
+            config=self.agents_config['agente_proposta'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -90,7 +90,7 @@ class BancaExaminadora():
     def presidente_banca(self) -> Agent:
         """Agente VI: Presidente da Banca - Consolidador"""
         return Agent(
-            config=self.agents_config['presidente_banca'],
+            config=self.agents_config['presidente_banca'], # type: ignore[index]
             verbose=True,
             llm=self.llm
         )
@@ -123,42 +123,42 @@ class BancaExaminadora():
     def tarefa_competencia1(self) -> Task:
         """Task: Avaliar Competência I (Gramática)"""
         return Task(
-            config=self.tasks_config['tarefa_competencia1'],
+            config=self.tasks_config['tarefa_competencia1'], # type: ignore[index]
         )
 
     @task
     def tarefa_competencia2(self) -> Task:
         """Task: Avaliar Competência II (Tema e Estrutura)"""
         return Task(
-            config=self.tasks_config['tarefa_competencia2'],
+            config=self.tasks_config['tarefa_competencia2'], # type: ignore[index]
         )
 
     @task
     def tarefa_competencia3(self) -> Task:
         """Task: Avaliar Competência III (Argumentação)"""
         return Task(
-            config=self.tasks_config['tarefa_competencia3'],
+            config=self.tasks_config['tarefa_competencia3'], # type: ignore[index]
         )
     
     @task
     def tarefa_competencia4(self) -> Task:
         """Task: Avaliar Competência IV (Coesão)"""
         return Task(
-            config=self.tasks_config['tarefa_competencia4'],
+            config=self.tasks_config['tarefa_competencia4'], # type: ignore[index]
         )
     
     @task
     def tarefa_competencia5(self) -> Task:
         """Task: Avaliar Competência V (Proposta)"""
         return Task(
-            config=self.tasks_config['tarefa_competencia5'],
+            config=self.tasks_config['tarefa_competencia5'], # type: ignore[index]
         )
     
     @task
     def tarefa_consolidacao(self) -> Task:
         """Task: Consolidar todas as avaliações"""
         return Task(
-            config=self.tasks_config['tarefa_consolidacao'],
+            config=self.tasks_config['tarefa_consolidacao'], # type: ignore[index]
             output_file='resultado_avaliacao.json'
         )
 
@@ -184,6 +184,8 @@ class BancaExaminadora():
             tasks=self.tasks,
             process=Process.sequential,
             verbose=True,
+            output_log_file=True,
+            stream=False
         )
     
     # ========================================================================
@@ -234,7 +236,7 @@ class BancaExaminadora():
         tema: str,
         textos_apoio: str = "",
         modo_rag: bool = True
-    ) -> Dict[str, Any]:
+    ) -> Dict[str, Any] | None:
         """
         Método principal para avaliar uma redação
         
@@ -265,4 +267,31 @@ class BancaExaminadora():
         print("✅ AVALIAÇÃO CONCLUÍDA")
         print("=" * 80)
         
-        return resultado
+        # DEBUG: Verificar tipo do resultado
+        print(f"🔍 DEBUG: Tipo do resultado: {type(resultado)}")
+        print(f"🔍 DEBUG: Resultado tem json_dict? {hasattr(resultado, 'json_dict')}")
+        
+        # Tentar extrair o JSON do resultado
+        resultado_json = resultado.json_dict # type: ignore
+        
+        if resultado_json is None:
+            print("⚠️  AVISO: json_dict retornou None! Tentando alternativas...")
+            
+            # Tentar pegar o raw do resultado
+            if hasattr(resultado, 'raw'):
+                print("   Tentando usar resultado.raw")
+                resultado_json = resultado.raw # type: ignore
+            elif hasattr(resultado, 'json'):
+                print("   Tentando usar resultado.json")
+                resultado_json = resultado.json # type: ignore
+            elif hasattr(resultado, 'output'):
+                print("   Tentando usar resultado.output")
+                resultado_json = resultado.output # type: ignore
+            else:
+                print("   ❌ Nenhuma alternativa funcionou!")
+                
+        print(f"🔍 DEBUG: Resultado final é None? {resultado_json is None}")
+        if resultado_json is not None:
+            print(f"🔍 DEBUG: Tipo do resultado_json: {type(resultado_json)}")
+        
+        return resultado_json

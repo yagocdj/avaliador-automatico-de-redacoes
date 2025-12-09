@@ -13,7 +13,6 @@ Autor: Samuel e Yago
 import sys
 import warnings
 import json
-from datetime import datetime
 from pathlib import Path
 
 from avaliacao_automatica.crew import BancaExaminadora
@@ -77,14 +76,14 @@ def run():
 
     try:
         banca = BancaExaminadora()
-        resultado = banca.avaliar_redacao(
+        resultado = banca.avaliar_redacao( # type: ignore
             redacao=inputs['redacao'],
             tema=inputs['tema'],
             modo_rag=True  # COM os manuais
         )
         
         print("\n✅ Avaliação concluída com sucesso!")
-        print(f"📄 Resultado salvo em: resultado_avaliacao.json")
+        print("📄 Resultado salvo em: resultado_avaliacao.json")
         
     except Exception as e:
         raise Exception(f"Erro ao executar a avaliação: {e}")
@@ -104,14 +103,14 @@ def run_baseline():
     }
     try:
         banca = BancaExaminadora()
-        resultado = banca.avaliar_redacao(
+        resultado = banca.avaliar_redacao( # type: ignore
             redacao=inputs['redacao'],
             tema=inputs['tema'],
             modo_rag=False  # SEM os manuais (baseline)
         )
         
         print("\n✅ Avaliação baseline concluída com sucesso!")
-        print(f"📄 Resultado salvo em: resultado_avaliacao_baseline.json")
+        print("📄 Resultado salvo em: resultado_avaliacao_baseline.json")
         
     except Exception as e:
         raise Exception(f"Erro ao executar a avaliação baseline: {e}")
@@ -137,7 +136,7 @@ def run_experimento_completo():
         
         # Experimento A: COM RAG
         print("📊 Executando Experimento A (COM RAG)...\n")
-        resultado_rag = banca.avaliar_redacao(
+        resultado_rag = banca.avaliar_redacao( # type: ignore
             redacao=inputs['redacao'],
             tema=inputs['tema'],
             modo_rag=True
@@ -148,7 +147,7 @@ def run_experimento_completo():
         
         # Experimento B: SEM RAG (Baseline)
         print("📊 Executando Experimento B (BASELINE)...\n")
-        resultado_baseline = banca.avaliar_redacao(
+        resultado_baseline = banca.avaliar_redacao( # type: ignore
             redacao=inputs['redacao'],
             tema=inputs['tema'],
             modo_rag=False
@@ -183,7 +182,7 @@ def avaliar_arquivo(filepath: str, tema: str, modo_rag: bool = True):
             redacao = f.read()
         
         banca = BancaExaminadora()
-        resultado = banca.avaliar_redacao(
+        resultado = banca.avaliar_redacao( # type: ignore
             redacao=redacao,
             tema=tema,
             modo_rag=modo_rag

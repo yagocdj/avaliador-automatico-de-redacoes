@@ -55,7 +55,7 @@ def verificar_csv_estrutura():
             if colunas_esperadas == colunas_presentes:
                 print(f"   ✅ Colunas corretas: {list(df.columns)}")
             else:
-                print(f"   ❌ Colunas incorretas!")
+                print("   ❌ Colunas incorretas!")
                 print(f"      Esperado: {colunas_esperadas}")
                 print(f"      Encontrado: {colunas_presentes}")
                 return False
@@ -167,7 +167,7 @@ def verificar_textos_apoio():
     print("=" * 80)
     
     try:
-        from textos_apoio import obter_textos_apoio, PROMPT_3_TEMA, PROMPT_6_TEMA
+        from textos_apoio import obter_textos_apoio
         
         print("✅ Módulo textos_apoio importado com sucesso")
         
@@ -175,11 +175,11 @@ def verificar_textos_apoio():
         try:
             tema3, textos3 = obter_textos_apoio(3)
             if tema3 == "Ciência, tecnologia e superação dos limites humanos":
-                print(f"✅ Prompt 3 - Tema correto")
+                print("✅ Prompt 3 - Tema correto")
                 print(f"   {tema3}")
-            else:
-                print(f"⚠️  Prompt 3 - Tema diferente do esperado:")
-                print(f"   Esperado: Ciência, tecnologia e superação dos limites humanos")
+            else:  # FIXME - Dúvida: o retorno deveria ser `False`?
+                print("⚠️  Prompt 3 - Tema diferente do esperado:")
+                print("   Esperado: Ciência, tecnologia e superação dos limites humanos")
                 print(f"   Encontrado: {tema3}")
             
             print(f"   Textos de apoio: {len(textos3)} caracteres")
@@ -191,11 +191,11 @@ def verificar_textos_apoio():
         try:
             tema6, textos6 = obter_textos_apoio(6)
             if tema6 == "Preservação da Amazônia: Desafio brasileiro ou internacional?":
-                print(f"✅ Prompt 6 - Tema correto")
+                print("✅ Prompt 6 - Tema correto")
                 print(f"   {tema6}")
-            else:
-                print(f"⚠️  Prompt 6 - Tema diferente do esperado:")
-                print(f"   Esperado: Preservação da Amazônia: Desafio brasileiro ou internacional?")
+            else:  # FIXME - Dúvida: o retorno deveria ser `False`?
+                print("⚠️  Prompt 6 - Tema diferente do esperado:")
+                print("   Esperado: Preservação da Amazônia: Desafio brasileiro ou internacional?")
                 print(f"   Encontrado: {tema6}")
             
             print(f"   Textos de apoio: {len(textos6)} caracteres")
@@ -285,7 +285,7 @@ def main():
         print("  - Rate limit gratuito: 15 requisições/minuto")
         print("  - Tempo estimado: 30-60 minutos para experimento completo")
         print("\nComandos:")
-        print("  python processar_experimento.py --teste    # Teste com 1 redação")
+        print("  python processar_experimento.py --test    # Teste com 1 redação")
         print("  python processar_experimento.py            # Experimento completo")
     else:
         print("⚠️  PROBLEMAS ENCONTRADOS! Corrija antes de executar.")
