@@ -1,0 +1,1030 @@
+[
+  {
+    "redacao_index": 0,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 0,
+    "competencias_reais": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "A redação demonstra um domínio precário da modalidade escrita formal da Língua Portuguesa, com uma estrutura sintática deficitária e uma quantidade elevada de desvios gramaticais, ortográficos, de pontuação e de convenções da escrita. A fluidez da leitura é constantemente prejudicada por falhas na construção dos períodos e pela recorrência de inadequações. Conforme a grade específica da Competência I, um texto que apresenta 'estrutura sintática deficitária com muitos desvios' é avaliado no Nível 1 (40 pontos).",
+          "desvios_encontrados": [
+            "Desvio de Maiúsculas/Minúsculas: 'brasil' (deveria ser 'Brasil') - linha 1",
+            "Desvio de Maiúsculas/Minúsculas: 'jair bolsonaro' (deveria ser 'Jair Bolsonaro') - linha 1",
+            "Desvio de Pontuação: vírgula indevida entre sujeito e predicado em 'bolsonaro, devia' - linha 1",
+            "Falha de Estrutura Sintática (excesso/ausência de palavras e truncamento): 'ele os dias do brasil Brasil estão contados, o presidente jair bolsonaro, devia contados.' - linha 1",
+            "Desvio de Hífen: 'para-lhe' (hífen indevido) - linha 2",
+            "Desvio de Emprego de Pronomes: 'para-lhe' (uso incorreto do pronome oblíquo com preposição 'para') - linha 2",
+            "Desvio de Emprego de Pronomes: 'nos' (deveria ser 'nós') - linha 2",
+            "Desvio de Escolha Lexical Imprecisa (conjunção): 'mais' (deveria ser 'mas') - linha 3",
+            "Falha de Estrutura Sintática (ausência de palavra): 'acho ele deve estar' (ausência de 'que') - linha 3",
+            "Falha de Estrutura Sintática (excesso de artigo): 'com a as nossas caras' - linha 3",
+            "Desvio de Ortografia: 'nao' (deveria ser 'não') - linha 4",
+            "Desvio de Crase: 'à amazonas' (crase indevida) - linha 4",
+            "Desvio de Maiúsculas/Minúsculas: 'amazonas' (deveria ser 'Amazonas') - linha 4",
+            "Falha de Estrutura Sintática (redundância e ausência de verbo): 'à amazonas ela desmatamento' - linha 4",
+            "Falha de Estrutura Sintática (redundância): 'ou melhor ela melhor' - linha 5",
+            "Falha de Estrutura Sintática (duplicação de palavra): 'e puro e puro' - linha 5",
+            "Desvio de Crase: 'à amazonas' (crase indevida, nova ocorrência) - linha 6",
+            "Falha de Estrutura Sintática (ausência de palavra/verbo e ininteligibilidade): 'e bem da sociedade' - linha 6",
+            "Desvio de Escolha Lexical Imprecisa (conjunção): 'mais' (deveria ser 'mas', nova ocorrência) - linha 6",
+            "Desvio de Acentuação: 'ira' (deveria ser 'irá') - linha 7",
+            "Falha de Estrutura Sintática (duplicação de palavra): 'ira irá' - linha 7"
+          ]
+        },
+        "competencia_2": {
+          "nota": 40,
+          "justificativa": "A redação apresenta tangenciamento ao tema proposto e demonstra um domínio precário da estrutura dissertativo-argumentativa, com características que se aproximam de um aglomerado de palavras. O texto não desenvolve a dualidade central da proposta, que é a discussão sobre a Amazônia ser um 'Desafio brasileiro ou internacional'.",
+          "analise_tema": "O participante aborda o assunto 'Amazônia' e menciona sua importância global ('gera oxigênio limpo e puro') e os problemas atuais ('incêndio', 'poluição e desmatamento'), além de citar o presidente Jair Bolsonaro. No entanto, o texto não compreende e não desenvolve a proposta em sua totalidade, que exigia a discussão sobre a Amazônia como um 'desafio brasileiro OU internacional'. Não há argumentação que explore as posições sobre a soberania ou a internacionalização da floresta, nem aprofundamento sobre o 'desafio' em si. A abordagem se limita a aspectos gerais do assunto, configurando um claro tangenciamento ao tema. Além disso, a estrutura textual é extremamente rudimentar e fragmentada, com frases desconexas e repetições, o que dificulta o reconhecimento das partes de um texto dissertativo-argumentativo e se assemelha a um aglomerado de palavras. Conforme a Matriz de Referência da Competência II, um texto que 'apresenta o assunto, tangenciando o tema, ou demonstra domínio precário do texto dissertativo-argumentativo, com traços constantes de outros tipos textuais' é avaliado no Nível 1 (40 pontos). A ausência de repertório sociocultural legitimado e pertinente também contribui para a baixa pontuação."
+        },
+        "competencia_3": {
+          "nota": 0,
+          "justificativa": "A redação apresenta informações, fatos e opiniões de forma caótica e desconexa, sem articulação entre si, o que impede a identificação de uma direção argumentativa clara e consistente. O texto tangencia o tema proposto ('Preservação da Amazônia: Desafio brasileiro ou internacional?'), pois, embora mencione a Amazônia e o presidente Bolsonaro, não desenvolve a dualidade central da proposta nem defende um ponto de vista de forma estruturada sobre a soberania ou internacionalização. As ideias são justapostas, sem qualquer hierarquia, relação ou interpretação que configure um projeto de texto. Não há desenvolvimento de nenhuma informação, fato ou opinião, apenas a apresentação de afirmações isoladas. Conforme a grade específica da Competência III, um texto que é 'Tangente ao tema e sem direção' é avaliado no Nível 0 (0 pontos).",
+          "argumentos_identificados": [
+            "A Amazônia é vital para o Brasil.",
+            "Crítica à inação/indiferença do Presidente Jair Bolsonaro em relação à Amazônia.",
+            "A Amazônia gera oxigênio limpo e puro para o planeta.",
+            "Os incêndios na Amazônia afetam a umidade do ar em países vizinhos.",
+            "A Amazônia é importante para a sociedade e o planeta.",
+            "Os incêndios serão controlados para a felicidade da nacionalidade brasileira."
+          ]
+        },
+        "competencia_4": {
+          "nota": 0,
+          "justificativa": "A redação apresenta palavras e períodos justapostos e desconexos ao longo de todo o texto, o que demonstra uma ausência de articulação efetiva. Embora haja a presença de alguns conectivos e pronomes ('ela', 'ele', 'mas', 'com', 'e também', 'ou melhor', 'logo', 'esse incêndio', 'para'), eles são mobilizados de forma precária e não conseguem estabelecer relações semânticas claras e coerentes que contribuam para a construção da argumentação. A estrutura sintática fragmentada e a falta de progressão lógica das ideias impedem que esses elementos coesivos desempenhem suas funções de articulação de maneira significativa. A repetição do operador argumentativo 'mas' (ou 'mais' com função de 'mas') é excessiva para a extensão do texto e não demonstra diversidade de recursos. Além disso, o texto é apresentado em formato de monobloco, sem qualquer segmentação paragráfica identificável, o que, por si só, já indica um desconhecimento fundamental dos mecanismos de organização textual e limita a nota máxima a 80 pontos (Nível 2). Contudo, a severidade da desarticulação geral, que se assemelha a um aglomerado de frases e ideias sem conexão, enquadra a redação no Nível 0 da Competência IV.",
+          "problemas_coesao": [
+            "**Ausência de articulação geral:** As frases e ideias são justapostas e desconexas, não formando um todo coerente. Ex: A transição de 'brincando com as nossas caras' para 'Mas ele não sente o ar pesado...' é abrupta e não estabelece uma relação lógica clara.",
+            "**Uso ineficaz de conectivos:** Embora presentes, os conectivos não conseguem articular a argumentação devido à fragmentação sintática e à falta de coerência. Ex: 'Mas, com esse incêndio, muitos estados de outros países vizinhos estão sofrendo com a umidade relativa do ar, à amazonas Amazonas e bem da sociedade que se importa com a natureza e também com o planeta, mais mas uma coisa é certa logo esse incêndio ira irá ser controlado e apagado para a felicidade da nacionalidade brasileira...' – A sequência de ideias é confusa e os conectivos não conseguem criar uma progressão argumentativa.",
+            "**Repetição excessiva de operadores argumentativos:** O uso repetitivo de 'mas' (ou 'mais' com função adversativa) demonstra um repertório limitado de conectivos. Ex: 'mas eu na verdade', 'Mas ele não sente', 'Mas, com esse incêndio', 'mas uma coisa é certa'.",
+            "**Monobloco:** A ausência de paragrafação impede a articulação interparágrafos e prejudica a organização visual e lógica do texto."
+          ]
+        },
+        "competencia_5": {
+          "nota": 40,
+          "justificativa": "A proposta de intervenção apresentada na redação é vaga e se encontra em um texto que tangencia o tema, conforme análise da Competência II. A única parte que expressa uma intenção de intervenção é 'O presidente Jair Bolsonaro deveria estar fazendo algo para-lhe para mostrar para nos nós, brasileiros'.\n\nNessa formulação, identifica-se:\n- **Agente:** 'O presidente Jair Bolsonaro' (1 elemento válido).\n- **Ação:** 'deveria estar fazendo algo' é considerada uma ação nula, pois é excessivamente genérica e não especifica o que deve ser feito (similar a 'medidas devem ser tomadas' ou 'é preciso fazer alguma coisa', que o manual classifica como nulas).\n- **Modo/Meio:** Não há indicação de como a ação seria executada.\n- **Efeito/Finalidade:** 'para mostrar para nos nós, brasileiros' é uma finalidade muito vaga e não se concretiza como um objetivo claro de uma ação específica, sendo, portanto, considerada nula neste contexto de ação genérica.\n- **Detalhamento:** Não há qualquer detalhamento de nenhum dos elementos.\n\nAssim, a proposta apresenta apenas 1 elemento válido (o agente). De acordo com a grade específica da Competência V, um texto que apresenta 'Tangenciamento do tema' ou '1 elemento válido' é avaliado no Nível 1 (40 pontos). Como o texto tangencia o tema e possui apenas um elemento válido, a nota atribuída é 40.",
+          "elementos_presentes": {
+            "agente": "presente - 'O presidente Jair Bolsonaro'",
+            "acao": "ausente (ação nula) - 'deveria estar fazendo algo'",
+            "modo_meio": "ausente",
+            "efeito": "ausente (efeito nulo) - 'para mostrar para nos nós, brasileiros'",
+            "detalhamento": "ausente"
+          },
+          "respeito_direitos_humanos": "sim - A proposta, embora vaga, não sugere qualquer ação que desrespeite os direitos humanos."
+        }
+      },
+      "nota_final": 120,
+      "resumo_executivo": "A redação, que aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', obteve uma nota final de 120 pontos. O texto demonstra um domínio precário da modalidade escrita formal (C1: 40), com múltiplos desvios gramaticais e sintáticos que comprometem a fluidez. Houve um claro tangenciamento do tema (C2: 40), pois o participante não desenvolveu a dualidade central da proposta, limitando-se a aspectos gerais do assunto. A organização das ideias é caótica e desconexa, sem um projeto de texto ou direção argumentativa clara (C3: 0), e a articulação textual é praticamente inexistente, com frases justapostas e ausência de paragrafação (C4: 0). A proposta de intervenção é extremamente vaga, identificando apenas o agente ('O presidente Jair Bolsonaro') sem especificar ações, meios ou finalidades concretas (C5: 40). No geral, a redação revela dificuldades significativas em todas as competências avaliadas.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T21:55:53.421954",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 1,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 520,
+    "competencias_reais": [
+      120,
+      120,
+      80,
+      80,
+      120
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 80,
+          "justificativa": "A redação apresenta uma estrutura sintática deficitária, caracterizada por diversas falhas que comprometem a fluidez da leitura e a clareza das ideias. Foram identificadas 8 falhas de estrutura sintática, incluindo excesso e duplicação de palavras e elementos sintáticos, como em 'etc., já etc.', 'países demonstram países demonstram', 'parte parte', 'por celebridades, por celebridades em redes sociais', 'informação informações' e a redundância em 'que comprova claramente sua propriedade nacional que é essa região'. Além disso, há justaposição de orações e períodos, como nas construções com gerúndio isolado em 'sendo no Peru, altamente contaminada por mercúrio da extração de ouro, todavia somente o Brasil é lembrado' e no longo e complexo período final, que carece de articulação sintática adequada. Embora o texto apresente um número muito baixo de desvios gramaticais (apenas 1 desvio de regência em 'a tempo real' por 'em tempo real'), a presença de uma estrutura sintática deficitária, conforme os critérios do Módulo 03, Seção 1.3 e 4.3, impede que a nota seja superior ao Nível 2. A regra de que 'textos que tenham características de dois níveis diferentes devem ser avaliados no nível inferior' é aplicada, pois a estrutura deficitária é uma característica do Nível 2, mesmo com poucos desvios."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra uma compreensão completa da proposta temática 'Preservação da Amazônia: Desafio brasileiro ou internacional?'. O participante aborda a dicotomia central do tema, defendendo a soberania brasileira sobre a Amazônia e criticando a intervenção internacional, que é apresentada como hipócrita e politicamente motivada. O texto está estruturado de acordo com o gênero dissertativo-argumentativo, apresentando introdução, desenvolvimento e conclusão de forma clara e sem partes embrionárias. Não há traços constantes de outros tipos textuais nem aglomerado de palavras. Contudo, o repertório sociocultural mobilizado para sustentar a argumentação é predominantemente baseado nos textos motivadores (ao discutir as posições de Macron e Bolsonaro, as queimadas e a soberania) e/ou não legitimado (ao mencionar 'moradores informam' ou desqualificar Macron sem respaldo em áreas do conhecimento). Não há a apresentação de repertório legitimado e pertinente ao tema com uso produtivo ou improdutivo que eleve a nota para os níveis superiores. Dessa forma, a redação se enquadra nos critérios do Nível 3 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 80,
+          "justificativa": "A redação aborda o tema de forma completa, defendendo a soberania brasileira sobre a Amazônia e criticando a preocupação internacional como um 'falso discurso' com motivações políticas. Há uma direção clara na defesa desse ponto de vista. No entanto, o projeto de texto apresenta muitas falhas na seleção, relação, organização e interpretação das informações, fatos e opiniões. O participante seleciona argumentos como a naturalidade das queimadas anuais, a desqualificação do presidente Macron e a suposta cobiça internacional pelo lençol freático, mas não os relaciona de forma lógica e progressiva. As ideias são frequentemente justapostas, sem uma hierarquia clara ou um encadeamento que guie o leitor de maneira estratégica. A interpretação das informações é unilateral e superficial, sem aprofundamento ou contextualização adequada. Além disso, a redação demonstra uma ausência significativa de desenvolvimento das informações, fatos e opiniões apresentadas. A maioria das afirmações é feita sem explicações, exemplificações ou desdobramentos, deixando para o leitor a tarefa de estabelecer as relações e completar o sentido. Por exemplo, a ideia de 'falso discurso' ou a 'cobiça internacional' não são fundamentadas, e a relação entre as queimadas e uma 'intenção política contrária ao atual governo' não é desenvolvida. Essa combinação de um projeto de texto com muitas falhas e a falta de desenvolvimento das ideias enquadra a redação no Nível 2 da Competência III."
+        },
+        "competencia_4": {
+          "nota": 80,
+          "justificativa": "A redação demonstra uma presença pontual de elementos coesivos, principalmente intraparágrafos, mas falha gravemente na articulação interparágrafos e apresenta muitas repetições e inadequações que comprometem a fluidez e a progressão argumentativa do texto. Não há nenhum operador argumentativo explícito conectando os parágrafos, o que impede a progressão para os níveis mais altos da Competência IV (Nível 4 exige pelo menos um operador argumentativo interparágrafos, e Nível 5 exige pelo menos dois). No âmbito intraparágrafos, o texto utiliza conectivos como 'e ainda', 'porém', 'através de', 'somada a', 'como se fosse', 'que', 'devido ao', 'e', 'também', 'todavia', 'sendo assim', 'a partir do momento em que', 'sem deixar também de', 'para' e 'da mesma forma que'. Embora esses elementos estejam presentes, o uso é frequentemente básico e não contribui para uma articulação sofisticada da argumentação. As repetições são numerosas e prejudicam a coesão e a clareza. Exemplos incluem: 'etc., já etc. Já os outros países, demonstram países demonstram preocupação ambiental, porém, em grande parte parte', 'por celebridades, por celebridades em redes sociais', 'que comprova claramente sua propriedade nacional que é essa região' e 'se intitulando intitulando-se'. Essas repetições excessivas demonstram um repertório coesivo limitado e tornam a leitura cansativa. As inadequações coesivas são evidentes na falta de articulação entre os parágrafos, que se apresentam como blocos de ideias justapostas, sem transições lógicas ou operadores que estabeleçam relações de sentido entre eles. Além disso, a construção de períodos muito longos e complexos, com múltiplos conectivos encadeados sem a devida pontuação e clareza sintática (já apontado na Competência I), resulta em uma articulação pesada e de difícil compreensão. A ausência de conectivos interparágrafos e as muitas repetições e inadequações enquadram a redação no Nível 2 da Competência IV."
+        },
+        "competencia_5": {
+          "nota": 120,
+          "justificativa": "A proposta de intervenção está presente no último parágrafo da redação, onde o participante defende que a Amazônia deve ser 'preservada' e 'corretamente explorada para benefício econômico somente para o Brasil'. A proposta está diretamente relacionada ao tema ('Preservação da Amazônia: Desafio brasileiro ou internacional?') e aos argumentos desenvolvidos ao longo do texto, que enfatizam a soberania brasileira e criticam a hipocrisia internacional. Não há desrespeito explícito ou deliberado aos direitos humanos na proposta apresentada. Na análise dos 5 elementos obrigatórios, identificamos: Ação: Presente. As ações propostas são 'ser preservada' e 'ser corretamente explorada'. Ambas expressam o que deve ser feito em relação à Amazônia. Agente: Presente. O agente é implicitamente 'o Brasil' (ou o governo brasileiro/o Estado brasileiro). A defesa da soberania e a menção de 'benefício econômico somente para o Brasil' deixam claro que o país é o responsável por essas ações. O manual permite agentes ocultos, desde que textualmente marcados pelo contexto. Modo/Meio: Ausente. Embora a ação seja qualificada como 'corretamente explorada', o advérbio 'corretamente' é muito genérico e não especifica a maneira ou os recursos práticos pelos quais a exploração seria realizada (ex: 'por meio de leis', 'com fiscalização ambiental', 'através de tecnologias sustentáveis'). Não há concretude suficiente para ser considerado um modo/meio válido. Efeito/Finalidade: Presente. Os efeitos pretendidos são 'benéfica ao mundo' e 'para benefício econômico somente para o Brasil'. Detalhamento: Ausente. A frase 'da mesma forma que seria feito, talvez até de forma indiscriminada por nações hipócritas' é uma comparação e uma crítica à postura internacional, mas não detalha a ação, o agente, o modo/meio ou o efeito da proposta brasileira. Não há uma explicação, exemplificação, justificativa ou desdobramento explícito de nenhum dos elementos válidos. Considerando a presença de 3 elementos válidos (Ação, Agente, Efeito), a proposta de intervenção se enquadra no Nível 3 da Competência V, que corresponde a 120 pontos."
+        }
+      },
+      "nota_final": 480,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa, defendendo a soberania brasileira e criticando a intervenção internacional. Contudo, apresenta sérias deficiências em diversos aspectos. Na Competência I, a estrutura sintática é deficitária, com excesso de palavras e justaposição de orações, apesar de poucos desvios gramaticais. Na Competência II, a compreensão do tema é completa, mas o repertório sociocultural é predominantemente baseado nos textos motivadores ou não legitimado. A Competência III revela um projeto de texto com muitas falhas na seleção, relação, organização e interpretação de argumentos, com pouquíssimo desenvolvimento das ideias. Na Competência IV, a coesão é prejudicada pela ausência de operadores argumentativos interparágrafos e por repetições excessivas. Por fim, na Competência V, a proposta de intervenção apresenta 3 dos 5 elementos necessários (Ação, Agente, Efeito), mas carece de modo/meio e detalhamento. A nota final consolidada é de 480 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T21:57:57.147591",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 2,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 400,
+    "competencias_reais": [
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "A redação apresenta uma estrutura sintática regular e poucos desvios, o que a enquadra no Nível 3 da Competência I, conforme os critérios do manual do ENEM. \n\n**Análise da Estrutura Sintática:**\nO texto é composto por quatro parágrafos, e cada um deles é formado por um único período longo. Segundo o manual, a 'predominância de parágrafos formados por um único período deverão ser avaliados como textos de estrutura sintática regular (característica do nível 3)'. Além disso, foram identificadas 6 (seis) falhas de estrutura sintática (indicadas por 'X' no manual), que, embora não comprometam severamente a fluidez da leitura, contribuem para a avaliação de uma estrutura sintática que não atinge os níveis 'boa' ou 'excelente'. As falhas incluem excesso/duplicação de palavras e um truncamento de período.\n\n**Análise dos Desvios:**\nForam identificados 3 (três) desvios ao longo do texto:\n1.  Um desvio de ortografia ('passa há a ser' em vez de 'passa a ser').\n2.  Um desvio de concordância verbal ('Queimas ou desmatamento na Amazônia é algo' em vez de 'são algo', pois o sujeito é composto e plural).\n3.  Um desvio de escolha de registro ('Só que', uma marca de oralidade/informalidade).\n\nConsiderando o 'conjunto textual' (20 linhas), 3 desvios são classificados como 'poucos desvios', característica do Nível 4, conforme exemplos do manual (Exemplo 67, que também apresenta 3 desvios e é classificado como 'poucos').\n\n**Determinação da Nota:**\nO texto apresenta características de dois níveis diferentes:\n*   Estrutura Sintática: Regular (característica do Nível 3).\n*   Desvios: Poucos desvios (característica do Nível 4).\n\nDe acordo com a diretriz do manual, 'textos que tenham características de dois níveis diferentes devem ser avaliados no nível inferior'. Portanto, a redação é avaliada no Nível 3, correspondente a 120 pontos."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra uma compreensão completa da proposta temática e adere de forma excelente à estrutura do texto dissertativo-argumentativo, além de mobilizar repertório sociocultural de maneira produtiva.\n\n**Análise do Tema:**\nO participante compreendeu integralmente a proposta de redação, abordando todos os elementos do tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?'.\n\n1.  **Preservação da Amazônia:** O texto discute o desmatamento e as queimadas na Amazônia desde o período pré-colonial, contextualizando a degradação do ecossistema e a exploração econômica. Isso demonstra a compreensão da necessidade de preservação ao abordar o problema de sua ausência.\n2.  **Desafio brasileiro ou internacional:** O cerne da proposta é diretamente abordado no terceiro parágrafo, onde o participante argumenta que, embora o problema seja inicialmente do 'proprietário' (Brasil), ele se torna um 'desafio internacional' se o dono não conseguir resolver, devido ao impacto global. Essa discussão explora a dualidade proposta pelo tema de forma clara e consistente.\n\n**Estrutura Dissertativo-Argumentativa:**\nO texto apresenta uma estrutura dissertativo-argumentativa completa e bem definida, com:\n*   **Introdução (Parágrafo 1):** Apresenta o histórico do desmatamento no Brasil, contextualizando o problema da Amazônia.\n*   **Desenvolvimento (Parágrafos 2 e 3):** O segundo parágrafo aprofunda a questão das queimadas e do desmatamento, destacando o aumento em 2019 e a preocupação nacional e internacional. O terceiro parágrafo desenvolve a tese central sobre a Amazônia ser um desafio brasileiro que pode se tornar internacional.\n*   **Conclusão (Parágrafo 4):** Retoma a ideia da longa história de degradação e propõe uma intervenção (aumento da segurança por via aérea e terrestre) para controlar as ações humanas, visando evitar a 'morte da Amazônia, o aquecimento global e as mudanças climáticas'.\n\nNão foram identificadas partes embrionárias, aglomerados de palavras ou traços constantes de outros tipos textuais. A proporcionalidade entre as partes está adequada.\n\n**Repertório Sociocultural:**\nO texto mobiliza repertório sociocultural de forma produtiva:\n*   **Legitimado e Pertinente:** A menção ao 'período pré-colonial' e à 'chegada dos portugueses (1500)' é um repertório histórico legitimado e pertinente, pois contextualiza a exploração da Amazônia ao longo do tempo, reforçando a profundidade do desafio. A referência ao 'aquecimento global e as mudanças climáticas' é um conceito científico legitimado e pertinente, que destaca as consequências globais da degradação da Amazônia, justificando o caráter internacional do desafio.\n*   **Uso Produtivo:** O repertório histórico é utilizado para fundamentar a ideia de que o desmatamento é um problema constante e enraizado, contribuindo para a argumentação. A menção ao aquecimento global e às mudanças climáticas é vinculada diretamente à proposta de intervenção, mostrando as implicações maiores da preservação da Amazônia. Embora o repertório não seja de alta complexidade ou profundidade analítica como em alguns exemplos de Nível 5, ele é claramente vinculado à discussão proposta e contribui para o desenvolvimento do tema de forma consistente, caracterizando um uso produtivo. Além disso, a discussão central sobre o dilema 'brasileiro ou internacional' é uma re-elaboração das ideias apresentadas nos textos motivadores, mas a presença de repertório externo com uso produtivo eleva a avaliação.\n\nConsiderando a abordagem completa do tema, a excelente adequação à estrutura dissertativo-argumentativa e a mobilização de repertório legitimado, pertinente e com uso produtivo, a redação atinge o Nível 5 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta um projeto de texto perceptível, com uma tese clara sobre a dualidade do desafio da Amazônia (brasileiro que pode se tornar internacional), mas demonstra algumas falhas na seleção, relação, organização e, principalmente, na interpretação e desenvolvimento das informações e argumentos. O texto se enquadra no Nível 3 da Competência III.\n\n**Projeto de Texto (Tese/Ponto de Vista):**\nO participante estabelece um ponto de vista claro no terceiro parágrafo: o problema da Amazônia é, inicialmente, uma preocupação do Brasil ('o proprietário'), mas se torna um 'desafio internacional' caso o país não consiga resolvê-lo, devido ao seu impacto global. Essa tese é pertinente ao tema proposto e direciona a argumentação.\n\n**Seleção e Organização de Argumentos:**\n1.  **Parágrafo 1:** Inicia com uma contextualização histórica do desmatamento e da exploração econômica desde o período pré-colonial, o que é uma seleção pertinente para mostrar a raiz do problema.\n2.  **Parágrafo 2:** Aborda a recorrência das queimadas e do desmatamento, destacando o aumento em 2019 e a consequente preocupação internacional. Essa informação é bem selecionada para contextualizar o debate atual.\n3.  **Parágrafo 3:** Apresenta a tese central, articulando a responsabilidade brasileira com a potencial internacionalização do desafio. A organização é lógica ao apresentar o problema e, em seguida, a posição do autor sobre a questão central do tema.\n4.  **Parágrafo 4:** Retoma a ideia da longa duração do problema e propõe uma intervenção (aumento da segurança) para mitigar as consequências globais. A organização geral do texto (introdução histórica, contextualização do problema atual, tese, e proposta de intervenção) é funcional, mas apresenta algumas falhas na profundidade da articulação.\n\n**Desenvolvimento das Informações, Fatos e Opiniões:**\nO principal ponto fraco da redação reside no desenvolvimento dos argumentos. Embora o texto selecione informações e fatos relevantes, o aprofundamento e a interpretação são limitados. Há um 'desenvolvimento de algumas informações, fatos e opiniões', mas não da maioria, e muitas ideias são apenas afirmadas sem a devida explanação ou exemplificação:\n*   No primeiro parágrafo, a menção à 'danificação do ecossistema' e ao 'consumo econômico' é genérica, sem detalhamento dos impactos ou dos tipos de exploração. As 'peculiaridades' das árvores não são exploradas.\n*   No segundo parágrafo, o 'aumento que supera todos os outros anos' é um fato importante, mas não é desenvolvido com dados ou explicações sobre as causas desse aumento ou as implicações específicas da 'preocupação' internacional.\n*   No terceiro parágrafo, a transição da responsabilidade brasileira para a internacional é feita de forma condicional ('se o dono não consegue resolver'), mas as 'mudanças indesejáveis' que justificariam a intervenção internacional são apenas mencionadas de forma vaga ('prejudicar não só uma área mas sim o mundo todo') e só são listadas na conclusão, sem serem desenvolvidas no corpo do texto.\n*   Na conclusão, a proposta de 'aumentar a segurança por via aérea e terrestre' é apresentada como solução, mas não há um desenvolvimento de como essa medida funcionaria na prática para 'controlar e até mesmo diminuir gradativamente as ações do homem'. A relação direta com 'evitando a morte da Amazônia, o aquecimento global e as mudanças climáticas' é uma afirmação de consequência, mas não uma argumentação desenvolvida sobre os mecanismos de mitigação.\n\n**Relação e Interpretação:**\nAs relações entre as ideias são, em geral, claras, mas a interpretação e o aprofundamento são superficiais. O texto não explora as nuances do debate 'brasileiro ou internacional' além da condicionalidade apresentada. Faltam exemplos concretos ou análises mais aprofundadas que sustentem as afirmações, deixando para o leitor a tarefa de preencher lacunas argumentativas.\n\n**Conclusão da Avaliação:**\nA redação apresenta um projeto de texto com 'algumas falhas' porque, embora a estrutura seja lógica e a tese clara, a argumentação não é robusta o suficiente para sustentar plenamente o ponto de vista com profundidade. O 'desenvolvimento de algumas informações, fatos e opiniões' é evidente, mas não é consistente em todo o texto, com muitas afirmações sem o devido desdobramento. Essas características se alinham perfeitamente com os descritores do Nível 3 (120 pontos) da Competência III."
+        },
+        "competencia_4": {
+          "nota": 40,
+          "justificativa": "A redação demonstra um conhecimento precário dos mecanismos linguísticos necessários para a construção da argumentação, caracterizado por uma presença regular de elementos coesivos, mas com excessivas repetições e uma inadequação referencial.\n\n**Análise dos Mecanismos Coesivos:**\n1.  **Presença de elementos coesivos:** O texto apresenta uma presença regular de elementos coesivos intraparágrafos, como conjunções e preposições (\"Desde\", \"com\", \"que\", \"ou\", \"para\", \"considerando\", \"Mas\", \"se\", \"por ser\", \"já que\", \"e até mesmo\", \"Com isso\"). Há também elementos coesivos interparágrafos, como o conectivo informal \"Só que\" (início do 2º parágrafo) e o operador argumentativo \"Baseado nos fatos abordados acima\" (início do 4º parágrafo), que introduz uma conclusão. No entanto, a densidade e a sofisticação desses recursos não atingem o nível de \"constante\" ou \"expressiva\" presença.\n\n2.  **Repetições:** O texto é marcado por **excessivas repetições**, que prejudicam severamente a articulação e a fluidez. A mais impactante ocorre no último parágrafo, onde a frase \"fossem controladas e até mesmo diminuida gradativamente as ações do homem\" é repetida quase integralmente (\"fossem controladas e até diminuídas gradativamente as ações do homem\"). Essa reiteração de uma estrutura frasal complexa demonstra um repertório limitado de recursos linguísticos para reestruturar ideias e compromete a progressão argumentativa. Além disso, há repetições lexicais pontuais como \"periodo pré-colonial período pré-colonial\" (1º parágrafo), \"(1500) (1500)\" (1º parágrafo), \"2019 2019\" (2º parágrafo) e \"que que\" (4º parágrafo), que, embora algumas sejam desvios de C1, contribuem para a percepção de um texto com pouca variação coesiva.\n\n3.  **Inadequações:** Identifica-se uma inadequação no uso referencial no segundo parágrafo, na construção \"que o mesmo o tinha ocorrido\". O uso de \"o mesmo\" é frequentemente considerado inadequado em contextos formais, e a repetição do pronome \"o\" torna a construção redundante e gramaticalmente desajeitada, configurando uma falha na coesão referencial.\n\n**Aplicação da Grade Específica:**\nDe acordo com a Grade Específica da Competência IV:\n*   O texto apresenta uma \"presença regular de elementos coesivos\" (característica do Nível 3).\n*   Contém \"algumas inadequações\" (a construção \"o mesmo o tinha ocorrido\", característica do Nível 3).\n*   No entanto, a repetição da estrutura frasal no último parágrafo é tão significativa e prejudicial à articulação que se enquadra no critério de \"excessivas repetições\" (característica do Nível 1).\n\nConforme a diretriz do manual, quando um texto apresenta características de diferentes níveis, a nota a ser atribuída deve corresponder ao nível mais baixo. A presença de \"excessivas repetições\" é um critério do Nível 1, o que impede que a redação alcance notas mais altas, apesar de outros aspectos poderem se alinhar a níveis superiores. Portanto, a nota atribuída é 40 pontos."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção apresenta os 5 elementos obrigatórios (agente, ação, modo/meio, efeito e detalhamento), respeita os direitos humanos e está relacionada ao tema e aos argumentos desenvolvidos. No entanto, por ser construída a partir de uma oração condicional, sua nota é limitada ao Nível 2, conforme as diretrizes da Competência V do ENEM."
+        }
+      },
+      "nota_final": 560,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' com uma compreensão completa da proposta e excelente adequação à estrutura dissertativo-argumentativa, mobilizando repertório sociocultural pertinente (C2: 200 pontos). Contudo, apresenta falhas significativas na Competência IV (40 pontos) devido a excessivas repetições e inadequações referenciais que comprometem a articulação textual. Na Competência I (120 pontos), a estrutura sintática é regular e há poucos desvios. A Competência III (120 pontos) revela um projeto de texto perceptível com tese clara, mas o desenvolvimento dos argumentos e a interpretação das informações são superficiais. Por fim, a proposta de intervenção (C5: 80 pontos) contém todos os elementos necessários e respeita os direitos humanos, mas sua construção condicional limita a pontuação. A nota final consolidada é de 560 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:00:39.577110",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 3,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 0,
+    "competencias_reais": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-4789-abcd-ef0123456789",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "A redação demonstra um domínio precário da modalidade escrita formal da Língua Portuguesa, caracterizado por uma estrutura sintática deficitária e uma quantidade muito elevada de desvios gramaticais e de convenções da escrita. A fluidez da leitura é constantemente prejudicada por falhas na construção dos períodos e pela recorrência de erros. Conforme a Grade Específica da Competência I, um texto com 'estrutura sintática deficitária com muitos desvios' é avaliado no Nível 1 (40 pontos)."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra uma compreensão completa da proposta de redação, abordando de forma plena e consistente o tema \"Preservação da Amazônia: Desafio brasileiro ou internacional?\". O texto explora tanto a perspectiva do desafio brasileiro (negligência governamental, responsabilidade nacional, política ambiental obsoleta) quanto a do desafio internacional (observação mundial, alerta da França, hipótese de internacionalização, exemplo da Guiana Francesa). A estrutura do texto dissertativo-argumentativo é plenamente respeitada, com introdução, desenvolvimento e conclusão claramente definidos e proporcionais, sem a presença de partes embrionárias ou traços constantes de outros tipos textuais. Além disso, o participante mobiliza repertório sociocultural legitimado e pertinente ao tema, com uso produtivo, ao mencionar a Guiana Francesa como colônia francesa na Amazônia e sua área protegida como modelo para outras nações, vinculando essa informação à discussão sobre a internacionalização e o papel da França."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta um projeto de texto com algumas falhas e o desenvolvimento de algumas informações, fatos e opiniões, o que a enquadra no Nível 3 da Competência III. O participante demonstra capacidade de selecionar informações pertinentes ao tema, como a irresponsabilidade governamental, a ação de grupos criminosos, a preocupação internacional (com menção à França e à Guiana Francesa) e a necessidade de sustentabilidade. No entanto, a relação e a organização dessas ideias não são sempre estratégicas ou plenamente desenvolvidas. Por exemplo, a transição entre a discussão da negligência brasileira e a hipótese de internacionalização (P2) é um pouco abrupta, e o exemplo da Guiana Francesa, embora pertinente, não é totalmente interpretado para fortalecer a linha argumentativa do participante sobre o desafio brasileiro ou internacional. O texto oscila entre reconhecer a pressão internacional e reafirmar a soberania e responsabilidade brasileira, sem construir uma argumentação coesa que integre esses dois polos de forma mais estratégica. O desenvolvimento de argumentos é parcial; enquanto algumas ideias são desdobradas (como as consequências da exploração irregular, exemplificadas por rios poluídos), outras são apenas afirmadas ou mencionadas sem aprofundamento (como a forma exata pela qual a falta de atenção à legislação leva aos impactos, ou como a Guiana Francesa serve de 'modelo' para o Brasil no contexto da internacionalização). A progressão textual é perceptível, mas as falhas na articulação e no aprofundamento de certas informações comprometem a consistência do ponto de vista defendido ao longo de todo o texto."
+        },
+        "competencia_4": {
+          "nota": 80,
+          "justificativa": "A redação apresenta-se em formato de monobloco, ou seja, é constituída por um único parágrafo, sem qualquer organização paragráfica identificável. Conforme a Grade Específica da Competência IV, textos em forma de monobloco não devem ultrapassar o Nível 2 (80 pontos). Além disso, a articulação entre as ideias é prejudicada por uma presença apenas pontual de elementos coesivos, muitas repetições e algumas inadequações. Embora haja a tentativa de uso de conectivos como 'tanto que', 'Inicialmente', 'além disso', 'devido à', 'pois', 'não só... como também', 'É importante ressaltar que', 'porque' e 'Por fim', a eficácia desses recursos é comprometida pela estrutura sintática deficitária e pela falta de fluidez textual. A ausência de parágrafos impede a avaliação da coesão interparágrafos nos moldes exigidos para os níveis mais altos. Há também muitas repetições de termos temáticos ('amazônica', 'sustentabilidade', 'país', 'responsabilidade', 'desafio') e de pronomes ('nossa/nossas'), que demonstram repertório coesivo limitado. A inadequação no uso de 'na qual' (linha 8) e a transição abrupta entre ideias (como a menção à internacionalização e à Guiana Francesa no segundo bloco) reforçam a avaliação de 'muitas inadequações'."
+        },
+        "competencia_5": {
+          "nota": 0,
+          "justificativa": "A redação não apresenta uma proposta de intervenção explícita e concreta para o problema abordado, conforme exigido pela Competência V. O texto se limita a constatar a irresponsabilidade do governo e de grupos criminosos, a negligência na questão ambiental e as consequências negativas da inação, além de reafirmar a responsabilidade brasileira e a necessidade de sustentabilidade. No entanto, não há a formulação de uma iniciativa clara que indique 'o que deve ser feito', 'quem vai executar', 'como será feito' ou 'para que será feito' de forma a configurar uma proposta de intervenção com os elementos obrigatórios. As menções a 'medidas' são vagas e condicionais ('se essas medidas não forem colocadas em prioridade'), e as conclusões sobre 'desafios para cumprir' ou 'não podemos terceirizar as nossa responsabilidade' são constatações ou princípios, não propostas de ação."
+        }
+      },
+      "nota_final": 440,
+      "resumo_executivo": "A redação demonstra uma compreensão completa do tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', abordando-o de forma plena e consistente, inclusive mobilizando repertório sociocultural pertinente (Competência 2: 200 pontos). Contudo, apresenta deficiências significativas em outras áreas. O domínio da modalidade escrita formal é precário, com estrutura sintática deficitária e numerosos desvios gramaticais (Competência 1: 40 pontos). O projeto de texto revela falhas na organização e no desenvolvimento estratégico das ideias, resultando em uma argumentação parcial e por vezes inconsistente (Competência 3: 120 pontos). A coesão e a coerência são gravemente comprometidas pela apresentação em monobloco, ausência de parágrafos e uso pontual e inadequado de elementos coesivos, além de repetições excessivas (Competência 4: 80 pontos). Por fim, a redação não apresenta qualquer proposta de intervenção explícita e concreta para o problema, resultando em 0 pontos na Competência 5. A nota final consolidada é de 440 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:03:00.378505",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 4,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 480,
+    "competencias_reais": [
+      80,
+      120,
+      120,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 160,
+          "justificativa": "A redação demonstra bom domínio da modalidade escrita formal da língua portuguesa, apresentando uma estrutura sintática boa e poucos desvios. \n\n**Estrutura Sintática:** A estrutura sintática do texto é avaliada como 'boa'. Foi identificada uma falha de estrutura sintática (justaposição de orações no terceiro parágrafo), mas a fluidez da leitura não é comprometida de forma significativa. Os períodos são construídos de maneira clara e organizada, sem a predominância de parágrafos com período único ou problemas que caracterizem uma estrutura deficitária. Contudo, a complexidade na construção dos períodos, com orações intercaladas e inversões, não atinge o nível de 'excelência' esperado para a nota máxima, o que a impede de ser classificada como 'excelente'.\n\n**Desvios:** Foram identificados 3 desvios no total, o que se enquadra na categoria de 'poucos desvios' para o conjunto textual apresentado (29 linhas). Os desvios são:\n1.  Dois desvios de pontuação (vírgulas indevidas antes de conjunções subordinativas).\n2.  Um desvio gramatical (erro de flexão verbal do infinitivo).\n\nDe acordo com a Grade Específica da Competência I, a combinação de 'estrutura sintática boa' e 'poucos desvios' corresponde ao Nível 4, resultando na atribuição de 160 pontos. A classificação de gravidade dos desvios não é aplicada, conforme as diretrizes do manual do INEP para a Competência I, que não estabelece hierarquia de penalização pela qualidade dos desvios.",
+          "desvios_encontrados": [
+            "Desvio de Pontuação (vírgula indevida antes de conjunção subordinativa): 'natureza, posto que é por meio dela'",
+            "Desvio de Pontuação (vírgula indevida antes de conjunção subordinativa): 'da nossa, visto que sua vida'",
+            "Falha de Estrutura Sintática (justaposição de orações): 'não faltou ajuda, o presidente da França propôs a ideia'",
+            "Desvio Gramatical (erro de flexão verbal do infinitivo): 'com o fito de nos tornamos' (o correto seria 'nos tornarmos')"
+          ]
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra compreensão da proposta de redação e apresenta uma estrutura dissertativo-argumentativa adequada, com introdução, desenvolvimento e conclusão bem delimitados e proporcionais. No entanto, o repertório sociocultural mobilizado para desenvolver o tema é predominantemente baseado nos textos motivadores, sem a apresentação de informações, fatos ou conceitos externos legitimados pelas áreas do conhecimento.",
+          "analise_tema": "O candidato compreendeu integralmente a proposta de redação, abordando o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa. O texto discute a necessidade de preservação da Amazônia, a negligência governamental brasileira e a proposta de status internacional/ajuda externa, posicionando-se a favor da cooperação internacional. Não há tangenciamento ou fuga ao tema. A estrutura dissertativo-argumentativa foi respeitada, com todas as três partes (introdução, dois parágrafos de desenvolvimento e conclusão) presentes e nenhuma delas sendo embrionária. Contudo, o repertório sociocultural utilizado para sustentar a argumentação é baseado nos textos motivadores, sem a mobilização de conhecimentos de outras áreas que extrapolem as informações fornecidas na prova. De acordo com a grade específica da Competência II, a abordagem completa do tema, a estrutura dissertativo-argumentativa sem partes embrionárias e o repertório baseado nos textos motivadores classificam a redação no Nível 3 (120 pontos)."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta uma abordagem completa do tema proposto, demonstrando que o participante compreendeu a dicotomia entre a preservação da Amazônia como desafio brasileiro ou internacional. O ponto de vista defendido é o de que a negligência governamental brasileira exige a aceitação de ajuda e cooperação internacional, inclusive com a possibilidade de 'abrir mão de posses territoriais' para a salvação da 'fonte de vida'.\n\n**Projeto de Texto:** O projeto de texto é perceptível e possui uma direção clara, iniciando com a apresentação do problema (queimadas, desmatamento, negligência governamental), passando pela constatação da insuficiência dos recursos brasileiros e a proposta de ajuda internacional, e culminando na defesa da cooperação. No entanto, o projeto de texto apresenta **algumas falhas**. Há momentos em que a relação entre as ideias não é totalmente estratégica ou fluida. Por exemplo, a transição do argumento genérico sobre a 'posse total da natureza' no segundo parágrafo para a discussão específica das queimadas é um pouco abrupta. Além disso, a afirmação conclusiva de que 'é necessário abrir mão de posses territoriais' é uma tese muito forte que não é totalmente construída ou justificada pelos argumentos desenvolvidos nos parágrafos anteriores, que focam mais na 'recepção de ajuda' do que na 'renúncia de soberania'. Essa desproporção entre a força da tese final e o desenvolvimento prévio configura uma falha na organização estratégica dos argumentos.\n\n**Desenvolvimento dos Argumentos:** O texto demonstra **desenvolvimento de algumas informações, fatos e opiniões**. O participante seleciona informações pertinentes (negligência governamental, proposta francesa, consequências das queimadas), mas o desdobramento dessas ideias é limitado. Muitas afirmações são apresentadas sem aprofundamento, exemplificação ou explicação detalhada. Por exemplo, a 'negligência governamental' é mencionada, mas não é explicitada com exemplos concretos. A 'grande ajuda de preservação' que viria com o status internacional não é detalhada. A relação entre 'sua vida independe da nossa' e a necessidade de 'prolongar seus dias recebendo ajuda' é um pouco vaga. O leitor precisa preencher algumas lacunas para compreender plenamente as conexões e implicações dos argumentos.\n\nEm suma, a redação se enquadra no Nível 3 da Competência III, pois, embora aborde o tema de forma completa e apresente um projeto de texto com direção, este ainda contém algumas falhas na seleção, organização e relação das ideias, e o desenvolvimento dos argumentos é parcial, não atingindo a consistência e a profundidade esperadas para os níveis superiores.",
+          "argumentos_identificados": [
+            "Dever de todos cuidar do ambiente, mas há negligência governamental na Amazônia.",
+            "A natureza não pode ser totalmente possuída, pois é vital para o oxigênio e ar fresco.",
+            "Queimadas contínuas na Amazônia causaram mortes de animais e afetaram indígenas, tornando-se um problema internacional.",
+            "Recursos do governo brasileiro foram mínimos, enquanto a França propôs status internacional para a Amazônia, o que traria ajuda de preservação.",
+            "É necessário abrir mão de posses territoriais para salvar a Amazônia, buscando acordo com a França para receber recursos e promover empatia e humanitarismo."
+          ]
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo dos mecanismos linguísticos necessários para a construção da argumentação, articulando as partes do texto de forma excelente e apresentando um repertório diversificado de recursos coesivos, sem repetições problemáticas ou inadequações.\n\n**Coesão Interparágrafos:** O texto utiliza operadores argumentativos de forma estratégica e expressiva em pelo menos três momentos distintos para articular os parágrafos:\n*   'A priori' (início do 2º parágrafo): estabelece uma relação de sequenciação e introdução de um novo argumento, conectando-o à discussão anterior sobre a negligência governamental.\n*   'Além disso' (início do 3º parágrafo): adiciona um novo argumento, complementando a ideia de que o problema se tornou internacional e que os recursos brasileiros são insuficientes.\n*   'Depreende-se, portanto, que' (início do 4º parágrafo): introduz a conclusão do texto, estabelecendo uma relação de consequência e síntese dos argumentos apresentados.\n\n**Coesão Intraparágrafos:** Todos os parágrafos apresentam uma variedade de elementos coesivos que garantem a articulação interna das ideias:\n*   **Parágrafo 1:** 'que', 'Visto que' (causal), 'No entanto' (adversativo), 'devido a' (causal).\n*   **Parágrafo 2:** 'posto que' (causal), 'dela' (referenciação a 'natureza'), 'Contudo' (adversativo), 'Isso' (referenciação anafórica), 'Por conseguinte' (conclusivo), 'tal celeuma' (retomada lexical).\n*   **Parágrafo 3:** 'Entretanto' (adversativo), 'tal atitude' (retomada lexical), 'Sobretudo' (ênfase), 'visto que' (causal), 'porém' (adversativo).\n*   **Parágrafo 4:** 'Logo' (conclusivo), 'por meio do' (meio/instrumento), 'com o fito de' (finalidade).\n\n**Referenciação e Substituição Lexical:** O texto emprega pronomes ('dela', 'Isso'), retomadas lexicais ('tal celeuma', 'tal atitude') e termos do campo semântico do tema ('natureza', 'ambiente', 'território amazônico') de maneira eficiente, contribuindo para a progressão textual sem repetições desnecessárias.\n\n**Repetição:** As poucas repetições de termos como 'natureza' e 'Amazônia' são inerentes ao tema e não prejudicam a fluidez ou a diversidade do repertório coesivo, sendo intercaladas com outras formas de referenciação. Não há repetição excessiva de operadores argumentativos.\n\n**Inadequação Coesiva:** Não foram identificadas inadequações no uso dos elementos coesivos. Todos os conectivos e recursos de coesão foram empregados de forma precisa, estabelecendo as relações semânticas corretas e contribuindo para a clareza e a força argumentativa do texto.\n\nEm suma, a redação atende plenamente aos critérios do Nível 5 da Competência IV, demonstrando um domínio exemplar dos mecanismos linguísticos para a construção da argumentação.",
+          "problemas_coesao": []
+        },
+        "competencia_5": {
+          "nota": 200,
+          "justificativa": "A proposta de intervenção elaborada pelo participante é muito bem detalhada, apresentando os 5 elementos obrigatórios de forma clara e articulada, além de respeitar os direitos humanos e estar diretamente relacionada ao tema e aos argumentos desenvolvidos ao longo da redação.",
+          "elementos_presentes": {
+            "agente": "presente - 'o governo brasileiro'",
+            "acao": "presente - 'entre em acordo com o Governo da França, para receber os recursos necessários'",
+            "modo_meio": "presente - 'por meio do Ministério do Meio Ambiente'",
+            "efeito": "presente - 'com o fito de nos tornarmos um país mais empático e humanitário'",
+            "detalhamento": "presente - 'para salvar nossa fonte de vida' (detalhamento da finalidade última da intervenção, justificando a necessidade da ação proposta)"
+          },
+          "respeito_direitos_humanos": "sim - A proposta, embora possa ser considerada politicamente controversa ao sugerir 'abrir mão de posses territoriais', não incita à violência, discriminação, censura ou nega direitos fundamentais, conforme os princípios norteadores dos direitos humanos estabelecidos no manual."
+        }
+      },
+      "nota_final": 800,
+      "resumo_executivo": "A redação aborda de forma completa o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', defendendo a necessidade de cooperação internacional frente à negligência governamental brasileira. Em Competência I, o texto demonstra bom domínio da modalidade escrita formal, com estrutura sintática boa e poucos desvios (160 pontos). Em Competência II, a compreensão do tema e a adesão ao gênero dissertativo-argumentativo são plenas, mas o repertório sociocultural é predominantemente baseado nos textos motivadores (120 pontos). A Competência III revela um projeto de texto com direção, porém com algumas falhas na organização estratégica e desenvolvimento limitado dos argumentos (120 pontos). A redação se destaca em Competência IV, exibindo um domínio expressivo dos mecanismos linguísticos de coesão, com articulação excelente entre as partes (200 pontos). Por fim, a Competência V é integralmente atendida com uma proposta de intervenção detalhada, contendo todos os cinco elementos e respeitando os direitos humanos (200 pontos). A nota final consolidada da redação é de 800 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:05:20.387111",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 5,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "O texto apresenta uma estrutura sintática regular, caracterizada pela predominância de parágrafos formados por um único período e por diversas falhas de estrutura sintática, como a duplicação excessiva de palavras e expressões. Foram identificados 11 casos de duplicação de elementos sintáticos, o que compromete a fluidez e a concisão da escrita. Além disso, o participante cometeu alguns desvios gramaticais e de convenções da escrita. No total, foram contabilizados 6 desvios: 4 de convenções da escrita (1 de maiúscula/minúscula, 2 de ortografia e 1 de acentuação) e 2 gramaticais (1 de crase e 1 de concordância nominal). A combinação de 'estrutura sintática regular' e 'alguns desvios' enquadra a redação no Nível 3 da Competência I, conforme a grade específica do ENEM."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "O texto demonstra excelente compreensão da proposta de redação, desenvolvendo o tema de forma plena e consistente dentro dos limites estruturais do texto dissertativo-argumentativo. O participante aborda de maneira completa a questão da 'Preservação da Amazônia: Desafio brasileiro ou internacional?', apresentando a tensão entre a soberania brasileira e a necessidade de apoio internacional. A estrutura do texto é exemplar, com introdução, desenvolvimento e conclusão bem definidos e proporcionais, sem a presença de partes embrionárias ou traços constantes de outros tipos textuais. Além disso, o texto mobiliza repertório sociocultural legitimado, pertinente ao tema e com uso produtivo, como a menção ao Fundo Amazônico e suas consequências, que é utilizada de forma argumentativa para sustentar o ponto de vista defendido."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "O participante demonstra capacidade de selecionar, relacionar e organizar informações, fatos e opiniões em defesa de um ponto de vista, configurando um projeto de texto com poucas falhas. A tese, apresentada na introdução, estabelece a dualidade entre o desafio internacional e a soberania brasileira, sendo retomada de forma coerente na conclusão. Os argumentos são pertinentes ao tema e buscam sustentar o ponto de vista. No entanto, o desenvolvimento das informações, fatos e opiniões é inconsistente. Enquanto o terceiro parágrafo apresenta um bom desdobramento das ideias sobre o Fundo Amazônico, explicando causas e consequências de forma clara, o segundo parágrafo se limita a expor a opinião do governo brasileiro sem aprofundar ou fundamentar essa perspectiva de forma mais elaborada. Essa disparidade no desenvolvimento dos argumentos faz com que o texto se enquadre na descrição de 'desenvolvimento de algumas informações, fatos e opiniões'. Conforme a grade específica, quando há características de níveis diferentes (projeto de texto com poucas falhas - Nível 4, e desenvolvimento de algumas informações - Nível 3), prevalece o nível mais baixo, resultando na nota 120."
+        },
+        "competencia_4": {
+          "nota": 40,
+          "justificativa": "O texto apresenta excessivas repetições e duplicações de elementos coesivos, especialmente de operadores argumentativos, o que compromete severamente a articulação das ideias e a demonstração de um repertório diversificado de mecanismos linguísticos. Embora haja tentativas de estabelecer coesão intra e interparágrafos, a forma como esses elementos são empregados (com duplicações como 'porém porém', 'Porém líderes Porém, líderes', 'Entretanto Entretanto', 'Nesse sentido sentido' e 'Portanto Portanto') evidencia um controle precário dos recursos coesivos. Essas repetições não apenas tornam o texto cansativo, mas também impedem que o participante demonstre a variedade e a adequação necessárias para os níveis mais altos da Competência IV. A presença de 'excessivas repetições' é um critério explícito para o Nível 1 da grade específica."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção, localizada no parágrafo final ('Portanto Portanto, fica evidente a necessidade do apoio de outros países na preservação da região amazônica amazônica, respeitando, sempre, a soberania do estado brasileiro.'), apresenta 2 elementos válidos. A 'ação' e o 'agente' são considerados nulos, pois a frase expressa uma constatação da necessidade de apoio ('fica evidente a necessidade do apoio'), e não uma ação prática a ser executada por um agente específico. O manual da Competência V classifica como 'ação nula' ou 'constatação de falta' expressões que apontam para um problema ou uma necessidade, mas não para uma solução ativa. Consequentemente, o agente ('outros países') não está vinculado a uma ação interventiva proposta pelo participante. No entanto, são identificados um 'efeito/finalidade' válido ('na preservação da região amazônica') e um 'detalhamento' válido ('respeitando, sempre, a soberania do estado brasileiro'), que especifica a condição para esse apoio. A proposta respeita os direitos humanos e está diretamente relacionada ao tema e aos argumentos desenvolvidos no texto. Com 2 elementos válidos, a redação se enquadra no Nível 2 da Competência V."
+        }
+      },
+      "nota_final": 560,
+      "resumo_executivo": "A redação aborda de forma completa e consistente o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', demonstrando excelente compreensão e desenvolvimento temático (C2: 200). O texto apresenta uma estrutura dissertativo-argumentativa clara, com introdução, desenvolvimento e conclusão bem definidos, e mobiliza repertório sociocultural produtivo. Contudo, a Competência I (120) é prejudicada por falhas de estrutura sintática (duplicações) e desvios gramaticais e de convenções da escrita. A Competência III (120) revela um projeto de texto com poucas falhas, mas com inconsistência no desenvolvimento dos argumentos, onde um parágrafo é mais aprofundado que outro. A Competência IV (40) é a mais comprometida, devido ao uso excessivo e repetitivo de operadores argumentativos e repetições lexicais, o que impede a articulação fluida das ideias. Por fim, a Competência V (80) apresenta uma proposta de intervenção com 2 elementos válidos (efeito e detalhamento), mas com ação e agente nulos, pois a proposta se limita a constatar uma necessidade, sem propor uma ação concreta. A nota final consolidada é de 560 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:07:18.473383",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 6,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 440,
+    "competencias_reais": [
+      80,
+      120,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-4789-abcd-ef1234567890",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "A redação demonstra domínio precário da modalidade escrita formal da Língua Portuguesa, caracterizado por uma estrutura sintática deficitária e muitos desvios gramaticais e de convenções da escrita. A fluidez da leitura é severamente comprometida devido a períodos excessivamente longos e confusos, repetições desnecessárias e construções truncadas que dificultam a compreensão das ideias. Além disso, foram identificados múltiplos desvios que afetam a correção gramatical e a adequação à norma-padrão."
+        },
+        "competencia_2": {
+          "nota": 80,
+          "justificativa": "A redação compreende a proposta de redação, abordando o tema de forma completa ao mencionar tanto o aspecto brasileiro da Amazônia quanto a necessidade de se pensar no planeta e na possibilidade de outro país investir, o que remete ao desafio internacional. No entanto, demonstra domínio insuficiente do texto dissertativo-argumentativo. Embora apresente as três partes essenciais (introdução, desenvolvimento e conclusão), todas elas são embrionárias, ou seja, muito curtas e com pouca produção, o que compromete a estrutura e o desenvolvimento das ideias. O repertório sociocultural mobilizado é limitado, baseando-se em informações de senso comum ou que poderiam ser inferidas dos textos motivadores, sem aprofundamento ou uso produtivo de conceitos de áreas do conhecimento."
+        },
+        "competencia_3": {
+          "nota": 80,
+          "justificativa": "A redação apresenta um projeto de texto com muitas falhas e as informações, fatos e opiniões são apresentados sem desenvolvimento. Embora o participante aborde o tema de forma completa, o planejamento argumentativo é precário. Os argumentos são superficiais e não são selecionados, relacionados, organizados ou interpretados de maneira estratégica para defender um ponto de vista de forma consistente. Há uma sucessão de afirmações genéricas sem aprofundamento, exemplificação ou explicação, deixando para o leitor a tarefa de estabelecer as conexões e inferir o sentido. A progressão das ideias é prejudicada pela falta de articulação e pela inclusão de pontos que não contribuem efetivamente para a argumentação central, como a menção à comoção em São Paulo. Não há desenvolvimento de nenhuma das informações ou opiniões apresentadas, o que se alinha ao descritor do Nível 2."
+        },
+        "competencia_4": {
+          "nota": 40,
+          "justificativa": "A redação demonstra conhecimento precário dos mecanismos linguísticos necessários para a construção da argumentação. Embora apresente uma presença pontual de elementos coesivos, o texto é gravemente prejudicado por excessivas repetições e inadequações coesivas que comprometem a articulação das ideias e a fluidez da leitura. A estrutura em monobloco, sem divisão de parágrafos, já limita a nota máxima a 80 pontos (Nível 2), mas a quantidade e a natureza das repetições e inadequações rebaixam a avaliação para o Nível 1. As constantes autocorreções e redundâncias imediatas revelam um repertório coesivo muito limitado e uma dificuldade acentuada na formulação textual."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção está presente no último parágrafo da redação e é construída a partir de uma oração condicional, o que limita a nota máxima a 80 pontos (Nível 2), conforme o manual de avaliação. A proposta apresenta dois elementos válidos: o agente ('o Brasil') e a ação ('investir no reflorestamento e cuidados na fauna e flora presente no Amazonas'). A segunda parte da proposta, que sugere 'deixar [a Amazônia] com um país que tenha como investir nele', embora apresente uma ação válida, tem um agente nulo ('um país que tenha como investir nele', que é vago). Os elementos de modo/meio e detalhamento estão ausentes, e o efeito ('seria bom') é considerado vago, não configurando um resultado concreto da ação. A proposta respeita os direitos humanos e está relacionada ao tema e aos argumentos desenvolvidos no texto."
+        }
+      },
+      "nota_final": 320,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' reconhecendo a responsabilidade nacional e a possibilidade de envolvimento internacional. Contudo, o texto apresenta deficiências significativas em todas as competências avaliadas. Em C1, o domínio da modalidade escrita formal é precário, com múltiplos desvios gramaticais e sintáticos. Em C2, a compreensão da proposta é completa, mas o domínio do gênero dissertativo-argumentativo é insuficiente, com estrutura embrionária e repertório sociocultural limitado. Em C3, o projeto de texto é falho, com argumentos superficiais e sem desenvolvimento estratégico. Em C4, a coesão textual é gravemente comprometida por uma estrutura em monobloco e repetições excessivas. Por fim, em C5, a proposta de intervenção, embora presente e respeitosa aos direitos humanos, é condicional e apresenta apenas dois elementos válidos (agente e ação), sem detalhamento ou efeito concreto. A nota final reflete as dificuldades do participante em construir um texto coeso, coerente e argumentativo dentro da norma-padrão.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:09:25.790375",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 7,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 880,
+    "competencias_reais": [
+      200,
+      160,
+      160,
+      160,
+      200
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 200,
+          "justificativa": "A redação demonstra excelente domínio da modalidade escrita formal da língua portuguesa. A estrutura sintática é complexa e fluida, com períodos bem construídos, orações subordinadas e adjuntos adverbiais deslocados, o que evidencia um bom controle da organização textual. Foi identificada apenas uma falha de estrutura sintática, caracterizada por uma justaposição/ausência de conectivo/pontuação no terceiro parágrafo ('preservação, além preservação. Além de prevenir crimes'), que, embora presente, não compromete a fluidez geral da leitura nem a clareza das ideias. Quanto aos desvios, foram encontrados apenas dois: um desvio de convenção da escrita pelo uso indevido de maiúsculas em 'Meio Ambiente' (contabilizado uma única vez, conforme as regras do manual) e um desvio gramatical de concordância nominal em 'focadas' (referente a 'responsabilidade governamental' ou 'debates'). A quantidade e a natureza dos desvios e da falha sintática se enquadram perfeitamente nos critérios para o Nível 5 da Competência I, que admite no máximo uma falha de estrutura sintática e, no máximo, dois desvios."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra excelente compreensão da proposta de redação e desenvolve o tema de forma completa e consistente, dentro dos limites estruturais do texto dissertativo-argumentativo. O participante aborda a questão central do tema – 'Preservação da Amazônia: Desafio brasileiro ou internacional?' – ao defender, de maneira explícita e argumentada, que a preservação da Amazônia é um 'incontestável e urgente dever brasileiro', fundamentando essa posição na soberania nacional e na responsabilidade intransferível do país. A estrutura do texto dissertativo-argumentativo é plenamente respeitada, com introdução, dois parágrafos de desenvolvimento e conclusão, todas as partes bem delimitadas e nenhuma delas embrionária. Além disso, o texto mobiliza um repertório sociocultural produtivo, como a referência ao filme 'Avatar', que é legitimado, pertinente ao tema (ao estabelecer um paralelo entre a ficção e a busca de ganho monetário em detrimento da preservação ambiental na Amazônia) e utilizado de forma produtiva para introduzir e reforçar a discussão proposta. A argumentação é consistente e alinhada à defesa do ponto de vista do participante."
+        },
+        "competencia_3": {
+          "nota": 200,
+          "justificativa": "A redação apresenta um projeto de texto estratégico e o desenvolvimento das informações, fatos e opiniões ocorre de forma consistente em todo o texto, configurando autoria. O participante estabelece claramente seu ponto de vista na introdução ('o combate à exploração amazônica é um incontestável e urgente dever brasileiro') e o defende de maneira coesa e lógica ao longo da argumentação. No primeiro parágrafo de desenvolvimento, são selecionadas e interpretadas as causas da destruição da Amazônia (desmatamento, pecuária não sustentável, incêndios), com um bom desdobramento das consequências ambientais. No segundo parágrafo de desenvolvimento, a responsabilidade governamental brasileira é articulada com a soberania nacional, justificando a necessidade de fiscalização e prevenção de crimes. A conclusão retoma o repertório da introdução ('Avatar') e apresenta propostas de intervenção detalhadas e pertinentes, alinhadas aos problemas e responsabilidades discutidos. A organização das ideias é fluida e progressiva, sem saltos temáticos ou informações desconexas. Os argumentos são bem relacionados e interpretados para sustentar a tese. Embora haja um deslize pontual de estrutura sintática ('preservação, além preservação. Além de prevenir crimes') e uma leve imprecisão na integração da menção aos incêndios em Rondônia no terceiro parágrafo, esses não comprometem a progressão textual nem a estratégia argumentativa geral, enquadrando-se nos 'deslizes pontuais' admitidos para o nível máximo da competência."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo e estratégico dos mecanismos linguísticos necessários para a construção da argumentação, articulando as partes do texto de forma exemplar. Há uma presença constante e diversificada de elementos coesivos, tanto intraparágrafos quanto interparágrafos, que contribuem significativamente para a progressão temática e a coerência argumentativa. O participante utiliza operadores argumentativos interparágrafos em três momentos distintos ('A princípio', 'Por conseguinte', 'Portanto'), superando o requisito mínimo de dois para o nível máximo. Além disso, todos os parágrafos contêm múltiplos elementos coesivos de diferentes tipos, garantindo a articulação interna das ideias. A referenciação é bem construída, com o uso adequado de pronomes ('os quais', 'o qual', 'sua'), advérbios ('nesse sentido', 'posteriormente'), e expressões anafóricas ('esse panorama', 'essa região', 'esses locais', 'esses crimes', 'essas áreas'). Não foram identificadas repetições problemáticas de operadores argumentativos ou de termos que prejudiquem a fluidez textual ou a diversidade do repertório coesivo. Da mesma forma, não há inadequações no uso dos conectivos, ou seja, todos os elementos coesivos estabelecem relações semânticas pertinentes e contribuem para a orientação argumentativa do texto. A ausência de monobloco e a articulação impecável em todos os níveis confirmam o domínio pleno da Competência IV."
+        },
+        "competencia_5": {
+          "nota": 200,
+          "justificativa": "A proposta de intervenção, localizada no último parágrafo, é muito bem elaborada e detalhada, apresentando os 5 elementos obrigatórios de forma clara e articulada. O participante propõe ações concretas e pertinentes para o problema abordado, respeitando integralmente os direitos humanos. A proposta está diretamente relacionada ao tema ('Preservação da Amazônia: Desafio brasileiro ou internacional?') e aos argumentos desenvolvidos ao longo do texto, que defendem a responsabilidade brasileira na preservação da Amazônia e criticam a pecuária não sustentável e a falta de fiscalização. A menção ao filme 'Avatar' no detalhamento do efeito da segunda proposta também retoma o repertório sociocultural da introdução, demonstrando coesão e articulação textual."
+        }
+      },
+      "nota_final": 1000,
+      "resumo_executivo": "A redação demonstra um desempenho excepcional em todas as cinco competências avaliadas, alcançando a nota máxima em cada uma delas. O texto apresenta domínio exemplar da modalidade escrita formal, compreensão plena do tema com argumentação consistente e repertório sociocultural produtivo, um projeto de texto estratégico com autoria e progressão argumentativa fluida, e um uso expressivo e estratégico dos mecanismos coesivos. Adicionalmente, a proposta de intervenção é completa, detalhada, pertinente e respeita os direitos humanos, articulando-se perfeitamente com o tema e os argumentos desenvolvidos. A redação atinge a nota máxima de 1000 pontos, evidenciando excelência em todos os aspectos da avaliação do ENEM.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:11:22.240179",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 8,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 520,
+    "competencias_reais": [
+      120,
+      80,
+      120,
+      120,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 80,
+          "justificativa": "A redação demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, enquadrando-se no Nível 2 da Competência I. A estrutura sintática é avaliada como 'deficitária', pois apresenta diversas falhas que comprometem a fluidez e a clareza da leitura. Foram identificadas 5 falhas de estrutura sintática, incluindo excesso de palavras e justaposição de orações e períodos, que dificultam a compreensão das ideias. Além disso, foram encontrados 4 desvios gramaticais e de convenções da escrita, caracterizados como 'alguns desvios' para o conjunto textual apresentado. Conforme a grade específica do ENEM, um texto com 'estrutura sintática deficitária' (característica do Nível 2) e 'alguns desvios' (característica do Nível 3) deve ser avaliado no nível inferior, ou seja, Nível 2 (80 pontos)."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra compreensão completa da proposta de redação, abordando de forma satisfatória os elementos 'Preservação da Amazônia' e 'Desafio brasileiro ou internacional'. A estrutura dissertativo-argumentativa é respeitada, apresentando introdução, desenvolvimento e conclusão bem delimitados e proporcionais, sem partes embrionárias. Contudo, o repertório sociocultural mobilizado para desenvolver o tema é predominantemente baseado nos textos motivadores e em conhecimento de senso comum, sem a apresentação de repertório legitimado por áreas do conhecimento e com uso produtivo. De acordo com a grade específica da Competência II, um texto que atende plenamente à abordagem do tema e à estrutura dissertativo-argumentativa, mas cujo repertório se limita aos textos motivadores ou não é legitimado/pertinente, é avaliado no Nível 3."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta um projeto de texto perceptível, com uma direção clara em defesa da internacionalização ou governança compartilhada da Amazônia. As ideias são organizadas de forma lógica, partindo da contextualização do problema, passando pela apresentação da proposta de estatuto internacional e justificando sua conveniência. No entanto, o projeto de texto demonstra 'algumas falhas' na seleção, relação e organização mais aprofundada dos argumentos, que poderiam ser mais elaborados e matizados. O desenvolvimento dos argumentos é presente em 'algumas informações, fatos e opiniões', especialmente no terceiro parágrafo, onde se tenta explicar os benefícios da interação e proteção distribuída. Contudo, esse desenvolvimento não é consistente em todo o texto, deixando algumas afirmações sem o devido aprofundamento ou exemplificação. Conforme a grade específica da Competência III, um texto que apresenta 'projeto de texto com algumas falhas' e 'desenvolvimento de algumas informações, fatos e opiniões' é avaliado no Nível 3."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo dos mecanismos linguísticos necessários para a construção da argumentação, enquadrando-se no Nível 5 da Competência IV. Há uma presença constante e diversificada de elementos coesivos tanto intraparágrafos quanto interparágrafos, que contribuem de forma estratégica para a articulação das ideias e a progressão argumentativa do texto. Foram identificados dois operadores argumentativos interparágrafos ('Devido aos fatos mencionados' no P3 e 'Além disso' no P4), cumprindo o requisito para a nota máxima. Além disso, todos os parágrafos contêm múltiplos elementos coesivos de diferentes tipos (pronomes, conjunções, advérbios, locuções). As poucas repetições lexicais ('e e', 'decorrentes recorrentes') e os desvios gramaticais ('acerca a', 'melhor mais bem distribuída') não configuram 'inadequação coesiva' no sentido estrito da Competência IV, pois não comprometem a função semântica pretendida dos conectivos ou a articulação das relações de sentido entre os enunciados. O texto apresenta fluidez e clareza na conexão das partes, sem inadequações coesivas que prejudiquem a compreensão da argumentação."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção, localizada no último parágrafo da redação, apresenta dois elementos válidos, enquadrando-se no Nível 2 da Competência V. O participante propõe a 'proteção' e a 'exploração adequada de seus recursos' para a Amazônia, que, embora expressas por nominalizações, são inferidas como ações necessárias pelo contexto de 'prioridade' e 'suma importância' estabelecido no parágrafo. Os efeitos dessas ações são explicitados como 'prevenindo-a de destruições futuras' e 'contribuindo para a economia e crescimento do Brasil e dos países aliados'. Contudo, a proposta carece da identificação de um agente claro e de um modo/meio de execução, além de não apresentar detalhamento de nenhum dos elementos. A proposta respeita os direitos humanos e está diretamente relacionada ao tema da preservação da Amazônia e aos argumentos desenvolvidos sobre a necessidade de sua proteção e exploração consciente."
+        }
+      },
+      "nota_final": 600,
+      "resumo_executivo": "A redação sobre 'Preservação da Amazônia: Desafio brasileiro ou internacional?' obteve uma nota final de 600 pontos. O texto demonstrou domínio insuficiente da norma culta (C1: 80), com estrutura sintática deficitária e alguns desvios gramaticais. A compreensão da proposta e a estrutura dissertativo-argumentativa foram satisfatórias (C2: 120), embora o repertório sociocultural fosse limitado. O projeto de texto foi perceptível, mas com algumas falhas no aprofundamento dos argumentos (C3: 120). Houve um excelente uso dos mecanismos coesivos (C4: 200), garantindo a articulação das ideias. A proposta de intervenção (C5: 80) apresentou ações e efeitos, mas careceu de agente, modo/meio e detalhamento.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:13:37.519119",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 9,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 800,
+    "competencias_reais": [
+      160,
+      160,
+      160,
+      160,
+      160
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "A redação apresenta uma estrutura sintática regular e poucos desvios, o que a enquadra no Nível 3 da Competência I, conforme os critérios do manual. \n\n**Estrutura Sintática:**\nA estrutura sintática foi avaliada como 'regular' devido à presença de 5 falhas, todas relacionadas a excesso ou duplicação de palavras, que, embora não comprometam a fluidez da leitura de forma sistemática, tornam a construção das frases menos concisa e mais redundante. Além disso, a predominância de parágrafos formados por um único período contribui para essa classificação, impedindo que seja considerada 'boa' ou 'excelente'.\n\n**Desvios:**\nForam identificados 5 desvios no total, classificados como 'poucos' para um texto de 19 linhas, em comparação com os exemplos do manual. Os desvios incluem:\n*   **Gramaticais (2):** Regência verbal e concordância nominal.\n*   **De Escolha de Registro (3):** Marcas de oralidade e informalidades.\n\n**Aplicação dos Critérios:**\nO texto apresenta 'estrutura sintática regular' (característica do Nível 3) e 'poucos desvios' (característica do Nível 4). De acordo com a diretriz do manual ('textos que tenham características de dois níveis diferentes devem ser avaliados no nível inferior'), a redação é classificada no Nível 3, resultando em 120 pontos."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra uma compreensão completa da proposta temática e apresenta uma estrutura dissertativo-argumentativa adequada, com introdução, desenvolvimento e conclusão bem definidos e sem partes embrionárias. No entanto, o repertório sociocultural mobilizado para a argumentação é predominantemente baseado nos textos motivadores, o que limita a pontuação ao Nível 3 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um projeto de texto estratégico e um desenvolvimento consistente das informações, fatos e opiniões em todo o texto, configurando autoria plena. O participante seleciona, relaciona, organiza e interpreta as ideias de forma exemplar em defesa de seu ponto de vista. A tese, apresentada na introdução, questiona a justiça de apenas os países amazônicos arcarem com o ônus da preservação e propõe um sistema de compensação financeira internacional. Essa proposta é desenvolvida de maneira clara e lógica, explicando como tal mecanismo permitiria ao Brasil extrair recursos financeiros sem a exploração predatória, conciliando interesses nacionais e globais. A progressão argumentativa é fluida, sem falhas significativas ou deslizes que comprometam a coerência ou a estratégia do texto. Todas as ideias apresentadas são fundamentadas e desdobradas, sem deixar para o leitor a tarefa de estabelecer conexões ou completar o raciocínio. A organização hierárquica dos argumentos é evidente, culminando em uma conclusão que reafirma a tese e a solução proposta de forma coesa."
+        },
+        "competencia_4": {
+          "nota": 160,
+          "justificativa": "A redação demonstra um conhecimento constante dos mecanismos linguísticos necessários para a construção da argumentação, articulando bem as partes do texto tanto intra quanto interparágrafos. Há uma presença diversificada de conectivos, preposições, conjunções e recursos de referenciação que contribuem para a fluidez e a progressão das ideias. O texto utiliza operadores argumentativos interparágrafos em dois momentos ('Dessa maneira' no P3 e 'Com isso' no P4), cumprindo um dos requisitos para os níveis mais altos. Contudo, a presença de algumas repetições/redundâncias ('passou passou-se', 'compõem abrangem') e uma inadequação coesiva ('o qual em que') impede que o texto alcance o Nível 5, que exige 'raras ou ausentes repetições' e 'sem inadequação'. Assim, o texto se enquadra no Nível 4, que permite 'poucas repetições' e 'poucas inadequações'."
+        },
+        "competencia_5": {
+          "nota": 160,
+          "justificativa": "A proposta de intervenção apresentada na redação é clara, respeita os direitos humanos e está diretamente relacionada ao tema e aos argumentos desenvolvidos. O participante elabora uma solução para o problema da preservação da Amazônia, conciliando os interesses brasileiros e internacionais. A proposta mais completa, que se estende pelos parágrafos 2, 3 e 4, apresenta 4 dos 5 elementos obrigatórios, enquadrando-se no Nível 4 da Competência V."
+        }
+      },
+      "nota_final": 760,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa e com um projeto de texto estratégico. O autor defende a responsabilidade internacional pela preservação da Amazônia, propondo um sistema de compensação financeira para os países que a abrigam. A argumentação é consistente e bem desenvolvida (Competência III: 200 pontos), e os mecanismos linguísticos para a construção da argumentação são bem utilizados, apesar de algumas repetições e inadequações coesivas (Competência IV: 160 pontos). A proposta de intervenção é clara e relevante, contendo 4 dos 5 elementos necessários (Competência V: 160 pontos). As principais limitações do texto residem na Competência I (120 pontos), que apresenta estrutura sintática regular e poucos desvios, e na Competência II (120 pontos), onde o repertório sociocultural mobilizado é predominantemente baseado nos textos motivadores. A nota final consolidada é de 760 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:16:11.375714",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 10,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 480,
+    "competencias_reais": [
+      120,
+      80,
+      80,
+      120,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "A redação demonstra domínio precário da modalidade escrita formal da Língua Portuguesa, apresentando uma estrutura sintática deficitária e muitos desvios gramaticais, de convenções da escrita e de escolha vocabular. Foram identificadas 4 falhas de estrutura sintática, que incluem truncamentos e justaposições de orações e períodos, comprometendo a fluidez da leitura e a clareza das ideias. Além disso, o texto contém um total de 36 desvios, distribuídos entre problemas de acentuação, ortografia, uso de maiúsculas/minúsculas, informalidade, regência, concordância, pontuação, paralelismo e escolha lexical imprecisa. A quantidade e a gravidade desses desvios, somadas às falhas estruturais, justificam a atribuição do Nível 1 (40 pontos), conforme a grade específica da Competência I."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra uma compreensão completa da proposta temática, abordando tanto a necessidade de 'Preservação da Amazônia' quanto o dilema 'Desafio brasileiro ou internacional?'. O texto apresenta uma estrutura dissertativo-argumentativa clara e bem definida, com introdução, desenvolvimento e conclusão, e nenhuma dessas partes é embrionária. No entanto, o repertório sociocultural mobilizado para a argumentação é predominantemente baseado nos textos motivadores e no senso comum diretamente relacionado ao tema, sem a apresentação de informações, fatos ou conceitos legitimados por áreas de conhecimento que extrapolem os textos de apoio de forma produtiva. Conforme a grade específica da Competência II, a abordagem completa do tema, a estrutura textual adequada (3 partes, nenhuma embrionária) e o repertório baseado nos textos motivadores (ou não legitimado/não pertinente) enquadram a redação no Nível 3."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta um projeto de texto perceptível, com a tese de que o Brasil tem potencial para preservar a Amazônia de forma sustentável, respondendo ao dilema proposto. As ideias são organizadas em uma estrutura dissertativo-argumentativa, com introdução, desenvolvimento e conclusão. No entanto, o projeto de texto demonstra algumas falhas, principalmente na profundidade da argumentação. O segundo parágrafo é genérico e não contribui de forma estratégica para a defesa do ponto de vista específico sobre a responsabilidade brasileira. A afirmação do 'grande potencial' do Brasil (P3), que é o cerne da tese, não é suficientemente desenvolvida ou justificada com informações, fatos ou exemplos que a sustentem de forma robusta. O desenvolvimento das informações, fatos e opiniões ocorre apenas em algumas partes do texto, com a apresentação de problemas e soluções, mas sem aprofundar a relação lógica e a interpretação necessária para fortalecer a defesa do ponto de vista central. Essa falta de desenvolvimento em pontos cruciais compromete a progressão argumentativa e a consistência da autoria, enquadrando a redação no Nível 3 da Competência III."
+        },
+        "competencia_4": {
+          "nota": 120,
+          "justificativa": "A redação demonstra uma presença regular de elementos coesivos, incluindo o uso de operadores argumentativos interparágrafos. Foram identificados três operadores argumentativos distintos ('Por conseguinte', 'Todavia', 'Contudo') que buscam articular as ideias entre os parágrafos, o que é um ponto positivo. Há também a presença de conectivos intraparágrafos em todos os parágrafos ('e', 'Após', 'como', 'além de', 'que', 'e assim', 'por ser', 'ou', 'para'). As repetições de termos temáticos ('floresta', 'preservação', 'região', 'queimadas', 'desmatamento') são consideradas aceitáveis e não prejudicam excessivamente a coesão. No entanto, a articulação geral do texto é comprometida por algumas inadequações e, principalmente, por falhas sintáticas severas (já penalizadas na Competência I) que impedem a clareza e a fluidez da conexão entre as ideias. O uso do conectivo 'Portanto' no primeiro parágrafo (linha 3) é semanticamente impreciso, sugerindo uma conclusão direta onde a relação é mais de consequência ou contraste, configurando uma inadequação coesiva. Além disso, a estrutura sintática deficitária em diversos períodos dificulta a compreensão da articulação, mesmo quando os conectivos estão presentes. A Competência IV avalia a capacidade de o participante demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação; quando a sintaxe é falha, a eficácia desses mecanismos é reduzida. Assim, a articulação do texto é considerada insuficiente, enquadrando a redação no Nível 3 (120 pontos), conforme a grade específica da Competência IV."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção está presente no último parágrafo da redação e é relacionada ao tema ('Preservação da Amazônia') e aos argumentos desenvolvidos sobre a necessidade de ações para combater os problemas ambientais. As propostas apresentadas respeitam integralmente os direitos humanos. No entanto, ao analisar a proposta mais completa, identificam-se apenas 2 elementos válidos. O parágrafo final apresenta múltiplas sugestões de intervenção, mas nenhuma delas consegue articular mais de dois elementos de forma explícita e completa. Por exemplo, na frase 'o governo brasileiro e a sociedade devem tomar consciência do patrimônio que têm', temos o agente ('o governo brasileiro e a sociedade') e a ação ('tomar consciência'). Em 'A sociedade reivindicar das autoridades promoção da educação ambiental para pessoas que residem na região', temos o agente ('A sociedade') e a ação ('reivindicar das autoridades promoção da educação ambiental'), sendo 'para pessoas que residem na região' o público-alvo e não um efeito ou detalhamento. Na última parte, 'As fiscalizações sejam constantes, e assim vise o ambiente livre de queimadas, desmatamento e etc.', temos a ação ('As fiscalizações sejam constantes') e o efeito ('vise o ambiente livre de queimadas, desmatamento e etc.'), mas o agente é implícito e não explicitamente marcado. A ausência de modo/meio e detalhamento, e a incompletude de outros elementos, limitam a pontuação ao Nível 2 (80 pontos), conforme a grade específica da Competência V."
+        }
+      },
+      "nota_final": 480,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa, apresentando uma estrutura dissertativo-argumentativa clara. Contudo, demonstra domínio precário da modalidade escrita formal, com inúmeros desvios gramaticais e falhas sintáticas que comprometem a Competência I. O projeto de texto é perceptível, mas a argumentação carece de profundidade e repertório sociocultural diversificado, impactando as Competências II e III. A coesão textual é regular, porém a articulação das ideias é prejudicada pelas falhas sintáticas, afetando a Competência IV. As propostas de intervenção, embora pertinentes e respeitosas aos direitos humanos, são incompletas, apresentando apenas dois elementos válidos em suas formulações mais desenvolvidas, resultando em uma pontuação moderada na Competência V. A nota final reflete a necessidade de aprimoramento substancial na escrita formal e na construção argumentativa.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:19:23.639438",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 11,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 440,
+    "competencias_reais": [
+      120,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 160,
+          "justificativa": "A redação demonstra um bom domínio da modalidade escrita formal da Língua Portuguesa, com fluidez na leitura e organização das ideias. No entanto, apresenta algumas falhas na estrutura sintática e um número de desvios que a enquadram no Nível 4 da Competência I, conforme os critérios do manual.\n\n**Estrutura Sintática:**\nForam identificadas duas falhas de estrutura sintática, ambas por excesso de palavras, que, embora pontuais, impedem a classificação como 'excelente'. A fluidez da leitura não é comprometida de forma sistemática, e os períodos são construídos de maneira clara, mas sem a complexidade esperada para o nível máximo. Assim, a estrutura sintática é avaliada como 'boa'.\n\n**Desvios Gramaticais e de Escolha Vocabular:**\nForam contabilizados 6 desvios, o que, de acordo com os exemplos e a quantificação do manual, se enquadra na categoria de 'poucos desvios'. Os desvios incluem problemas de regência, concordância verbal e escolhas lexicais imprecisas.\n\n**Determinação do Nível:**\nCom uma 'estrutura sintática boa' e 'poucos desvios', a redação cumpre integralmente o descritor do Nível 4 da Competência I, que corresponde a 160 pontos."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra compreensão da proposta temática ao abordar a preservação da Amazônia e posicionar-se sobre a questão de ser um desafio brasileiro ou internacional. A estrutura do texto dissertativo-argumentativo é respeitada, com a presença clara de introdução, desenvolvimento e conclusão, e nenhuma dessas partes se apresenta de forma embrionária. No entanto, o desenvolvimento do tema é considerado previsível e superficial, especialmente na exploração da dicotomia 'desafio brasileiro ou internacional'. O parágrafo de desenvolvimento (P3) se desvia para uma discussão genérica sobre a falta de contribuição humana ao meio ambiente, sem conectá-la de forma explícita à questão da soberania ou internacionalização da Amazônia. A conclusão (P4) também oferece soluções genéricas, sem retomar ou aprofundar a tese defendida no P2. Além disso, o texto não mobiliza repertório sociocultural legitimado e pertinente que extrapole o senso comum ou as informações gerais dos textos motivadores. As referências presentes são de caráter geral e não configuram um uso produtivo de conhecimento de diversas áreas. Dessa forma, a redação se enquadra no Nível 3 da Competência II, que descreve um texto que 'desenvolve o tema por meio de argumentação previsível e apresenta domínio mediano do texto dissertativo-argumentativo, com proposição, argumentação e conclusão', e cujo repertório é 'baseado nos textos motivadores E/OU não legitimado E/OU legitimado, MAS não pertinente ao tema'."
+        },
+        "competencia_3": {
+          "nota": 80,
+          "justificativa": "A redação apresenta abordagem completa do tema, defendendo a tese de que a Amazônia deve ganhar status internacional. Contudo, o projeto de texto demonstra **muitas falhas** na seleção, relação, organização e interpretação das informações e argumentos, e o desenvolvimento das ideias é insuficiente.\n\nNo segundo parágrafo, o participante estabelece a tese de que a Amazônia deve ter status internacional devido à sua importância para o equilíbrio ecológico do planeta. No entanto, a justificativa para essa 'extrema necessidade para todas as pessoas' é apresentada de forma superficial, sem qualquer desdobramento, exemplificação ou fundamentação que a sustente.\n\nO terceiro parágrafo introduz uma nova ideia, a de que 'muitos seres humanos não contribuem para o meio ambiente'. Embora essa informação esteja genericamente relacionada à preservação, ela **não se articula de forma produtiva ou estratégica com a tese principal** da internacionalização da Amazônia. Essa desconexão argumentativa compromete a progressão do texto e a defesa consistente do ponto de vista central. A menção a 'jornais, programas de televisão e redes sociais' é apenas uma constatação, não um desenvolvimento da ideia.\n\nNa conclusão, a proposta de intervenção é genérica ('Governos, população e demais autoridades precisam agir', 'escolas ensinem os alunos') e **não retoma a tese da internacionalização** nem oferece soluções específicas que se conectem diretamente com o ponto de vista defendido. A falta de articulação entre a proposta de intervenção e a tese principal é uma falha significativa no projeto de texto.\n\nEm relação ao **desenvolvimento das informações, fatos e opiniões**, o texto é deficiente. As afirmações são apresentadas de forma assertiva, mas sem aprofundamento, exemplificação ou dados que as sustentem. Não há desdobramento das ideias, deixando para o leitor a tarefa de inferir as relações e a relevância dos argumentos. Praticamente todas as informações, fatos e opiniões são apresentados sem desenvolvimento.\n\nA combinação de um projeto de texto com muitas falhas (desconexão de argumentos, falta de articulação da conclusão com a tese) e a ausência de desenvolvimento consistente das informações e opiniões em todo o texto enquadra a redação no **Nível 2 (80 pontos)** da Competência III, conforme os critérios de 'Projeto de texto com muitas falhas E sem desenvolvimento ou com desenvolvimento de apenas uma informação, fato ou opinião'."
+        },
+        "competencia_4": {
+          "nota": 160,
+          "justificativa": "A redação demonstra conhecimento constante dos mecanismos linguísticos necessários para a construção da argumentação, enquadrando-se no Nível 4 da Competência IV. Observa-se uma presença constante e adequada de elementos coesivos intra e interparágrafos, que contribuem para a articulação das ideias e argumentos ao longo do texto.\n\n**Coesão Intraparágrafos:**\nEm todos os parágrafos, há o uso de conectivos e recursos referenciais que garantem a articulação interna. Exemplos incluem:\n*   No P1: 'cada vez mais' (gradação), 'Este acontecimento' (referenciação), 'mas também' (adição).\n*   No P2: 'porém' (oposição), 'em função da' (causa), 'Em relação a esses fatos mencionados' (referenciação), 'pois' (explicação).\n*   No P3: 'ou seja' (explicação), 'ocorridos questionáveis como esse' (referenciação), 'essa notícia' (referenciação).\n*   No P4: 'para que' (finalidade, 2x), 'essas complicações' (referenciação), 'esse problema' (referenciação), 'Se isso não for resolvido' (condição), 'também' (adição), 'através de' (meio – uso aceito conforme manual).\n\n**Coesão Interparágrafos:**\nO texto apresenta um elemento coesivo de tipo 'operador argumentativo' entre parágrafos em, pelo menos, um momento: 'Em uma segunda análise' (início do P3), que estabelece uma sequenciação de argumentos em relação ao parágrafo anterior. Este é um requisito fundamental para o Nível 4.\n\n**Repetições:**\nFoi identificada uma repetição de termos lexicais ('riscos devastação e riscos devastação' no P1). Embora prejudique a fluidez, é pontual e não se trata de repetição de operadores argumentativos, sendo classificada como 'poucas repetições' no contexto geral do texto, não impedindo o Nível 4.\n\n**Inadequações Coesivas:**\nNão foram identificadas inadequações no uso dos elementos coesivos. Todos os conectivos e recursos referenciais empregados cumprem suas funções semânticas de forma correta, contribuindo para o encadeamento das ideias.\n\n**Impedimento para Nível 5:**\nPara atingir o Nível 5, a redação precisaria apresentar operadores argumentativos interparágrafos em, pelo menos, dois momentos distintos do texto. A presente redação possui apenas um ('Em uma segunda análise'), o que, conforme os critérios da Grade Específica, a restringe ao Nível 4."
+        },
+        "competencia_5": {
+          "nota": 160,
+          "justificativa": "A redação apresenta uma proposta de intervenção explícita no último parágrafo, que é a mais completa do texto. Essa proposta respeita integralmente os direitos humanos e está relacionada ao tema da preservação ambiental, embora de forma mais genérica e sem aprofundar a dicotomia 'desafio brasileiro ou internacional' que foi abordada no desenvolvimento.\n\nA proposta de intervenção mais completa identificada é: 'É fundamental que as escolas ensinem os alunos, através de palestras para que fiquem conscientes e preservem nosso planeta.'\n\nAnalisando os 5 elementos obrigatórios:\n1.  **Agente:** 'as escolas' - Presente e válido.\n2.  **Ação:** 'ensinem os alunos' - Presente e válida.\n3.  **Modo/Meio:** 'através de palestras' - Presente e válido.\n4.  **Efeito/Finalidade:** 'para que fiquem conscientes e preservem nosso planeta' - Presente e válido.\n5.  **Detalhamento:** Ausente. Não há uma informação adicional que especifique, justifique, exemplifique ou desdobre um dos elementos anteriores.\n\nCom a identificação de 4 elementos válidos (Agente, Ação, Modo/Meio, Efeito) e a ausência de detalhamento, a proposta de intervenção se enquadra no Nível 4 da Competência V, que corresponde a 160 pontos."
+        }
+      },
+      "nota_final": 680,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa, mas com desenvolvimento previsível e superficial da argumentação, especialmente na dicotomia central. O texto demonstra bom domínio da modalidade escrita formal (C1: 160), com poucas falhas sintáticas e desvios gramaticais. A estrutura dissertativo-argumentativa é clara, com introdução, desenvolvimento e conclusão bem definidos (C2: 120). No entanto, o projeto de texto apresenta muitas falhas na articulação das ideias e na profundidade dos argumentos, com um repertório sociocultural não legitimado (C3: 80). A coesão textual é constante e adequada, com uso de operadores argumentativos interparágrafos, embora com uma repetição lexical pontual (C4: 160). A proposta de intervenção é explícita e respeita os direitos humanos, contendo 4 dos 5 elementos obrigatórios (agente, ação, modo/meio, efeito), mas sem detalhamento (C5: 160). A nota final consolidada é de 680 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:21:43.621461",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 12,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 400,
+    "competencias_reais": [
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 80,
+          "justificativa": "A redação demonstra domínio insuficiente da modalidade escrita formal da Língua Portuguesa, enquadrando-se no Nível 2 da Competência I. Foram identificados muitos desvios gramaticais, de escolha de registro e de convenções da escrita, além de falhas na estrutura sintática. \n\n**Desvios encontrados (total de 9):**\n1.  **Escolha Vocabular:** Uso impreciso de 'deploração' no lugar de 'estado deplorável' (P1: 'chegou em seu estado de deploração a um estado deplorável').\n2.  **Escolha de Registro:** Emprego informal da locução 'junto ao governo' (P1).\n3.  **Gramatical (Concordância Verbal):** Inadequação da concordância em 'pois levantam várias e várias questões' (P2), onde o sujeito 'A ideia' (singular) exigiria o verbo no singular ('levanta').\n4.  **Escolha de Registro:** Repetição informal do adjetivo em 'várias e várias questões' (P2).\n5.  **Convenções da Escrita (Maiúsculas/Minúsculas):** Uso indevido de maiúscula em 'O Estado Amazônico' (P3), quando se refere à região e não à entidade política.\n6.  **Escolha de Registro:** Emprego da construção informal 'e nem' em 'não pode e nem deve' (P3).\n7.  **Escolha de Registro:** Uso do verbo 'virar' em sentido informal de 'tornar-se' (P3: 'virar um patrimônio internacional').\n8.  **Gramatical (Concordância Verbal):** Inadequação da concordância em 'as áreas desmatadas, que é um solo infértil' (P3), onde o pronome relativo 'que' retoma 'áreas desmatadas' (plural), exigindo o verbo 'ser' no plural ('são').\n9.  **Escolha de Registro:** Emprego da locução prepositiva informal 'por conta das queimadas' (P3).\n\n**Falhas de Estrutura Sintática (total de 3):**\n1.  **Justaposição/Excesso de elementos:** No primeiro parágrafo, a oração 'um lugar rico de recursos naturais pertencente ao território brasileiro e que deve ser protegido e explorado com responsabilidade' é justaposta de forma inadequada, sobrecarregando o período e prejudicando a fluidez.\n2.  **Excesso de palavras:** No segundo parágrafo, a duplicação do pronome em 'nós nós, brasileiros?' constitui um excesso de palavras.\n3.  **Justaposição de orações:** No último parágrafo, a vírgula em 'por nós, é um território nosso' é insuficiente para separar duas orações que deveriam constituir períodos independentes.\n\nA redação apresenta 9 desvios, o que a classifica na categoria de 'muitos desvios' (característica do Nível 2). Quanto à estrutura sintática, foram identificadas 3 falhas, e há uma predominância de parágrafos formados por um único período, o que a enquadra como 'estrutura sintática regular' (característica do Nível 3). De acordo com os critérios de avaliação, quando um texto apresenta características de dois níveis diferentes, ele deve ser avaliado no nível inferior. Assim, a combinação de 'muitos desvios' (Nível 2) e 'estrutura sintática regular' (Nível 3) resulta na atribuição da nota correspondente ao Nível 2 (80 pontos)."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação demonstra compreensão completa da proposta de redação e desenvolve o tema dentro dos limites estruturais do texto dissertativo-argumentativo, porém, o repertório sociocultural mobilizado se baseia nos textos motivadores e/ou não é legitimado por áreas do conhecimento, enquadrando-se no Nível 3 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 80,
+          "justificativa": "A redação apresenta um projeto de texto com muitas falhas e um desenvolvimento muito limitado das informações, fatos e opiniões, enquadrando-se no Nível 2 da Competência III. Embora o texto aborde o tema de forma completa e defenda um ponto de vista claro (a Amazônia deve permanecer brasileira e ser protegida e explorada com responsabilidade pelo Brasil, sem internacionalização), a execução argumentativa é deficiente."
+        },
+        "competencia_4": {
+          "nota": 120,
+          "justificativa": "A redação demonstra conhecimento mediano dos mecanismos linguísticos necessários para a construção da argumentação, enquadrando-se no Nível 3 da Competência IV. Há uma presença regular de elementos coesivos intraparágrafos, que contribuem para a articulação das ideias dentro de cada parágrafo. No entanto, o texto não apresenta operadores argumentativos explícitos entre os parágrafos, o que limita a articulação global da argumentação e impede que a redação alcance os níveis mais altos da competência. Não foram identificadas inadequações coesivas no uso dos conectivos e pronomes, e as repetições lexicais presentes não são de operadores argumentativos e não prejudicam significativamente a coesão a ponto de rebaixar a nota."
+        },
+        "competencia_5": {
+          "nota": 120,
+          "justificativa": "A proposta de intervenção elaborada pelo participante apresenta 3 elementos válidos, respeita os direitos humanos e está diretamente relacionada ao tema e aos argumentos desenvolvidos no texto, enquadrando-se no Nível 3 da Competência V."
+        }
+      },
+      "nota_final": 520,
+      "resumo_executivo": "A redação aborda de forma completa o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', defendendo a soberania e responsabilidade nacional. Contudo, apresenta domínio insuficiente da norma culta (C1: 80), com muitos desvios. O repertório sociocultural é limitado aos textos motivadores (C2: 120), e o projeto de texto demonstra falhas na articulação argumentativa (C3: 80). A coesão interparágrafos é deficiente (C4: 120). A proposta de intervenção é pertinente, mas com apenas 3 elementos válidos (C5: 120). A nota final é de 520 pontos, indicando necessidade de aprimoramento em aspectos gramaticais, argumentativos e de repertório.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:23:45.929023",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 13,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 560,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "f8a7b6c5-d4e3-2a1b-0c9d-8e7f6a5b4c3d",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "A redação apresenta uma Estrutura Sintática Regular e Poucos Desvios, o que a enquadra no Nível 3 da Competência I, resultando em 120 pontos.\n\n**Estrutura Sintática:** Foram identificadas 9 falhas na estrutura sintática, principalmente por excesso ou duplicação de elementos e ambiguidade de pontuação. Exemplos incluem: 'Recentemente Recentemente,' (duplicação), 'questão de da preservação' (excesso de preposição), 'perante os devido aos' (excesso de preposição/conjunção), 'Num primeiro momento momento,' (duplicação), 'este esse bem' (excesso de pronome), 'distintos distintos,' (duplicação), 'país. país?' (justaposição/truncamento de pontuação), 'Conseguinte a tudo isso Por conseguinte,' (excesso de palavras) e 'área região amazônica' (redundância). Embora essas falhas prejudiquem a fluidez e a precisão, a leitura não se torna ininteligível. Além disso, a predominância de parágrafos formados por um único período (todos os quatro parágrafos são períodos únicos ou muito longos) é uma característica que, segundo o manual, define uma 'estrutura sintática regular'.\n\n**Desvios:** Foram contabilizados 6 desvios. Para um texto de 20 linhas, essa quantidade é classificada como 'poucos desvios' em comparação com os exemplos fornecidos no material de referência. Os desvios incluem: 1 de ortografia, 3 de crase e 2 de informalidade/marca de oralidade. Embora a tarefa solicite a classificação da gravidade, o manual do ENEM para a Competência I não estabelece hierarquia de penalização por tipo de desvio; a classificação abaixo é apenas para fins descritivos da tarefa.\n\n**Aplicação da Grade Específica:** A redação apresenta 'estrutura sintática regular' (característica do Nível 3) e 'poucos desvios' (característica do Nível 4). De acordo com a dinâmica de avaliação do ENEM, quando um texto apresenta características de dois níveis diferentes, ele deve ser avaliado no nível inferior. Assim, a redação é classificada no Nível 3."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "A redação compreende integralmente a proposta temática e apresenta uma estrutura dissertativo-argumentativa completa e bem definida, sem partes embrionárias. No entanto, o repertório sociocultural mobilizado se baseia predominantemente nos textos motivadores, o que limita a pontuação ao Nível 3 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "A redação apresenta um projeto de texto perceptível, com uma tese clara em defesa da soberania brasileira sobre a Amazônia e a preferência por uma 'solução nacional' em detrimento da internacionalização. As ideias são selecionadas e organizadas de forma lógica, seguindo a estrutura dissertativo-argumentativa (introdução, desenvolvimento da crítica à internacionalização, defesa da solução nacional e conclusão com proposta).\n\nNo entanto, a interpretação e o desenvolvimento das informações, fatos e opiniões são superficiais. O participante questiona a internacionalização com base em generalizações sobre 'nações tão diferentes e com interesses tão distintos', sem aprofundar as razões para o potencial 'caos' ou 'ainda mais exploração'. Da mesma forma, a 'solução nacional' é apresentada de forma genérica, com propostas como 'leis severas sobre a preservação e reflorestamento' que carecem de detalhamento ou exemplificação.\n\nEmbora haja desenvolvimento de *algumas* informações e opiniões (como a explicação do porquê a internacionalização poderia ser vista como benéfica inicialmente e os riscos associados à perda de soberania), esse desenvolvimento é limitado e não explora as ideias em profundidade. As falhas no projeto de texto residem na falta de elaboração e substanciação dos argumentos, que se apoiam mais em afirmações e perguntas retóricas do que em um raciocínio aprofundado.\n\nDe acordo com a grade específica, a redação se enquadra no Nível 3, pois apresenta 'projeto de texto com algumas falhas' e 'desenvolvimento de algumas informações, fatos e opiniões'. Não atinge o Nível 4, que exigiria 'poucas falhas' no projeto e desenvolvimento da 'maior parte' das informações, o que não se observa neste texto."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo dos mecanismos linguísticos necessários para a construção da argumentação, articulando bem as partes do texto e apresentando um repertório diversificado de recursos coesivos, sem inadequações e com raras ou ausentes repetições que prejudiquem a coesão textual.\n\n**Articulação Interparágrafos:** O texto utiliza operadores argumentativos de forma estratégica para conectar os parágrafos. Observa-se o uso de 'Diante disto' (P1) e 'Por conseguinte' (P4) para introduzir e concluir ideias, respectivamente. A presença de operadores argumentativos em, pelo menos, dois momentos do texto entre os parágrafos é um requisito fundamental para o Nível 5, e este texto o cumpre.\n\n**Articulação Intraparágrafos:** Há uma presença constante e variada de elementos coesivos dentro de todos os parágrafos. No segundo parágrafo, 'Mas' é utilizado duas vezes para introduzir oposições, e 'já que' para justificar. No terceiro, 'pois' introduz uma justificativa e 'Mas' novamente uma oposição, seguido de 'o que' e 'aquilo que' para retomadas referenciais. Esses elementos garantem a progressão temática e a articulação das ideias no interior de cada parágrafo.\n\n**Coesão Referencial:** O participante emprega pronomes e expressões para retomar ideias e referentes de forma eficiente, como 'que' (P1, P3), 'disto' (P1), 'isso' (P2), 'desses' (P2), 'bem' (P3), 'aquilo que' (P3) e 'tudo isso' (P4). A substituição lexical 'nossa casa' (P4) para se referir à Amazônia, embora com traço de informalidade (penalizado em C1), funciona coesivamente.\n\n**Repetições:** As repetições identificadas na redação ('Recentemente Recentemente', 'momento momento', 'distintos distintos', 'país. país?', 'Conseguinte a tudo isso Por conseguinte') são consideradas falhas de Competência I (desvios gramaticais ou de estrutura sintática) e não configuram repetições de elementos coesivos que prejudicam a articulação da argumentação na Competência IV. Não há repetição excessiva de operadores argumentativos ou falta de variação referencial que comprometa a fluidez ou a clareza do texto, caracterizando 'raras ou ausentes repetições' para os critérios desta competência.\n\n**Inadequações Coesivas:** Não foram identificadas inadequações no uso dos elementos coesivos. Todos os conectivos e recursos referenciais empregados estabelecem as relações semânticas corretas e contribuem para a construção da argumentação.\n\n**Conclusão:** A redação atende a todos os critérios do Nível 5 da Competência IV, demonstrando um domínio exemplar dos mecanismos coesivos para a construção de um texto dissertativo-argumentativo bem articulado e coerente."
+        },
+        "competencia_5": {
+          "nota": 120,
+          "justificativa": "A proposta de intervenção apresentada no último parágrafo da redação é explícita, respeita os direitos humanos e está diretamente relacionada ao tema e aos argumentos desenvolvidos no texto. A proposta defende uma 'solução nacional' para a preservação da Amazônia, em oposição à internacionalização, o que está em consonância com a tese do participante.\n\nAo analisar a proposta 'caberia ao Governo Federal e ao Ministério do Meio Ambiente estabelecer leis severas sobre a preservação e reflorestamento da área região amazônica, garantindo a sustentabilidade e o domínio brasileiro sobre a 'nossa casa'', identificamos os seguintes elementos:\n\n*   **Agente:** 'o Governo Federal e ao Ministério do Meio Ambiente' – Claramente identificado e válido.\n*   **Ação:** 'estabelecer leis severas sobre a preservação e reflorestamento da área região amazônica' – Ação prática e interventiva, válida.\n*   **Modo/Meio:** Ausente. O texto não especifica como essas leis seriam estabelecidas ou por quais recursos/maneiras a ação seria executada (ex: 'por meio de debates públicos', 'através de programas de fiscalização').\n*   **Efeito/Finalidade:** 'garantindo a sustentabilidade e o domínio brasileiro sobre a 'nossa casa'' – Apresenta os resultados pretendidos da ação, sendo um elemento válido. As duas partes ('sustentabilidade' e 'domínio brasileiro') são consideradas dois efeitos coordenados, mas contabilizadas como um único elemento 'Efeito'.\n*   **Detalhamento:** Ausente. Não há uma informação adicional (justificativa, explicação, exemplificação, especificação ou desdobramento) que amplie a ação, o agente ou o efeito.\n\nA proposta de intervenção, portanto, apresenta 3 elementos válidos (Agente, Ação e Efeito). De acordo com a grade específica da Competência V, uma proposta com 3 elementos válidos é avaliada no Nível 3, que corresponde a 120 pontos."
+        }
+      },
+      "nota_final": 680,
+      "resumo_executivo": "A redação, que aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', obteve uma nota final de 680 pontos. O texto demonstrou um domínio expressivo dos mecanismos coesivos (Competência IV: 200 pontos), articulando bem as ideias entre e dentro dos parágrafos. Contudo, apresentou falhas na norma padrão (Competência I: 120 pontos) devido a desvios gramaticais e problemas de estrutura sintática. A compreensão da proposta e a estrutura dissertativo-argumentativa foram adequadas, mas o repertório sociocultural se baseou predominantemente nos textos motivadores (Competência II: 120 pontos). O projeto de texto foi perceptível, mas o desenvolvimento argumentativo foi superficial (Competência III: 120 pontos). Por fim, a proposta de intervenção, embora explícita e respeitosa aos direitos humanos, foi avaliada em 120 pontos (Competência V) por apresentar apenas 3 dos 5 elementos necessários (Agente, Ação e Efeito, sem Modo/Meio e Detalhamento). Para alcançar notas mais altas, o participante precisaria aprofundar a argumentação, diversificar o repertório e detalhar a proposta de intervenção, além de aprimorar o domínio da norma culta.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:26:12.339210",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 14,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 760,
+    "competencias_reais": [
+      160,
+      160,
+      120,
+      200,
+      120
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a7b3c9d1-e5f6-4g8h-9i0j-1k2l3m4n5o6p",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 160,
+          "justificativa": "A redação demonstra bom domínio da modalidade escrita formal da língua portuguesa, com fluidez na leitura e períodos bem estruturados, embora apresente algumas falhas pontuais na estrutura sintática e um número limitado de desvios gramaticais, de escolha de registro e de escolha vocabular. \n\nA estrutura sintática do texto é avaliada como 'boa'. Foram identificadas 3 falhas de estrutura sintática (FES), que, embora presentes, não comprometem significativamente a fluidez da leitura nem a compreensão geral do texto. As falhas consistem em duplicações ou excessos de palavras que, apesar de incorretas, não geram truncamento ou justaposição severa de períodos. Os períodos são construídos com certa complexidade, não sendo considerados simplórios.\n\nQuanto aos desvios, foram contabilizados 6 desvios ao longo do texto. Estes incluem problemas de regência, crase, escolha de registro (informalidade) e escolha vocabular (imprecisão lexical). A quantidade de 6 desvios, em um texto com a extensão e complexidade apresentadas, é classificada como 'poucos desvios', conforme os critérios e exemplos do manual de correção.\n\nDe acordo com a Grade Específica da Competência I, um texto que apresenta 'estrutura sintática boa E poucos desvios' é avaliado no Nível 4. As características da redação se encaixam perfeitamente neste descritor, justificando a atribuição de 160 pontos."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra uma compreensão plena da proposta de redação, abordando de forma completa o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?'. O participante discute tanto os aspectos do desafio brasileiro (fiscalização ineficaz, interesses econômicos internos) quanto os do desafio internacional (demanda global por produtos que impulsionam o desmatamento), propondo uma solução que integra a soberania nacional com a cooperação internacional. A tese é clara e consistentemente desenvolvida ao longo do texto.\n\nEm relação à estrutura dissertativo-argumentativa, o texto apresenta as três partes essenciais (introdução, desenvolvimento e conclusão) de forma bem definida e proporcional. Nenhuma das partes é embrionária, e a progressão das ideias é lógica e fluida, sem traços constantes de outros tipos textuais.\n\nQuanto ao repertório sociocultural, o participante mobiliza uma informação legitimada ao citar o Greenpeace e dados sobre o consumo europeu e o desmatamento. Este repertório é pertinente ao tema, pois se relaciona diretamente com a dimensão internacional do problema da Amazônia. Além disso, o uso do repertório é produtivo, uma vez que a informação é integrada à argumentação para sustentar a ideia de que a demanda externa contribui para a degradação ambiental, fortalecendo a defesa do ponto de vista do participante. A presença de repertório legitimado, pertinente e com uso produtivo, aliada à abordagem completa do tema e à estrutura textual adequada, justifica a atribuição da nota máxima nesta competência."
+        },
+        "competencia_3": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um projeto de texto estratégico e um desenvolvimento consistente das informações, fatos e opiniões em todo o texto, configurando autoria plena. O participante apresenta uma tese clara e bem definida na introdução, que aborda a preservação da Amazônia como um desafio a ser enfrentado pelo Estado soberano em acordo com a comunidade internacional. \n\nNo desenvolvimento, os argumentos são selecionados, relacionados, organizados e interpretados de forma exemplar. O primeiro parágrafo de desenvolvimento (P2) explora a dimensão internacional do problema, utilizando dados do Greenpeace para fundamentar a ideia de que a demanda global por produtos como carne bovina contribui ativamente para o desmatamento. O segundo parágrafo de desenvolvimento (P3) aborda a dimensão nacional, discutindo a ineficácia da fiscalização brasileira devido às dimensões da região e à diversidade de interesses econômicos, ao mesmo tempo em que reforça a necessidade de contribuição dos países desenvolvidos sem ameaçar a soberania. \n\nA progressão das ideias é lógica e coerente, sem saltos temáticos ou repetições. As informações são interpretadas e desenvolvidas de forma a sustentar o ponto de vista, sem deixar para o leitor a tarefa de estabelecer as relações. A conclusão apresenta propostas de intervenção detalhadas e pertinentes, focadas nas ações do Governo Federal (investimento em tecnologia, aumento de fiscais, agronegócio sustentável), que se alinham perfeitamente com a tese de um 'Estado soberano' atuando, e a menção anterior à contribuição internacional mantém a coerência com a segunda parte da tese. Não são identificados deslizes pontuais que prejudiquem a progressão ou a estratégia do texto, justificando a nota máxima."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo dos mecanismos linguísticos necessários para a construção da argumentação, articulando as partes do texto de forma exemplar. Há uma presença constante e diversificada de elementos coesivos tanto intraparágrafos quanto interparágrafos, que contribuem de maneira estratégica para a progressão e a coerência argumentativa.\n\nNo que tange à coesão intraparágrafos, o participante emprega uma vasta gama de recursos, como: 'Tal situação' (P1), 'desse bioma' (P1), 'Assim' (P1), 'Nesse sentido' (P1), 'de início' (P2), 'Logo' (P2), 'esses países' (P2), 'ecossistema local' (P2), 'Portanto' (P2), 'mas também' (P2), 'apesar de' (P3), 'o país' (P3), 'a região' (P3), 'Além disso' (P3), 'biodiversidade local' (P3), 'as áreas' (P3), 'Dessa maneira' (P3), 'por meio de' (P4), 'através de' (P4), 'com isso' (P4) e 'nosso patrimônio natural' (P4). Todos esses elementos são mobilizados adequadamente, estabelecendo relações semânticas precisas (conclusão, adição, oposição, referência, meio, etc.) e garantindo a fluidez e a clareza das ideias dentro de cada parágrafo.\n\nEm relação à coesão interparágrafos, o texto cumpre o requisito do nível máximo ao apresentar operadores argumentativos em, pelo menos, dois momentos distintos: 'Vale ressaltar também que' (início do P3) funciona como um operador de adição, conectando o argumento sobre a ineficácia da fiscalização e os interesses econômicos à discussão anterior sobre a demanda internacional. 'Portanto' (início do P4) introduz a conclusão, articulando as propostas de intervenção com os argumentos desenvolvidos nos parágrafos anteriores. Além disso, todos os parágrafos contêm pelo menos um elemento coesivo de qualquer tipo, conforme exigido pelo descritor do Nível 5.\n\nAs repetições são raras e não prejudicam a articulação do texto. As retomadas de termos relacionados ao tema ('Amazônia', 'bioma', 'florestas brasileiras', 'ecossistema local', 'região', 'biodiversidade local', 'patrimônio natural') são feitas com variação lexical e pronominal, demonstrando repertório e cuidado na construção coesiva. Não há inadequações no uso dos elementos coesivos, ou seja, todos os recursos empregados cumprem sua função semântica de forma correta, contribuindo para a orientação argumentativa do texto. A articulação entre frases, períodos e parágrafos é impecável, resultando em um texto coeso e coerente em sua totalidade."
+        },
+        "competencia_5": {
+          "nota": 200,
+          "justificativa": "A proposta de intervenção apresentada no último parágrafo da redação é muito bem elaborada, detalhada, respeita os direitos humanos e está plenamente relacionada ao tema e aos argumentos desenvolvidos ao longo do texto. Todos os 5 elementos obrigatórios são identificados de forma clara e consistente.\n\nO participante propõe ações concretas e exequíveis, articulando a responsabilidade do Estado brasileiro com a necessidade de modernização e sustentabilidade, o que se alinha perfeitamente com a tese de que a preservação da Amazônia é um desafio que exige a atuação do 'Estado soberano em acordo com a comunidade internacional'. A proposta não apresenta qualquer desrespeito aos direitos humanos, focando em medidas de proteção ambiental e desenvolvimento sustentável.\n\nOs elementos estão presentes e bem articulados, justificando a nota máxima na Competência V."
+        }
+      },
+      "nota_final": 960,
+      "resumo_executivo": "A redação sobre 'Preservação da Amazônia: Desafio brasileiro ou internacional?' demonstra um desempenho excelente, alcançando uma nota final de 960 pontos. O texto apresenta domínio da modalidade escrita formal (C1: 160), com poucas falhas sintáticas e desvios gramaticais. A compreensão do tema e a estrutura dissertativo-argumentativa são plenas (C2: 200), com repertório sociocultural produtivo. O projeto de texto é estratégico e os argumentos são desenvolvidos de forma consistente, evidenciando autoria plena (C3: 200). A articulação textual é exemplar, com uso expressivo e adequado de elementos coesivos inter e intraparágrafos (C4: 200). Por fim, a proposta de intervenção é completa, detalhada, exequível e respeita os direitos humanos, estando plenamente relacionada ao tema e aos argumentos (C5: 200). A redação se destaca pela clareza, profundidade argumentativa e coesão, sendo um exemplo de texto bem construído para o ENEM.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:28:11.162146",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 15,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 400,
+    "competencias_reais": [
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "A redação apresenta uma estrutura sintática regular, caracterizada pela predominância de parágrafos formados por um único período, conforme os critérios do manual do INEP para a Competência I. Não foram identificadas falhas de estrutura sintática (truncamento, justaposição, excesso ou ausência de elementos sintáticos) que comprometam a fluidez da leitura de forma significativa. Contudo, a construção dos períodos não demonstra a complexidade esperada para uma estrutura sintática 'excelente'.\n\nEm relação aos desvios, foram identificados 8 desvios ao longo do texto, o que, considerando o 'conjunto textual' (19 linhas), se enquadra na categoria de 'alguns desvios'. Os desvios incluem problemas de escolha de registro, regência, ortografia e escolha vocabular imprecisa. A combinação de 'estrutura sintática regular' e 'alguns desvios' leva à atribuição de nota no Nível 3 da Competência I."
+        },
+        "competencia_2": {
+          "nota": 80,
+          "justificativa": "A redação compreende e desenvolve adequadamente o tema proposto, abordando a preservação da Amazônia e a dicotomia entre o desafio brasileiro e internacional, com um posicionamento claro. Contudo, a estrutura do texto dissertativo-argumentativo apresenta deficiências. Embora o texto possua introdução, desenvolvimento e conclusão, a introdução (2 linhas) e a conclusão (3 linhas) são consideradas partes embrionárias devido à sua pouca produção. De acordo com a grade específica da Competência II, a presença de 2 partes embrionárias limita a nota a 80 pontos (Nível 2). O repertório sociocultural utilizado é baseado em senso comum ou informações não legitimadas, o que, isoladamente, o classificaria no Nível 3, mas o problema estrutural do tipo textual é o fator limitante para a nota final."
+        },
+        "competencia_3": {
+          "nota": 80,
+          "justificativa": "A redação apresenta um ponto de vista claro em defesa da soberania brasileira sobre a Amazônia e da responsabilidade interna na sua preservação, criticando a proposta de internacionalização. No entanto, o projeto de texto demonstra muitas falhas na seleção, relação, organização e interpretação das informações, fatos e opiniões. Há uma tentativa de organizar as ideias (introdução do problema, crítica à França, proposta de solução interna), mas a progressão textual é prejudicada por argumentos pouco desenvolvidos e relações frágeis entre as ideias. Por exemplo, a afirmação de que o Brasil 'passará a sofrer pelos mesmos motivos' caso aceite a união internacional não é explicada ou fundamentada. O desenvolvimento dos argumentos é muito limitado, com a maioria das informações e opiniões sendo apenas enunciadas, sem desdobramentos ou exemplificações que as sustentem de forma consistente. Apenas a crítica à França, com a menção aos garimpos na Guiana, apresenta um indício de desenvolvimento de uma informação, mas não é suficiente para elevar a redação a níveis superiores, onde se espera o desenvolvimento de 'algumas' ou da 'maior parte' das informações. A combinação de um projeto de texto com muitas falhas e o desenvolvimento de apenas uma informação, fato ou opinião (ou a ausência de desenvolvimento para a maioria) justifica a nota 80."
+        },
+        "competencia_4": {
+          "nota": 80,
+          "justificativa": "A redação apresenta uma presença regular de elementos coesivos intra e interparágrafos, incluindo operadores argumentativos como 'porém', 'Todavia', 'porque', 'já que', 'mas', 'ou', 'Portanto', 'como' e 'pois'. Há uma tentativa de articular as ideias entre os parágrafos, utilizando conectivos no início de P2 ('porém'), P3 ('Todavia') e P4 ('Portanto').\n\nNo entanto, o texto é marcado por muitas repetições e muitas inadequações coesivas. As repetições são evidentes em erros de digitação de palavras inteiras ('Brasil Brasil', 'união união', 'queimadas queimadas', 'cabíveis cabíveis') e na redundância ('a tempos atrás praticadas há muito tempo'), o que prejudica a fluidez e demonstra falta de domínio dos recursos coesivos. Além disso, há inadequações no uso de conectivos, como o 'porém' no primeiro e segundo parágrafos, que estabelece relações semânticas forçadas ou imprecisas, não contribuindo efetivamente para a articulação argumentativa esperada. O longo período no terceiro parágrafo, com a sequência de 'porque', 'já que', 'mas', 'ou' e a repetição de 'de com', torna a articulação confusa e dificulta a compreensão das relações de sentido. A falta de diversidade lexical para as palavras-chave do tema também contribui para a percepção de um repertório coesivo limitado.\n\nDe acordo com a Grade Específica da Competência IV, a presença regular de elementos coesivos se alinha ao Nível 3, mas as 'muitas repetições' e 'muitas inadequações' são características do Nível 2. Seguindo a regra de atribuir a nota correspondente ao nível mais baixo quando há características de níveis diferentes, a redação é enquadrada no Nível 2 (80 pontos)."
+        },
+        "competencia_5": {
+          "nota": 80,
+          "justificativa": "A proposta de intervenção está presente no último parágrafo da redação e se relaciona ao tema e aos argumentos desenvolvidos, defendendo a responsabilidade brasileira na preservação da Amazônia. A proposta não desrespeita os direitos humanos.\n\nAo analisar os 5 elementos obrigatórios, identificamos:\n\n*   **Ação:** A ação proposta ('a ajuda da população', 'mantendo o país saudável') é considerada nula por ser excessivamente vaga e genérica. Não especifica o que a população deve fazer de forma concreta para 'ajudar' ou 'manter o país saudável', assemelhando-se a 'medidas devem ser tomadas' ou 'é preciso fazer alguma coisa', que o manual classifica como ações nulas.\n*   **Agente:** O agente ('a população') é explicitamente mencionado e é considerado um elemento válido, pois o manual aceita 'a sociedade', 'as pessoas' e 'nós' como atores sociais precisos.\n*   **Modo/Meio:** Não há um modo/meio concreto e específico de como a ação seria executada. A expressão 'mantendo o país saudável' é mais uma condição ou um estado geral do que uma maneira ou recurso prático para a realização da ação.\n*   **Efeito/Finalidade:** O efeito ('estaremos também ajudando essa floresta') é claramente expresso e é considerado um elemento válido, indicando o resultado pretendido da intervenção.\n*   **Detalhamento:** Não há detalhamento de nenhum dos elementos válidos (agente ou efeito) ou da ação nula.\n\nPortanto, a proposta de intervenção apresenta apenas 2 elementos válidos (Agente e Efeito). De acordo com a grade específica da Competência V, uma proposta com 2 elementos válidos recebe 80 pontos (Nível 2)."
+        }
+      },
+      "nota_final": 440,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa, posicionando-se a favor da soberania brasileira e da responsabilidade interna. Contudo, a avaliação geral revela deficiências significativas em diversas competências. Na Competência I, a nota de 120 reflete uma estrutura sintática regular, mas com alguns desvios gramaticais e de registro. A Competência II, com 80 pontos, foi limitada pela estrutura embrionária da introdução e conclusão, apesar da compreensão do tema. A Competência III também obteve 80 pontos devido a um projeto de texto com muitas falhas e argumentos pouco desenvolvidos. A Competência IV, com 80 pontos, foi prejudicada por muitas repetições e inadequações coesivas, apesar da presença regular de conectivos. Por fim, a Competência V, com 80 pontos, apresentou uma proposta de intervenção com apenas dois elementos válidos (agente e efeito), sendo a ação vaga e sem detalhamento. A nota final consolidada é de 440 pontos, indicando a necessidade de aprimoramento em aspectos estruturais, argumentativos e linguísticos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:30:45.098970",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 16,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 600,
+    "competencias_reais": [
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a0e1b2c3-d4e5-f6a7-8b9c-0d1e2f3a4b5c",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 120,
+          "justificativa": "A redação demonstra domínio mediano da modalidade escrita formal da língua portuguesa. A estrutura sintática foi avaliada como 'regular', pois, embora a fluidez da leitura não esteja comprometida na maior parte do texto, foram identificadas 5 falhas de estrutura sintática, principalmente por duplicação ou excesso de palavras/termos, o que impede a classificação como 'boa' ou 'excelente'. A construção dos períodos é funcional, mas não apresenta a complexidade esperada para os níveis superiores. Quanto aos desvios, foram contabilizados 10 desvios no total (incluindo as falhas de estrutura sintática), o que se enquadra na categoria de 'alguns desvios' conforme os critérios do manual. De acordo com a Grade Específica da Competência I, um texto que apresenta 'estrutura sintática regular E alguns desvios' é avaliado no Nível 3, correspondente a 120 pontos."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra excelente compreensão da proposta de redação e desenvolve o tema de forma completa e consistente. O candidato aborda a dualidade entre a soberania brasileira e a responsabilidade internacional pela Amazônia, posicionando-se claramente a favor da colaboração internacional e justificando essa escolha com argumentos bem articulados. A estrutura dissertativo-argumentativa é plenamente respeitada, com introdução, desenvolvimento e conclusão bem definidos e proporcionais, sem a presença de partes embrionárias, aglomerado de palavras ou traços constantes de outros tipos textuais. Além disso, o texto mobiliza repertório sociocultural legitimado e pertinente ao tema, como a menção ao 'Acordo de Paris', que é utilizado de forma produtiva para sustentar a argumentação sobre a importância dos laços internacionais para a preservação ambiental e os interesses brasileiros. A presença desse repertório produtivo, aliada à abordagem completa do tema e ao domínio da estrutura textual, justifica a atribuição da nota máxima nesta competência."
+        },
+        "competencia_3": {
+          "nota": 200,
+          "justificativa": "A redação apresenta um projeto de texto estratégico e um desenvolvimento consistente das informações, fatos e opiniões em todo o texto, configurando autoria. O participante estabelece um ponto de vista claro na introdução, defendendo a necessidade de cooperação internacional para a preservação da Amazônia e relativizando a questão da soberania nacional. Os argumentos são selecionados de forma pertinente (importância dos laços internacionais, Acordo de Paris, benefícios econômicos do turismo sustentável, imagem do Brasil) e são relacionados e organizados de maneira lógica e progressiva ao longo dos parágrafos. As ideias são interpretadas para sustentar a tese, como a desconsideração da soberania em prol de interesses maiores. O desenvolvimento dos argumentos é consistente, com as informações sendo desdobradas e explicadas, sem deixar para o leitor a tarefa de estabelecer as relações. Embora a citação de Confúcio na conclusão possa ser considerada um deslize pontual por sua generalidade em relação ao tema específico, ela não prejudica a progressão nem a estratégia argumentativa do texto, que se mantém coeso e coerente em sua defesa do ponto de vista. Assim, a redação atende plenamente aos critérios do Nível 5 da Competência III."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo dos mecanismos linguísticos necessários para a construção da argumentação, atendendo plenamente aos critérios do Nível 5 da Competência IV. Há uma presença expressiva de elementos coesivos, tanto intraparágrafos quanto interparágrafos, que contribuem significativamente para a articulação das ideias e a progressão argumentativa do texto. Foram identificados operadores argumentativos interparágrafos em pelo menos dois momentos ('Levando isso em conta' entre o segundo e o terceiro parágrafo, e 'Em uma última análise' entre o terceiro e o quarto parágrafo), cumprindo o requisito específico para a nota máxima. Além disso, todos os parágrafos contêm múltiplos elementos coesivos de diversos tipos, garantindo a articulação interna. As repetições de elementos coesivos, como a conjunção 'pois', são consideradas raras no sentido de não prejudicarem a fluidez ou a diversidade do repertório, uma vez que o texto apresenta uma gama variada de outros conectivos e recursos referenciais. Não foram identificadas inadequações coesivas, ou seja, os elementos utilizados estabelecem relações semânticas corretas e pertinentes à argumentação. As falhas gramaticais e de estrutura sintática presentes no texto (como 'pois pois' ou 'Considerando a prévia colocação esses aspectos') são penalizadas na Competência I, não configurando inadequação coesiva na Competência IV, pois a função articulatória pretendida é compreendida."
+        },
+        "competencia_5": {
+          "nota": 160,
+          "justificativa": "A proposta de intervenção apresentada na redação é clara, respeita os direitos humanos e está diretamente relacionada ao tema e aos argumentos desenvolvidos ao longo do texto. O participante propõe uma intervenção que se alinha com a defesa da cooperação internacional e da tomada de decisões racionais em relação à Amazônia. Foram identificados 4 dos 5 elementos obrigatórios:\n\n1.  **Agente:** 'a população' (válido, pois se refere a um ator social preciso, conforme as diretrizes atualizadas).\n2.  **Ação:** 'demonstre sua postura e influencie nas decisões dos nossos representantes para uma boa manutenção de laços internacionais' (válida, indica o que deve ser feito).\n3.  **Modo/Meio:** Ausente. Não há uma especificação clara de como a população deve demonstrar sua postura ou influenciar os representantes (ex: por meio de manifestações, votações, debates, etc.).\n4.  **Efeito/Finalidade:** 'para uma boa manutenção de laços internacionais' (válido, indica o objetivo da ação).\n5.  **Detalhamento:** 'com consequências benéficas a longo prazo mundial e nacionalmente' (válido, detalha o efeito, especificando a natureza e o alcance das consequências da manutenção dos laços internacionais).\n\nCom a presença de 4 elementos válidos (Agente, Ação, Efeito e Detalhamento), a proposta de intervenção se enquadra no Nível 4 da Competência V, correspondente a 160 pontos."
+        }
+      },
+      "nota_final": 880,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' de forma completa e consistente, defendendo a necessidade de cooperação internacional e relativizando a soberania nacional. O texto demonstra excelente domínio da estrutura dissertativo-argumentativa e mobiliza repertório sociocultural produtivo (Acordo de Paris). A argumentação é estratégica, com informações e opiniões bem relacionadas e organizadas, configurando autoria. Os mecanismos linguísticos para a construção da argumentação são expressivos, com uso eficaz de elementos coesivos inter e intraparágrafos. A proposta de intervenção é clara e respeita os direitos humanos, apresentando 4 dos 5 elementos necessários (Agente, Ação, Efeito e Detalhamento), mas carece de um Modo/Meio explícito. A principal área de melhoria reside na Competência I, onde foram identificadas falhas de estrutura sintática e desvios gramaticais que resultaram em uma nota mediana. No geral, a redação é de alta qualidade, com uma nota final de 880 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:32:40.603518",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 17,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 720,
+    "competencias_reais": [
+      160,
+      120,
+      160,
+      160,
+      120
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a1b2c3d4-e5f6-4789-9012-34567890abcd",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "A redação demonstra um domínio precário da modalidade escrita formal da Língua Portuguesa, caracterizado por uma estrutura sintática deficitária e a presença de muitos desvios gramaticais e de escolha de registro. Foram identificadas 7 falhas de estrutura sintática e 7 desvios gramaticais e de registro. A alta frequência de duplicações de palavras e excesso de elementos sintáticos prejudica significativamente a fluidez da leitura, configurando uma estrutura sintática deficitária. A quantidade de desvios, para um texto de 13 linhas, é considerada 'muitos', conforme os critérios da Competência I do ENEM. Assim, o texto se enquadra perfeitamente no descritor do Nível 1 da Matriz de Referência.",
+          "desvios_encontrados": [
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'Infelizmente Infelizmente' (início do 2º parágrafo)",
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'desapareceu desapareceram' (no trecho '17% da floresta amazônica desapareceu desapareceram')",
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'incêndios incêndios' (no trecho 'em cada 100 incêndios incêndios')",
+            "**Desvio Gramatical (Concordância Verbal):** '17% da floresta amazônica desapareceu' (o verbo deveria ser 'desapareceram' para concordar com '17%')",
+            "**Desvio Gramatical (Construção Verbal/Regência):** '99 % são de têm causa criminosa' (construção inadequada, deveria ser 'são de causa criminosa' ou 'têm causa criminosa')",
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'planeta, e planeta e' (no trecho 'temperatura no planeta, e planeta e')",
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'queimadas queimadas' (no trecho 'ao serem queimadas queimadas')",
+            "**Falha de Estrutura Sintática (Duplicação de palavra):** 'atmosfera atmosfera' (no trecho 'para a atmosfera atmosfera')",
+            "**Desvio de Escolha de Registro (Informalidade/Marca de Oralidade):** 'Então pode-se afirmar' (uso de 'Então' para iniciar um período em um texto formal)",
+            "**Desvio Gramatical (Regência/Excesso de preposição):** 'pelos direitos de pela preservação' (excesso de preposição, deveria ser 'pelos direitos de preservação' ou 'pela preservação')",
+            "**Desvio Gramatical (Crase):** 'combate à às queimadas' (uso indevido da crase, com repetição do 'a', deveria ser 'às queimadas')",
+            "**Falha de Estrutura Sintática (Excesso de palavras):** 'verba dinheiro' (redundância de termos com sentido similar)",
+            "**Desvio de Escolha de Registro (Informalidade/Marca de Oralidade):** 'Assim as fiscalizações' (uso de 'Assim' para iniciar um período em um texto formal)",
+            "**Desvio Gramatical (Crase):** 'punição a empresas clandestinas' (ausência de crase, deveria ser 'às empresas')"
+          ]
+        },
+        "competencia_2": {
+          "nota": 40,
+          "justificativa": "A redação tangencia o tema proposto. Embora aborde a 'Preservação da Amazônia' e a necessidade de 'ajuda internacional' para o Brasil, o texto não se aprofunda na discussão central do dilema 'Desafio brasileiro ou internacional?' no que tange ao 'status de território internacional' da Amazônia, conforme explicitamente questionado na proposta de redação. O participante foca na colaboração e financiamento externo para a preservação sob soberania brasileira, mas evita a confrontação direta sobre a possibilidade de a Amazônia 'ganhar status internacional'. Essa abordagem parcial e incompleta do tema principal enquadra a redação no Nível 1 da Competência II. Apesar de apresentar uma estrutura dissertativo-argumentativa com introdução, desenvolvimento e conclusão, e de mobilizar repertório sociocultural legitimado e pertinente (série 'Aruanas', dados do INPE), a tangência temática é o fator determinante para a atribuição da nota.",
+          "analise_tema": "O texto aborda a 'Preservação da Amazônia' de forma adequada, mencionando desmatamento, queimadas e a importância climática. Contudo, a abordagem do segundo elemento do tema, 'Desafio brasileiro ou internacional?', é incompleta. O participante reconhece a dimensão internacional do problema e a necessidade de contribuição e ajuda de outros países para o Brasil, mas não discute ou toma posição sobre a questão do 'status internacional' da Amazônia, que é um ponto central do dilema proposto. Ao focar apenas na necessidade de apoio externo para a gestão brasileira, sem debater a soberania versus internacionalização do território, o texto tangencia o tema."
+        },
+        "competencia_3": {
+          "nota": 40,
+          "justificativa": "A redação tangencia o tema proposto, conforme já identificado na Competência II, pois aborda a preservação da Amazônia e a necessidade de ajuda internacional para o Brasil, mas não se aprofunda na discussão sobre o 'status de território internacional' da Amazônia, que era o cerne do dilema. No entanto, o texto apresenta uma direção clara e um ponto de vista consistente dentro da abordagem parcial que escolheu. O participante seleciona informações (série 'Aruanas', dados do INPE sobre desmatamento e queimadas criminosas), relaciona-as à importância da Amazônia para o equilíbrio climático global e organiza suas ideias para defender a necessidade de cooperação internacional e apoio financeiro ao Brasil para combater o problema. As ideias progridem de uma contextualização do problema para a sua relevância global e, finalmente, para a proposição de soluções que envolvem a contribuição de outros países. Não há informações caóticas ou desconexas que impeçam a percepção de uma linha de raciocínio. Por ser tangente ao tema, a redação não pode ultrapassar o Nível 1 da Competência III, e a presença de uma direção clara a enquadra neste nível.",
+          "argumentos_identificados": [
+            "O problema da preservação da Amazônia (desmatamento e queimadas criminosas) é grave e real, como retratado na série 'Aruanas' e confirmado por dados do INPE.",
+            "A Amazônia é crucial para o controle da temperatura global e o equilíbrio climático, o que torna sua preservação um problema de dimensão internacional.",
+            "O Brasil não possui recursos financeiros suficientes para resolver o problema do desmatamento e das queimadas de forma efetiva.",
+            "A solução para a preservação da Amazônia reside na contribuição e ajuda de países vizinhos e da comunidade internacional, visando o reflorestamento, a intensificação de fiscalizações e a punição de empresas clandestinas."
+          ]
+        },
+        "competencia_4": {
+          "nota": 40,
+          "justificativa": "A redação demonstra um uso precário dos mecanismos linguísticos necessários para a construção da argumentação, enquadrando-se no Nível 1 da Competência IV. Embora apresente alguns elementos coesivos intraparágrafos, como conectivos de adição ('também'), de explicação/justificativa ('uma vez que', 'já que'), de introdução de informação ('De acordo com o INPE', 'Vale ressaltar que') e de conclusão ('Então', 'Assim'), a articulação do texto é severamente prejudicada por 'excessivas repetições'. As duplicações de palavras adjacentes ('Infelizmente Infelizmente', 'desapareceu desapareceram', 'incêndios incêndios', 'planeta, e planeta e', 'queimadas queimadas', 'atmosfera atmosfera') e a redundância lexical ('verba dinheiro') são muito frequentes e concentradas para um texto de apenas 13 linhas, tornando a leitura cansativa e comprometendo a fluidez e a clareza da argumentação. Além disso, a coesão interparágrafos é básica, sem o uso de operadores argumentativos explícitos que estabeleçam relações semânticas mais complexas entre os parágrafos. A falta de diversidade no repertório coesivo e a predominância de repetições que não contribuem para a progressão argumentativa justificam a atribuição da nota 40.",
+          "problemas_coesao": [
+            "**Repetição excessiva (duplicação de palavras):** 'Infelizmente Infelizmente' (P2, linha 2) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (duplicação de palavras):** 'desapareceu desapareceram' (P2, linha 3) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (duplicação de palavras):** 'incêndios incêndios' (P2, linha 4) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (duplicação de palavras):** 'planeta, e planeta e' (P3, linha 6) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (duplicação de palavras):** 'queimadas queimadas' (P3, linha 6) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (duplicação de palavras):** 'atmosfera atmosfera' (P3, linha 7) - prejudica a fluidez e a diversidade lexical.",
+            "**Repetição excessiva (redundância lexical):** 'verba dinheiro' (P4, linha 11) - demonstra falta de precisão lexical e empobrece o repertório.",
+            "**Coesão interparágrafos precária:** As transições entre os parágrafos são feitas de forma básica ('o problema retratado pela série' do P1 para P2; 'Vale ressaltar que' do P2 para P3; 'Como resolver essa situação difícil?' do P3 para P4), sem a presença de operadores argumentativos explícitos que articulem as ideias de forma mais elaborada entre os blocos textuais."
+          ]
+        },
+        "competencia_5": {
+          "nota": 40,
+          "justificativa": "A proposta de intervenção, embora apresente 4 elementos válidos (agente, ação, efeito e detalhamento), é avaliada no Nível 1 (nota 40) da Competência V. Isso ocorre porque o texto tangencia o tema proposto, conforme já identificado na Competência II. A Matriz de Referência estabelece que, se um texto é considerado tangente ao tema, a proposta de intervenção, mesmo que contenha um ou mais elementos válidos, não pode ultrapassar o Nível 1. A proposta foca na necessidade de contribuição e ajuda internacional para o Brasil combater o desmatamento e as queimadas, mas não aborda a discussão central do tema sobre o 'status de território internacional' da Amazônia ou a soberania brasileira versus internacionalização, que era o dilema principal.",
+          "elementos_presentes": {
+            "agente": "presente - 'os países vizinhos' são claramente identificados como os atores sociais que devem executar a ação.",
+            "acao": "presente - 'contribuir com o Brasil no combate à às queimadas e ao desmatamento ilegal' é a ação prática proposta para enfrentar o problema.",
+            "modo_meio": "ausente - O texto não especifica a maneira ou os recursos pelos quais a contribuição dos países vizinhos será realizada (ex: por meio de investimentos financeiros, tecnologia, envio de equipes). A menção à intensificação de fiscalizações, controle e punição são resultados da ajuda, não o meio da ajuda em si.",
+            "efeito": "presente - 'para o reflorestamento da Amazônia' e 'as fiscalizações, o controle de queimadas e a punição a empresas clandestinas que desmatam de forma ilegal vão ser intensificados' são os resultados pretendidos pela ação proposta.",
+            "detalhamento": "presente - 'já que o Brasil não possui verba dinheiro suficiente para resolver o problema de forma efetiva' é uma justificativa para a necessidade da ação, detalhando o contexto do agente (Brasil) e a urgência da contribuição."
+          },
+          "respeito_direitos_humanos": "sim - A proposta sugere cooperação internacional, fiscalização e punição para atividades ilegais, o que está em conformidade com os direitos humanos e a legislação."
+        }
+      },
+      "nota_final": 200,
+      "resumo_executivo": "A redação obteve uma nota final de 200 pontos, com 40 pontos em cada uma das cinco competências. Este resultado reflete um desempenho precário em diversos aspectos. Na Competência I, o texto demonstrou domínio insuficiente da modalidade escrita formal, com múltiplos desvios gramaticais e falhas sintáticas. As Competências II e III foram severamente impactadas pelo tangenciamento do tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', pois o participante não abordou o dilema central sobre o 'status internacional' da Amazônia, focando apenas na necessidade de cooperação e financiamento externo. A Competência IV foi prejudicada pela coesão precária, marcada por repetições excessivas e falta de operadores argumentativos elaborados. Por fim, a Competência V, apesar de apresentar 4 dos 5 elementos da proposta de intervenção (agente, ação, efeito e detalhamento), não pôde superar o Nível 1 devido ao tangenciamento temático, limitando sua pontuação a 40 pontos. A proposta de intervenção respeita os direitos humanos."
+    },
+    "timestamp": "2025-12-08T22:35:00.865477",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 18,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 560,
+    "competencias_reais": [
+      0,
+      160,
+      160,
+      160,
+      80
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "f8e7d6c5-b4a3-2109-8765-4321fedcba98",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 40,
+          "justificativa": "O texto apresenta uma estrutura sintática deficitária, caracterizada por quatro falhas significativas: excesso de palavras ('os que os líderes europeus' no parágrafo 2 e 'que convém que convém' no parágrafo 4) e duplicação de palavras ('séculos, séculos' no parágrafo 2 e 'país, país' no parágrafo 3). Essas falhas comprometem a fluidez e a clareza da leitura. Além disso, foram identificados muitos desvios (total de 16), com predominância de desvios de escolha de registro (12 ocorrências), que incluem informalidades e um tom inadequado para a modalidade escrita formal ('gringos', 'terra de índio', 'ladainha furada', 'vai pôr a mão', uso de exclamações, 'zerados', 'pseudoambientalistas de terno e gravata', 'vilões do desmatamento', 'está cheio de informações falsas', 'verdes e em pé', e a frase final 'fique você, Macron, com o que sobrou da catedral de Notre Dame.'). Há também um desvio de convenção da escrita (uso de minúscula em 'amazônia'), dois desvios gramaticais (vírgula indevida e concordância verbal) e um desvio de escolha vocabular ('visto' no lugar de 'haja vista'). A combinação de uma estrutura sintática deficitária com muitos desvios enquadra o texto no Nível 1 da Competência I, conforme a grade específica de avaliação."
+        },
+        "competencia_2": {
+          "nota": 120,
+          "justificativa": "O texto demonstra uma compreensão completa da proposta de redação, abordando de forma explícita e consistente o tema \"Preservação da Amazônia: Desafio brasileiro ou internacional?\". O participante posiciona-se claramente a favor da soberania brasileira sobre a Amazônia, refutando a ideia de internacionalização e criticando a postura de líderes europeus. A estrutura dissertativo-argumentativa é respeitada, com a presença de introdução, desenvolvimento e conclusão, e nenhuma dessas partes é considerada embrionária, apresentando uma progressão lógica das ideias. No entanto, o repertório sociocultural mobilizado pelo participante é predominantemente não legitimado. As afirmações sobre a história de exploração europeia, a preservação das florestas brasileiras e a rigidez das leis ambientais são apresentadas como fatos, mas sem respaldo em áreas do conhecimento, citações de autoridades, dados específicos ou referências culturais legitimadas. A menção à Catedral de Notre Dame, embora seja um fato atual, é utilizada de forma informal e não produtiva para a argumentação, servindo mais como um recurso retórico do que como um elemento de repertório legitimado e pertinente. Dessa forma, a abordagem completa do tema e a estrutura adequada, combinadas com a ausência de repertório legitimado e pertinente, enquadram a redação no Nível 3 da Competência II."
+        },
+        "competencia_3": {
+          "nota": 120,
+          "justificativa": "O participante demonstra ter um projeto de texto perceptível, com um ponto de vista claro e consistente em defesa da soberania brasileira sobre a Amazônia e contra a internacionalização. As ideias são selecionadas e organizadas para refutar a crítica externa e defender a gestão ambiental do Brasil. No entanto, o projeto de texto apresenta algumas falhas, principalmente na falta de aprofundamento e hierarquização estratégica dos argumentos. Muitas afirmações são categóricas e generalistas, como a defesa das leis ambientais brasileiras ou o papel dos produtores rurais, sem o devido desdobramento ou fundamentação que as tornaria mais persuasivas. O desenvolvimento das informações, fatos e opiniões ocorre apenas em algumas partes do texto. Embora haja uma tentativa de relacionar a proposta de internacionalização com um histórico de exploração europeia, outros argumentos cruciais são apresentados de forma assertiva, mas sem aprofundamento, deixando para o leitor a tarefa de preencher as lacunas e aceitar as premissas sem evidências concretas. Essa combinação de um projeto de texto com algumas falhas e o desenvolvimento parcial dos argumentos enquadra a redação no Nível 3 da Competência III."
+        },
+        "competencia_4": {
+          "nota": 80,
+          "justificativa": "A redação apresenta uma presença de elementos coesivos que pode ser considerada regular dentro dos parágrafos, utilizando conectivos básicos como 'e', 'que', 'para', 'mas', 'porque', 'com', além de pronomes e referências lexicais para articular as ideias em nível frasal e intraparágrafo. No entanto, a articulação entre os parágrafos é precária, com a ausência de operadores argumentativos explícitos que estabeleçam relações claras de sentido entre um parágrafo e o seguinte. As transições entre os blocos textuais são, em sua maioria, por justaposição ou por retomadas referenciais implícitas, o que enfraquece a progressão argumentativa global do texto. Além disso, o texto demonstra 'muitas repetições' de vocábulos e expressões, como 'séculos, séculos' (P2), 'extrair! Extrair' (P2), 'país, país' (P3), 'mundo. mundo!' (P3), 'que a eles convém que convém' (P4) e 'amazônia Amazônia' (P5). Essas repetições são frequentes e imediatas, prejudicando a fluidez da leitura e evidenciando um repertório coesivo limitado. Foi identificada também uma inadequação coesiva no uso da expressão 'visto haja vista' (P2), que combina de forma equivocada dois elementos distintos, gerando instabilidade semântica. A combinação de uma articulação interparágrafos frágil, muitas repetições e uma inadequação coesiva impede que o texto alcance níveis mais altos, enquadrando-o no Nível 2 da Competência IV, conforme a grade específica de avaliação."
+        },
+        "competencia_5": {
+          "nota": 0,
+          "justificativa": "O texto não apresenta nenhuma proposta de intervenção explícita para o problema abordado. O participante foca exclusivamente na defesa da soberania brasileira sobre a Amazônia e na crítica à intervenção estrangeira, sem propor ações concretas, agentes, meios ou finalidades para enfrentar o desafio da preservação ou a questão da internacionalização. A redação é puramente argumentativa, expressando um ponto de vista e defendendo-o, mas não cumpre o requisito de elaborar uma iniciativa que busque, mesmo que minimamente, enfrentar o problema. Consequentemente, nenhum dos 5 elementos obrigatórios (agente, ação, modo/meio, efeito/finalidade e detalhamento) é identificado. Embora o texto não desrespeite os direitos humanos de forma explícita em suas afirmações, a ausência total de uma proposta de intervenção leva à atribuição da nota 0, conforme os critérios da Competência V."
+        }
+      },
+      "nota_final": 360,
+      "resumo_executivo": "A redação aborda o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?' com um posicionamento firme em defesa da soberania brasileira e crítica à intervenção externa. Contudo, a avaliação revela deficiências significativas em diversas competências. Na Competência I (40 pontos), o texto apresenta estrutura sintática deficitária e muitos desvios de registro e gramaticais, comprometendo a formalidade. Na Competência II (120 pontos), a compreensão do tema e a estrutura dissertativo-argumentativa são adequadas, mas o repertório sociocultural é não legitimado. Na Competência III (120 pontos), há um projeto de texto perceptível, mas com falhas no aprofundamento e hierarquização dos argumentos. A Competência IV (80 pontos) é prejudicada pela articulação precária entre os parágrafos e pela repetição excessiva de vocábulos. Por fim, a Competência V (0 pontos) não apresenta nenhuma proposta de intervenção, resultando na nota mínima. A nota final consolidada é de 360 pontos.",
+      "status": "completa"
+    },
+    "timestamp": "2025-12-08T22:37:22.977459",
+    "status": "sucesso"
+  },
+  {
+    "redacao_index": 19,
+    "prompt_id": 6,
+    "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+    "modo_avaliacao": "com_rag",
+    "nota_real": 760,
+    "competencias_reais": [
+      160,
+      120,
+      160,
+      160,
+      160
+    ],
+    "avaliacao_sistema": {
+      "avaliacao_id": "a9b8c7d6-e5f4-3210-1234-567890abcdef",
+      "tema": "Preservação da Amazônia: Desafio brasileiro ou internacional?",
+      "modo_avaliacao": "baseline",
+      "competencias": {
+        "competencia_1": {
+          "nota": 160,
+          "justificativa": "A redação demonstra um bom domínio da modalidade escrita formal da língua portuguesa. A estrutura sintática é excelente, com períodos bem construídos, complexos e fluidos, sem a presença de falhas de estrutura sintática (truncamentos, justaposições ou ausência/excesso de elementos sintáticos que comprometam a compreensão). No entanto, foram identificados 4 desvios gramaticais. Embora a estrutura sintática seja de nível 5, a quantidade de desvios (4) excede o limite de 'no máximo dois desvios' para o nível 5. Conforme a grade específica da Competência I e os exemplos do manual (como o Exemplo 69), 4 desvios são considerados 'poucos desvios', característicos do nível 4. Ao apresentar características de dois níveis diferentes (estrutura sintática excelente – Nível 5 – e poucos desvios – Nível 4), o texto deve ser avaliado no nível inferior, resultando na nota 160."
+        },
+        "competencia_2": {
+          "nota": 200,
+          "justificativa": "A redação demonstra excelente compreensão da proposta temática e um domínio exemplar da estrutura dissertativo-argumentativa. O texto aborda de forma completa o tema \"Preservação da Amazônia: Desafio brasileiro ou internacional?\", discutindo a questão da soberania brasileira versus a internacionalização da floresta e apresentando argumentos consistentes para defender seu ponto de vista. A estrutura textual é impecável, com introdução, desenvolvimento e conclusão bem definidos e proporcionais, sem a presença de partes embrionárias. Além disso, o participante mobiliza repertório sociocultural legitimado e pertinente ao tema (mencionando a NASA e o Protocolo de Kyoto), utilizando-o de forma produtiva para embasar sua argumentação, o que eleva a qualidade da discussão. Todos os critérios para o Nível 5 da Competência II são plenamente atendidos."
+        },
+        "competencia_3": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um projeto de texto estratégico e um desenvolvimento consistente das informações, fatos e opiniões em todo o texto, configurando autoria. O participante seleciona argumentos pertinentes (interesse econômico, ineficácia de pactos internacionais) e os organiza de forma lógica e hierárquica para defender seu ponto de vista contra a internacionalização da Amazônia e em favor da soberania brasileira. As ideias são bem relacionadas e interpretadas, como a contextualização da NASA e o uso do Protocolo de Kyoto como evidência. O desenvolvimento dos argumentos é completo, com explicações e exemplos que fundamentam as afirmações, sem deixar para o leitor a tarefa de estabelecer conexões. A progressão textual é fluida e coerente, culminando em propostas de intervenção claras e alinhadas à tese. Não há falhas de projeto ou desenvolvimento que prejudiquem a estratégia ou a compreensão do texto, apenas a possibilidade de pequenos deslizes pontuais que não comprometem o nível máximo."
+        },
+        "competencia_4": {
+          "nota": 200,
+          "justificativa": "A redação demonstra um conhecimento expressivo e estratégico dos mecanismos linguísticos necessários para a construção da argumentação, atingindo o nível máximo da Competência IV. Há uma presença constante e diversificada de elementos coesivos, tanto intraparágrafos quanto interparágrafos, que articulam as ideias de forma fluida e coerente. O participante utiliza operadores argumentativos de maneira eficaz para estabelecer relações lógicas entre os parágrafos, como 'Por esse motivo' (P1-P2, relação causal/conclusiva), 'Além disso' (P2-P3, relação aditiva) e 'Nesse sentido' (P3-P4, relação conclusiva/contextualizadora). A presença de três operadores argumentativos interparágrafos atende e supera o requisito de 'pelo menos, 02 momentos do texto' para o Nível 5. Internamente, todos os parágrafos apresentam múltiplos elementos coesivos (pronomes, advérbios, conjunções, substituições lexicais) que garantem a progressão temática e a articulação das ideias. Não foram identificadas repetições problemáticas de operadores argumentativos ou de termos que prejudiquem a fluidez textual, e as retomadas de 'Amazônia' são feitas com variedade lexical ('a maior parte da floresta amazônica', 'a maior floresta tropical do mundo'). Além disso, não há inadequações no uso dos recursos coesivos, que contribuem de forma precisa para a orientação argumentativa do texto."
+        },
+        "competencia_5": {
+          "nota": 200,
+          "justificativa": "A proposta de intervenção elaborada pelo participante é muito bem detalhada e plenamente articulada com o tema e os argumentos desenvolvidos no texto. O autor apresenta duas propostas de intervenção, sendo a segunda a mais completa e, portanto, a considerada para a avaliação. Esta proposta contém os 5 elementos obrigatórios de forma clara e explícita, respeitando integralmente os direitos humanos e oferecendo soluções concretas para o problema da preservação da Amazônia, alinhadas à defesa da soberania brasileira. A articulação com a discussão desenvolvida é evidente, pois as propostas visam a preservar a Amazônia 'sem a necessidade de internacionalizá-la', reforçando a tese central do texto."
+        }
+      },
+      "nota_final": 960,
+      "resumo_executivo": "A redação aborda de forma excelente o tema 'Preservação da Amazônia: Desafio brasileiro ou internacional?', demonstrando compreensão integral da proposta e um projeto de texto estratégico. O participante mobiliza repertório sociocultural pertinente e constrói uma argumentação consistente em defesa da soberania brasileira e contra a internacionalização da Amazônia. Os mecanismos linguísticos para a construção da argumentação são utilizados de forma expressiva e estratégica, garantindo fluidez e coerência. A proposta de intervenção é completa, detalhada e plenamente articulada com a discussão, respeitando os direitos humanos. Houve um bom domínio da modalidade escrita formal, com estrutura sintática excelente, mas a presença de 4 desvios gramaticais levou à atribuição de 160 pontos na Competência 1, em vez de 200. No geral, a redação alcançou uma nota final de 960 pontos, evidenciando alta qualidade textual e argumentativa."
+    },
+    "timestamp": "2025-12-08T22:39:03.699963",
+    "status": "sucesso"
+  }
+]
